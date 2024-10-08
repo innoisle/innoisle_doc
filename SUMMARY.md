@@ -1,11 +1,15 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome to innoisle!](README.md)
 
-## Getting Started
+## BearTech
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Magmount Description and Installation Guide](beartech/magmount.md)
+* [Publish your docs](beartech/publish-your-docs.md)
+
+***
+
+* [Page](page.md)
 
 ## Basics
 
