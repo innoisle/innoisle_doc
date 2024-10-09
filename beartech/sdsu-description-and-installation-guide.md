@@ -22,11 +22,11 @@ For complete detail, please read this article:&#x20;
 
 {% embed url="https://github.com/wocsor/panda/tree/smart_dsu" %}
 
-All the electronic components on this device are AEC-Q100 & AEC-Q200 qualified. All the connecting parts are from original equipment manufacturers. Assembled in Canada. 3D printed case with ASA automotive grade and UV resistant plastic.
+All the electronic components from innoisle on this device are AEC-Q100 & AEC-Q200 qualified. All the connecting parts are from original equipment manufacturers. Assembled in Canada. 3D printed case with ASA automotive grade and UV resistant plastic.
 
 ## Notice
 
-Comma released a new update for their official branch 0.9.7. SDSU will no longer be supported.
+Comma released a new update for their official branch 0.9.7. SDSU will no longer be supported in the official openpilot.
 
 If you would like to continue to use SDSU, please switch to SunnyPilot or FrogPilot.
 
@@ -34,26 +34,40 @@ See all available branches here:
 
 {% embed url="https://bderkhan.com/comma-ai-openpilot/" %}
 
-For comparison which branch to use:
+For comparison, which branch to use:
 
 {% embed url="https://bderkhan.com/frogpilot-vs-sunnypilot/" %}
 
 ## **Currently support vehicle**
 
-#### All Toyota vehicles except:
+#### Toyota:
 
-* Camry
-* Rav4 2019 and after
+* Toyota Avalon 2016-2021
+* Toyota Avalon Hybrid 2019-2021
+* Toyota Corolla 2017-2019
+* Toyota Highlander (and Hybird) 2017-2019
+* Toyota Prius 2016-2020
+* Toyota Prius Prime 2017-2020
+* Toyota Prius V 2017
+* Toyota Rav4 (and Hybird) 2016-2018
+* Toyota Sienna 2018-2020
+
+**Lexus:**
+
+* Lexus ES (and Hybird) 2017-2018
+* Lexus CT Hybrid 2017-2018
+* Lexus NX (and Hybird) 2018-2019
+* Lexus RX (and Hybird) 2016-2019
 *
 
 ## Installation Guide
 
 #### Toyota:&#x20;
 
-For installation, Jason Moreau made a wonderful video on how to install my Smart DSU and Pedal on his Rav4. He used our older version pedal and SDSU, but the installation method is similar. Please refer to his video:&#x20;
+For installation, Jason Moreau made a wonderful video on how to install my Smart DSU and Pedal on his Rav4. He used our older version of the pedal and SDSU, but the installation method is similar. Please refer to his video:&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=ftkKeD9NGl4" %}
 
 ## **Warning:**
 
-SDSU only adds longitudinal control to your existing openpilot setup. The Wiring is as-is. The listing will not guaranty working for your car. Please confirm that the wiring fits your car before purchase. This product is only rated for off-road use. Any accident or damage caused by this product is at the buyer's own risk.
+SDSU only adds longitudinal control to your existing openpilot setup. The Wiring is as-is. The listing will not guarantee that it will work for your car. Please confirm that the wiring fits your car before purchase. This product is only rated for off-road use. Any accident or damage caused by this product is at the buyer's own risk.

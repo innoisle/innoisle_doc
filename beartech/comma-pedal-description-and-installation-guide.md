@@ -20,7 +20,7 @@ For complete detail, please read this article:&#x20;
 
 {% embed url="https://github.com/commaai/openpilot/wiki/comma-pedal" %}
 
-All the electronic components on this device are AEC-Q100 & AEC-Q200 qualified. All the connecting parts are from original equipment manufacturers. Assembled in Canada. 3D printed case with ASA automotive grade and UV resistant plastic.
+All the electronic components from innoisle on this device are AEC-Q100 & AEC-Q200 qualified. All the connecting parts are from original equipment manufacturers. Assembled in Canada. 3D printed case with ASA automotive grade and UV resistant plastic.
 
 ## Notice
 
@@ -53,12 +53,16 @@ If you need the individual harness, you can find it at : [https://shop.tlbb.ca/p
 
 #### Toyota:
 
-* Avalon 2016-2021
-* Avalon Hybrid 2019-2021
-* Corolla 2017-2019
-* Rav4 2016-2018
-* Prius 2016-2020
-* Prius Prime 2017-2020
+* Toyota Avalon 2016-2021
+* Toyota Avalon Hybrid 2019-2021
+* Toyota Corolla 2017-2019
+* Toyota Rav4 2016-2018
+* Toyota Prius 2016-2020
+* Toyota Prius Prime 2017-2020
+* ToyotaPrius v 2017
+
+**Lexus:**
+
 * Lexus ES350 (and hybird)  2017-2018
 * Lexus CT Hybird 2017-2018
 * Lexus NX  (and hybird) 2018-2019
@@ -67,26 +71,28 @@ If you need the individual harness, you can find it at : [https://shop.tlbb.ca/p
 #### Honda:&#x20;
 
 * Honda CRV 2015-2016
-* Honda Ridgeline 2017-2021
-* Honda Pilot 2017-2021
+* Honda Ridgeline 2017-2024
+* Honda Pilot 2016-2022
 * Honda Odyssey 2018-2020
-* Honda Passport 2019
+* Honda Passport 2019-2023
 * Honda HRV 2019-2022
 * Honda Civic 2016-2018
 * Honda Clarity 2016-2020
-* Honda Fit
+* Honda Fit 2018-2020
+* Honda Freed 2020
 * Honda Accord
+* Honda Clarity
 
 #### Acura:&#x20;
 
 * Acura ILX 2016-2022
-* Acura RDX&#x20;
+* Acura RDX 2016-2018
 
-#### VW:&#x20;
+#### Volkswagen:&#x20;
 
 * VW PQ platform&#x20;
 
-Tesla:&#x20;
+**Tesla**:&#x20;
 
 * Tesla Pre-AP
 
@@ -105,6 +111,8 @@ Or you can refer to Kevin's video on installing the pedal on Toyota. All install
 {% embed url="https://www.youtube.com/watch?v=OxEhBRE1znE&ab_channel=Wocsor" %}
 
 #### Chevy Bolt:&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=R7yDL2SDtaY" %}
 
 {% embed url="http://www.youtube.com/watch?v=5D21wzCcycE" %}
 
