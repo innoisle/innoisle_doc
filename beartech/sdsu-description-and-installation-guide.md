@@ -1,5 +1,5 @@
 ---
-icon: engine-warning
+icon: engine
 ---
 
 # SDSU Description and Installation Guide
