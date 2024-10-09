@@ -65,7 +65,7 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 
 </div>
 
-* Allen Key x1 (Adjust set screw)
+4. Allen Key x1 (Adjust set screw)
 
 <div align="left">
 
@@ -279,7 +279,7 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 7. Use the Dry wipes **(VHB Tape pack)** to further clean the same area on the windshield
 8. Use the IPA wipes **(VHB Tape pack)** to thoroughly clean the marked area on the windshield
 9. Apply the Static film **(VHB Tape pack)** to the windshield. **Note**: If temperatures exceed 40°C (104°F), avoid using the static film.
-10. Take the Windshield Side Mount and the Windshield Side Mount cover (DO NOT open it up yet).
+10. Take the Windshield Side Mount and the Windshield Side Mount cover **(DO NOT open it up yet)**.
 11. Wipe the back of the Windshield Side Mount with the IPA wipe.
 12. Stick the VHB tape to the Windshield Side Mount
 13. Attach the Windshield Side Mount to the Static film you applied in step 9
@@ -317,4 +317,41 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 
 23. Please keep the Windshield Side Mount Cover for future use. Reattach it after removing the Comma Device to prevent short-circuiting the mount.
 
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
+#### Magmount Dummy Side Installation Guide
+
+1. Choose a location to store your Comma Device.
+2. Clean the surface using the Wet & Dry Wipes and IPA Wipes **(VHB Tape pack)**.
+3. If attaching to a window or glass surface, you may use a static film. For other surfaces, use it with the adhesion promoter **(adhesion promoter pack)**.
+4. Take the Dummy Side Mount and apply a piece of VHB Tape **(VHB Tape pack)** to it.
+5. Now you can use the Dummy Mount to securely store your Comma Device when it’s not in use!
+
+## Warnings and Cautions
+
+1. Magnets:
+   1. Warning: The strong magnets in this product can cause severe pinching injuries. Always handle with care and avoid placing fingers near the magnetic connection points. Do not play with the magnets, as they can attract unexpectedly and lead to injury.
+   2. Caution: Keep all magnetic components away from electronic devices, credit cards, and other magnetic-sensitive materials. Failure to do so may result in damage to these items.
+   3. Caution: Store the device away from children and pets to prevent accidental injury or ingestion.
+2. Adhesion Promoter:
+   1. Warning: Keep out of reach of children. Always use provided gloves during application. This product is highly flammable; keep away from heat sources and open flames. Causes serious eye irritation and may result in an allergic skin reaction. It may be fatal if swallowed and enters airways. May cause drowsiness or dizziness, and has potential reproductive effects. Long-term exposure may damage sensory organs and the nervous system.
+3. Type-C Cables:
+   1. Warning: Keep out of reach of children. Do not pull the cable with excessive force, and ensure the cable is firmly attached to prevent damage.
+4. VHB Tape:
+   1. Warning: Keep out of reach of children.
+   2. Caution: Ensure the bonding surface is clean and dry before applying the VHB tape for optimal adhesion.
+5. Thread Locker:
+   1. Warning: Keep out of reach of children.
+   2. Hazard Statements: Causes serious eye irritation and may cause an allergic skin reaction.
+6. Static Cling Film:
+   1. Warning: Keep out of reach of children.
+
+#### General Safety
+
+* Caution: Always follow the installation instructions carefully. Improper installation may lead to device malfunction, damage to your vehicle, or personal injury.
+* Caution: Ensure that the mount is securely attached before driving. Regularly check for any signs of wear or loosening.
+* Warning: Do not overload the mount or exceed the weight limit of the device. This could cause the mount to detach unexpectedly while in use.
+* Caution: Avoid using the device in extreme weather conditions (e.g., excessive heat or cold) that may affect its performance and adhesion.
+* Caution: Be aware of your surroundings when installing or removing the mount to prevent accidents or injuries.
+
+#### Liability Disclaimer
+
+Warning: The manufacturer is not responsible for any injuries, damages, or malfunctions resulting from improper installation, use, or handling of this product. Use at your own risk.
