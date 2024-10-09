@@ -30,11 +30,11 @@ I have released my harness box; please choose the correct one for purchase.
 
 There are two versions, 2x9 pin (new version by comma) and 2x13 pin (old version by comma). Please check your harness before ordering.
 
-If you need the individual harness, you can find it at : [https://shop.tlbb.ca/products/openpilot-harness-box-v1-2x13-pin-and-v2-2x9-pin-with-rj-45-port](https://shop.tlbb.ca/products/openpilot-harness-box-v1-2x13-pin-and-v2-2x9-pin-with-rj-45-port)
+If you need the individual harness box, you can find it at : [https://shop.tlbb.ca/products/openpilot-harness-box-v1-2x13-pin-and-v2-2x9-pin-with-rj-45-port](https://shop.tlbb.ca/products/openpilot-harness-box-v1-2x13-pin-and-v2-2x9-pin-with-rj-45-port)
 
 **A Splitter is needed except for Chevy Bolt and Chevy Bolt EUV.**
 
-\*Pedals will not be refunded with the issue of using a wrong splitter.
+\*Pedals will not be refunded for the issue of using the wrong splitter.
 
 ## **Currently support vehicle**
 

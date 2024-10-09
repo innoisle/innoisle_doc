@@ -34,7 +34,7 @@ See all available branches here:
 
 {% embed url="https://bderkhan.com/comma-ai-openpilot/" %}
 
-For comparison, which branch to use:
+For comparison about which branch to use:
 
 {% embed url="https://bderkhan.com/frogpilot-vs-sunnypilot/" %}
 
@@ -58,7 +58,8 @@ For comparison, which branch to use:
 * Lexus CT Hybrid 2017-2018
 * Lexus NX (and Hybird) 2018-2019
 * Lexus RX (and Hybird) 2016-2019
-*
+
+
 
 ## Installation Guide
 

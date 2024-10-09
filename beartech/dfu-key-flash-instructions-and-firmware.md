@@ -8,64 +8,58 @@ icon: key
 
 ## Where to buy
 
-Link to my Store:&#x20;
+Link to my Store: [https://shop.tlbb.ca/products/dfu-key](https://shop.tlbb.ca/products/dfu-key)
 
-GM Harness Set: [https://shop.tlbb.ca/products/harness-for-chevrolet-bolt-preorder-open](https://shop.tlbb.ca/products/harness-for-chevrolet-bolt-preorder-open)
-
-Ford MobileEye Q3 Harness Set: [https://shop.tlbb.ca/products/harness-for-ford-mobileeye-q3](https://shop.tlbb.ca/products/harness-for-ford-mobileeye-q3)
-
-Harness Box 2x9 pin & 2x 13 pin: [https://shop.tlbb.ca/products/openpilot-harness-box-v1-2x13-pin-and-v2-2x9-pin-with-rj-45-port](https://shop.tlbb.ca/products/openpilot-harness-box-v1-2x13-pin-and-v2-2x9-pin-with-rj-45-port)
-
-Link to my Etsy Store:
-
-GM Harness Set: [https://www.etsy.com/ca/listing/1067463521/harness-set-harness-harness-box-for-gm](https://www.etsy.com/ca/listing/1067463521/harness-set-harness-harness-box-for-gm)
-
-For MobileEye Q3 Harness Set: [https://www.etsy.com/ca/listing/1226126146/harness-set-for-ford-mobileeye-q3](https://www.etsy.com/ca/listing/1226126146/harness-set-for-ford-mobileeye-q3)
-
-Harness Box 2x9 pin & 2x 13 pin: [https://www.etsy.com/ca/listing/1800366135/openpilot-harness-box-v1-2x13-pin-and-v2](https://www.etsy.com/ca/listing/1800366135/openpilot-harness-box-v1-2x13-pin-and-v2)
+Link to my Etsy Store: [https://www.etsy.com/ca/listing/1100070899/dfu-key-comma-device-firmware-flashing](https://www.etsy.com/ca/listing/1100070899/dfu-key-comma-device-firmware-flashing)
 
 ***
 
 ## Product Description
 
-Both MobileEye Q3 and GM Harness are 2x13 pin harness. If you purchase a set, it will also come with a 2x13 pin harness box.
+**For comma device firmware flashing. which includes:**\
+1\. comma pedal\
+2\. White panda\
+3\. Grey panda\
+4\. Black panda\
+5\. Comma 2 / C2\
+6\. Comma 3 / C3\
+7\. C-SDSU\
+\
+**DFU key will bring your device into DFU mode. You can then flash your device using dfu-util in Linux.**
 
-Harness box has 2 versions.&#x20;
+**User manual:**\
+1\. Figure what connector you need to used to flash your device.\
+1\. Devices using USB Type-C connector:\
+1\. Comma 2 / C2\
+2\. Comma 3 / C3\
+b. Devices using USB-A connector:\
+1\. comma pedal\
+2\. White panda\
+3\. Grey panda\
+4\. Black panda\
+5\. C-SDSU\
+2\. Switch the power lever to the other side of the connector type to disconnect the power.\
+3\. Connect a USB Type-C cable from your computer to the type-C port at the center of the DFU key.\
+4\. Plugin the DFU key with the right connector type into the device you want to flash the firmware.\
+5\. Push the button near your device. While you are doing that, switch the power lever to your device side.\
+6\. Hold the button for 5 sec and release the button.\
+7\. Using lsusb command, you can see your device showed up as dfu device.\
 
-1. Harness box v1 2x13 pin. This is the harness box Comma originally carries, and it works with all of the previous 2x13 pin harness.&#x20;
-
-<div align="left">
-
-<figure><img src="../.gitbook/assets/harness box v1.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
-
-2. Harness box v2 2x9 pin. This is a replacement new harness box, compatible with pedal.
-
-<div align="left">
-
-<figure><img src="../.gitbook/assets/harness box v2.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
-
-All the electronic components on this device are AEC-Q100 & AEC-Q200 qualified. All the connecting parts are from original equipment manufacturers. Assembled in Canada. 3D printed case with ASA automotive grade and UV resistant plastic.
 
 ***
 
-## Notice
+## Instruction
 
-Comma released a new harness box in July 2024. Pedal support is removed.&#x20;
+For detailed flashing instructions, please refer to the video provided.&#x20;
 
-The new Harness box from Comma does not have RJ45 port.
+If you encounter any issues, feel free to join our Discord community, where many enthusiastic users share their successful flashing experiences and steps.&#x20;
 
-If you would like to use pedal, you will need to obtain a harness box that has a RJ45 port.
+{% embed url="https://www.youtube.com/watch?v=DNf0OGwXUUQ" %}
 
-**Note:** The picture below is a comma power, not a harness box. The RJ45 port on this is not equivalent to the one on Harness box
+Flashing the SDSU can be particularly challenging; you can find specific instructions in the **#hw-SDSU** channel under pinned messages—thanks to @idontneedonetho and @VasylChuy for their contributions!
 
-<div align="left">
+You can also refer to Frogpilot Wiki for SDSU flashing info
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="232"><figcaption></figcaption></figure>
-
-</div>
+{% embed url="https://frogpilot.wiki.gg/wiki/SDSU_Flashing_Guide" %}
 
 ***
