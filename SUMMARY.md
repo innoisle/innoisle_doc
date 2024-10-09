@@ -5,11 +5,10 @@
 ## BearTech
 
 * [Magmount Description and Installation Guide](beartech/magmount.md)
-* [Publish your docs](beartech/publish-your-docs.md)
-
-***
-
-* [Page](page.md)
+* [Magmount Development Roadmaps](beartech/publish-your-docs.md)
+* [Comma Pedal Description and Installation Guide](beartech/comma-pedal-description-and-installation-guide.md)
+* [SDSU Description and Installation Guide](beartech/sdsu-description-and-installation-guide.md)
+* [Harness and Harness Box Description](beartech/harness-and-harness-box-description.md)
 
 ## Basics
 
