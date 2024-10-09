@@ -9,6 +9,7 @@
 * [Comma Pedal Description and Installation Guide](beartech/comma-pedal-description-and-installation-guide.md)
 * [SDSU Description and Installation Guide](beartech/sdsu-description-and-installation-guide.md)
 * [Harness and Harness Box Description](beartech/harness-and-harness-box-description.md)
+* [DFU key Flash Instructions and Firmware](beartech/dfu-key-flash-instructions-and-firmware.md)
 
 ## Basics
 
