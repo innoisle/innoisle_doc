@@ -49,7 +49,7 @@ Coming Soon! Stay Tuned!
 
 ### Wild Pika for Vanlife Accessories
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Starlink Accessories</strong></td><td>Coming Soon</td><td></td><td></td></tr><tr><td><strong>Vanlife Power System</strong></td><td>Under Development</td><td></td><td></td></tr><tr><td><strong>Other Car Accessories</strong></td><td><a href="https://www.etsy.com/ca/shop/WildPika">Car Push Start Covers</a></td><td></td><td><a href=".gitbook/assets/钢铁侠7.jpg">钢铁侠7.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Starlink Accessories</strong></td><td>Coming Soon</td><td></td><td></td></tr><tr><td><strong>Vanlife Power System</strong></td><td>Under Development</td><td></td><td></td></tr><tr><td><strong>Other Car Deco Accessories</strong></td><td><a href="https://www.etsy.com/ca/shop/WildPika">Car Push Start Covers</a></td><td></td><td><a href=".gitbook/assets/钢铁侠7 (1).jpg">钢铁侠7 (1).jpg</a></td></tr></tbody></table>
 
 ***
 

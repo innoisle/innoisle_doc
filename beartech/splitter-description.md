@@ -4,7 +4,7 @@ icon: arrows-split-up-and-left
 
 # Splitter Description
 
-## (This page is under construction)
+
 
 ## Where to buy
 

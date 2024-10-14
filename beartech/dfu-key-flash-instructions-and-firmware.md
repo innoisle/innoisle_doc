@@ -4,7 +4,7 @@ icon: key
 
 # DFU key Flash Instructions and Firmware
 
-## (This page is under construction)
+
 
 ## Where to buy
 

@@ -12,6 +12,12 @@
 * [DFU key Flash Instructions and Firmware](beartech/dfu-key-flash-instructions-and-firmware.md)
 * [Splitter Description](beartech/splitter-description.md)
 
+***
+
+* [Other Accessories](other-accessories/README.md)
+  * [Other Car Deco Accessories](other-accessories/other-car-deco-accessories.md)
+  * [Earphone Cases](other-accessories/earphone-cases.md)
+
 ## Basics
 
 * [Editor](basics/editor.md)

@@ -14,6 +14,28 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 
 ***
 
+## Essential Kit VS Premium Kit
+
+
+
+| Magmount Essential             | Magmount Premium               |
+| ------------------------------ | ------------------------------ |
+| Device Side Mount x1           | Device Side Mount x1           |
+| Windshield Side Mount x1       | Windshield Side Mount x1       |
+| Windshield Side Mount Cover x1 | Windshield Side Mount Cover x1 |
+| 13cm Type C Cable x1           | 13cm Type C Cable              |
+| 45cm Type C Cable x1           | 45cm Type C Cable x1           |
+| 3M VHB Tape x2                 | 3M VHB Tape x4                 |
+| Wet & DryWipe x2               | Wet & DryWipe x4               |
+| IPA Wipe X2                    | IPA Wipe X4                    |
+| Static Film x2                 | Static Film x4                 |
+| Allen Key x1                   | Allen Key x1                   |
+|                                |                                |
+|                                | Dummy Mount x1                 |
+|                                | Adhesion Promoter Wipe X2      |
+|                                | PE gloves X2                   |
+|                                | Threadlocker x1                |
+
 ## Product Description
 
 ### Magmount Kits
