@@ -319,9 +319,31 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 
 16. Take the Device Side Mount **(Device Mount Pack)** and slide it onto the Comma Device
 17. Use the 13cm Type C cable **(Device Mount Pack)** to connect the Device Side Mount to the Comma Device
-18. Apply a drop of Thread Locker **(Magmount Premium)** to the set screw. Use the Allen Key **(Device Mount Pack)** to tighten the set screw on the Device Side Mount
-19. Carefully remove the Windshield Side Mount Cover and attach the Device Side Mount to the Windshield Side Mount. **Be cautious,** as the magnet is very strong and can pinch your fingers.
-20. &#x20;Use the bubble level **(Installation Kit)** to ensure the Comma Device is level
+
+<div>
+
+<figure><img src="../.gitbook/assets/IMG_2281.JPG" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_2283.JPG" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+16. Apply a drop of Thread Locker **(Magmount Premium)** to the set screw. Use the Allen Key **(Device Mount Pack)** to tighten the set screw on the Device Side Mount
+
+<div>
+
+<figure><img src="../.gitbook/assets/IMG_2285.JPG" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/IMG_2282.JPG" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+16. Carefully remove the Windshield Side Mount Cover and attach the Device Side Mount to the Windshield Side Mount. **Be cautious,** as the magnet is very strong and can pinch your fingers.
+17. &#x20;Use the bubble level **(Installation Kit)** to ensure the Comma Device is level
 
 <div align="left">
 
