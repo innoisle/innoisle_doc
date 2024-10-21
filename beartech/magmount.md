@@ -16,8 +16,6 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 
 ## Essential Kit VS Premium Kit
 
-
-
 | Magmount Essential             | Magmount Premium               |
 | ------------------------------ | ------------------------------ |
 | Device Side Mount x1           | Device Side Mount x1           |
@@ -35,6 +33,24 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 |                                | Adhesion Promoter Wipe X2      |
 |                                | PE gloves X2                   |
 |                                | Threadlocker x1                |
+
+## What sets it apart from other Magnetic mount solutions:
+
+1. 24 pogo pins enable full-feature type-c connections.
+2. The internal data connection pair is length-matched for better signal transmission.
+3. 8 pogo pins are dedicated to the power rail.
+4. 17mm total thickness, slimmer design.
+5. Gold-plated pogo pin and type-c cable.
+6. Built-in 1/4-inch thread fits with the camera tripod screw.
+7. Reversible mount orientation (only one orientation is recommended for openpilot use).
+8. Windshield mount cover to avoid short circuit.
+9. A dummy mount is used to hide your device under the dashboard in the premium set.
+10. A built-in pull tab is on the side for ease of use.
+11. 45N splitting force for the comfort of use without worry about unexpected disconnect.&#x20;
+12. 10k cycles of torture test passed.
+13. Run over bump test passed.
+14. \-20°C/-4°F Freezer test passed (incoming Canadian winter test).
+15. 12V 3Amp high power temperature test passed.
 
 ## Product Description
 
