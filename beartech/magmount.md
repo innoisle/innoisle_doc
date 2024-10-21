@@ -346,7 +346,7 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 
 </div>
 
-16. Apply a drop of Thread Locker **(Magmount Premium)** to the set screw. Use the Allen Key **(Device Mount Pack)** to tighten the set screw on the Device Side Mount
+18. Apply a drop of Thread Locker **(Magmount Premium)** to the set screw. Use the Allen Key **(Device Mount Pack)** to tighten the set screw on the Device Side Mount
 
 <div>
 
@@ -358,8 +358,12 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 
 </div>
 
-16. Carefully remove the Windshield Side Mount Cover and attach the Device Side Mount to the Windshield Side Mount. **Be cautious,** as the magnet is very strong and can pinch your fingers.
-17. &#x20;Use the bubble level **(Installation Kit)** to ensure the Comma Device is level
+19. Tighten it just enough that there is a gap between the mount and the device. Make sure this line is straight, not curved, when you tighten the set screw.
+
+<figure><img src="../.gitbook/assets/Set screw.png" alt=""><figcaption></figcaption></figure>
+
+20. Carefully remove the Windshield Side Mount Cover and attach the Device Side Mount to the Windshield Side Mount. **Be cautious,** as the magnet is very strong and can pinch your fingers.
+21. &#x20;Use the bubble level **(Installation Kit)** to ensure the Comma Device is level
 
 <div align="left">
 
@@ -367,15 +371,15 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 
 </div>
 
-21. Use the Tilt Level meter (Installation Kit) to confirm proper installation
+22. Use the Tilt Level meter (Installation Kit) to confirm proper installation.
 
 <figure><img src="../.gitbook/assets/IMG_7136-2.jpg" alt=""><figcaption></figcaption></figure>
 
-22. You are all set to go!
+23. You are all set to go!
 
 <figure><img src="../.gitbook/assets/IMG_7220-2.jpg" alt=""><figcaption></figcaption></figure>
 
-23. Please keep the Windshield Side Mount Cover for future use. Reattach it after removing the Comma Device to prevent short-circuiting the mount.
+24. Please keep the Windshield Side Mount Cover for future use. Reattach it after removing the Comma Device to prevent short-circuiting the mount.
 
 #### Magmount Dummy Side Installation Guide
 
