@@ -346,7 +346,8 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 
 </div>
 
-18. Apply a drop of Thread Locker **(Magmount Premium)** to the set screw. Use the Allen Key **(Device Mount Pack)** to tighten the set screw on the Device Side Mount
+18. _**Warning**_: Only tighten the set screw if the mount is loose on your comma device. By design, the mount should be a very tight fit with your comma device, and it has been tested on both C3 and C3X. The set screw is there if you are using a comma clone device and the mount is loose on your device. \
+    Apply a drop of Thread Locker **(Magmount Premium)** to the set screw. Use the Allen Key **(Device Mount Pack)** to tighten the set screw on the Device Side Mount
 
 <div>
 
