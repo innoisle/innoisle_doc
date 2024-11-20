@@ -23,7 +23,9 @@ layout:
 
 # Welcome to innoisle!
 
-We’re thrilled to have you here on our website! Innoisle is a place that embodies all the innovative ideas and unique products we carry. As you explore our site, you'll find detailed information about the various products and concepts that make up our creative community.
+We’re thrilled to have you here on our website! Innoisle is a place that embodies all the innovative ideas and unique products we carry. The name "Innoisle" is a combination of "innovation" and "isle", which means lots of small innovation ideas represented by small islands in the ocean.&#x20;
+
+As you explore our site, you'll find detailed information about the various products and concepts that make up our creative community.
 
 This documentation page is dedicated to providing you with essential installation instructions, guidelines, tests, development roadmaps, and other helpful resources to enhance your experience with our products. Please note that a formal website with shopping capabilities is in the works and will be available in the future.
 
