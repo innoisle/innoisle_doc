@@ -12,6 +12,8 @@
 * [Harness and Harness Box Description](beartech/harness-and-harness-box-description.md)
 * [DFU key Flash Instructions and Firmware](beartech/dfu-key-flash-instructions-and-firmware.md)
 * [Splitter Description](beartech/splitter-description.md)
+* [ASCM Harness](beartech/ascm-harness.md)
+* [SDGM Harness](beartech/sdgm-harness.md)
 
 ***
 
