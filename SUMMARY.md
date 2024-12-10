@@ -14,6 +14,7 @@
 * [Splitter Description](beartech/splitter-description.md)
 * [ASCM Harness](beartech/ascm-harness.md)
 * [SDGM Harness](beartech/sdgm-harness.md)
+* [SASCM Harness](beartech/sascm-harness.md)
 
 ***
 
