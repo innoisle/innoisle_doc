@@ -31,7 +31,11 @@ This documentation page is dedicated to providing you with essential installatio
 
 Thank you for visiting Innoisle, and we look forward to helping you navigate the next wave of innovation!
 
+***
+
 ### BearTech Workshop for Openpilot Products and Accessories
+
+BearTech Workshop offers a range of accessories for the Openpilot Community designed to enhance and complement your AI driving experience.
 
 Link to my Store: [https://shop.tlbb.ca/](https://shop.tlbb.ca/)
 
@@ -39,7 +43,7 @@ Link to my Etsy Store: [https://www.etsy.com/ca/shop/BearTechWorkshop](https://w
 
 #### Find out What you need for your vehicle
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Honda Vehicles</td><td>Pedal, Splitter, Harness box</td><td></td><td><a href=".gitbook/assets/vitali-adutskevich-ozW4hQpPsaE-unsplash.jpg">vitali-adutskevich-ozW4hQpPsaE-unsplash.jpg</a></td></tr><tr><td>Toyota Vehicles</td><td>SDSU, Pedal, Splitter, Harness box</td><td></td><td><a href=".gitbook/assets/jake-fagan-fnE8McnNSIc-unsplash.jpg">jake-fagan-fnE8McnNSIc-unsplash.jpg</a></td></tr><tr><td>GM Vehicles</td><td>Pedal, DFU key, Harness Set, SASCM, SDGM Harness, ASCM Harness</td><td></td><td><a href=".gitbook/assets/maximilian-kopsch-GuMl9406KMA-unsplash.jpg">maximilian-kopsch-GuMl9406KMA-unsplash.jpg</a></td></tr><tr><td>Ford Vehicles</td><td></td><td></td><td><a href=".gitbook/assets/vinicius-henrique-photography-WM2MwxOoZQs-unsplash.jpg">vinicius-henrique-photography-WM2MwxOoZQs-unsplash.jpg</a></td></tr><tr><td>VW Vehicles</td><td>Pedal, Splitter, DFU key</td><td></td><td><a href=".gitbook/assets/karol-smoczynski-IpMw1iGXgvU-unsplash.jpg">karol-smoczynski-IpMw1iGXgvU-unsplash.jpg</a></td></tr></tbody></table>
 
 #### All Items:
 
@@ -49,9 +53,19 @@ Link to my Etsy Store: [https://www.etsy.com/ca/shop/BearTechWorkshop](https://w
 
 ***
 
-### OtterCave for Modular Handheld Devices with Meshtastic
+### Attaky!
 
-Coming Soon! Stay Tuned!
+Attaky is a modular device designed for versatility, allowing you to customize and expand its capabilities with interchangeable modules to suit your unique needs and unlock endless possibilites by attaching modules.&#x20;
+
+**Hence, Attaky!**
+
+<figure><img src=".gitbook/assets/attaky_bg-2.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/组 2.png" alt=""><figcaption></figcaption></figure>
+
+#### Different Modules
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>GPS+Lora Module </td><td>Compatible with Meshtastic, enabling offline long-range communication with ease.</td><td></td></tr><tr><td>Game Module</td><td>Equipped with a micro SD caEquipped with a micro SD card slot and built-in speaker, the Game Module allows you to load games directly from the SD card and enjoy music playback through the speaker.</td><td></td></tr><tr><td>Radar Module</td><td>Featuring a built-in radar, this module detects movement within its range. Combine it with other modules to trigger actions such as capturing photos or sending warning notifications when motion is detected.</td><td></td></tr><tr><td>Solar Module</td><td>Integrated with a solar panel, the Solar Module charges your device effortlessly, providing sustainable power wherever you go.</td><td></td></tr><tr><td>Radio Module</td><td>Receive FM, AM, and more with the Radio Module. With modifications and the right app, it can even decode imagery from weather satellites and display detailed images on your device's screen.</td><td></td></tr><tr><td>And More!</td><td></td><td></td></tr></tbody></table>
 
 ***
 
@@ -61,6 +75,6 @@ Coming Soon! Stay Tuned!
 
 ***
 
-### Other Products
+### Other Stuff that We Work On
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Accessories</strong></td><td>Airpod Cases</td><td>Sunlight Catchers</td><td><a href=".gitbook/assets/确认2.jpg">确认2.jpg</a></td><td><a href="other-accessories/earphone-cases.md">earphone-cases.md</a></td></tr><tr><td><strong>IgG Testing Kit</strong></td><td>Max 198 items IgG Food Intolerance Testing Kit using Fingertip Blood only</td><td></td><td><a href=".gitbook/assets/louis-hansel-shotsoflouis-K47107aP8UU-unsplash.jpg">louis-hansel-shotsoflouis-K47107aP8UU-unsplash.jpg</a></td><td></td></tr><tr><td><strong>Extracorporeal Shockwave Therapy Machine</strong></td><td></td><td></td><td><a href=".gitbook/assets/企业微信截图_17283792166625.png">企业微信截图_17283792166625.png</a></td><td></td></tr></tbody></table>
