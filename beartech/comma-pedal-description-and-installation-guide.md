@@ -104,6 +104,10 @@ If you need the individual harness box, you can find it at : [https://shop.tlbb.
 
 For installation, Jason Moreau made a wonderful video on how to install my Smart DSU and Pedal on his Rav4. He used our older version pedal and SDSU, but the installation method is similar. Please refer to his video:&#x20;
 
+\*\*In this video, pedal was connected to SDSU through RJ45 port, which is WRONG.
+
+Pedal HAS TO connect to harness box (therefore the harness box must have an rj45 port)
+
 {% embed url="https://www.youtube.com/watch?v=ftkKeD9NGl4" %}
 
 Or you can refer to Kevin's video on installing the pedal on Toyota. All installation processes are similar for different vehicles.&#x20;
