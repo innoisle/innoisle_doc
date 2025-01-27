@@ -36,6 +36,14 @@ If you need the individual harness box, you can find it at : [https://shop.tlbb.
 
 \*Pedals will not be refunded for the issue of using the wrong splitter.
 
+#### How to identify which version of harness box is needed:
+
+1. If you have a harness box with rj45 port - you DO NOT need another harness box to use pedal
+2. If have a harness box purchased from Comma, with no rj45 port - you will need a 2x9 pin box
+3. If you plan to purchase the harness + box (GM only) from me, then it is 2x13 pin box
+4. If you purchased a used harness with no box, please DM me the picture of your harness. (the old ones before 2024 June are 2x13 pin)
+5. If you purchased a customized harness for Tesla, you will need a 2x13 pin box
+
 ## **Currently support vehicle**
 
 #### GM:&#x20;
@@ -43,13 +51,6 @@ If you need the individual harness box, you can find it at : [https://shop.tlbb.
 * Chevy Bolt EV
 * Chevy Bolt EUV
 * Chevy Volt without ACC
-* Chevy High Country
-* Chevy Silverado
-* GMC Sierra
-* Chevy Suburban & Tahoe (pre-2022)
-* Chevy Equinox
-* Chevy Malibu without ACC
-* Cadillac (some models)
 
 #### Toyota:
 
@@ -59,7 +60,7 @@ If you need the individual harness box, you can find it at : [https://shop.tlbb.
 * Toyota Rav4 2016-2018
 * Toyota Prius 2016-2020
 * Toyota Prius Prime 2017-2020
-* ToyotaPrius v 2017
+* Toyota Prius 2017
 
 **Lexus:**
 

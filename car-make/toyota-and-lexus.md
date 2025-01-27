@@ -1,0 +1,75 @@
+---
+description: What do you need for Honda vehicles
+---
+
+# Toyota & Lexus
+
+### Vehicles require SDSU + Pedal
+
+#### What is needed:
+
+1. [SDSU](../beartech/sdsu-description-and-installation-guide.md)
+2. [Pedal](../beartech/comma-pedal-description-and-installation-guide.md)
+3. [Splitter](../beartech/splitter-description.md) (only if you have an RJ45 Comma Power connected)
+4. [Harness box](../beartech/harness-and-harness-box-description.md) (To connect the pedal, you will need a harness box with rj45 port)
+
+#### Why do you need both SDSU and Pedal:
+
+You will use openpilot longitudinal control instead of Toyota TSS-P ACC
+
+[SDSU](../beartech/sdsu-description-and-installation-guide.md) helps openpilot to gain longitudinal control. This will allow your openpilot the ability to accelerate from 20mph and slow down to 0mph.
+
+[Pedal](../beartech/comma-pedal-description-and-installation-guide.md) covers the acceleration from 0mph to 20mph
+
+#### Toyota:
+
+* Toyota Avalon 2016-2021
+* Toyota Avalon Hybrid 2019-2021
+* Toyota Corolla 2017-2019
+* Toyota Rav4 2016-2018
+* Toyota Prius 2016-2020
+* Toyota Prius Prime 2017-2020 (with improvements only)
+* Toyota Prius 2017
+
+#### **Lexus:**
+
+* Lexus ES350 (and hybird)  2017-2018
+* Lexus CT Hybird 2017-2018 (use pedal only if 0-25mph acceleration still requires you to step on your gas pedal)
+* Lexus NX  (and hybird) 2018-2019 (use pedal only if 0-25mph acceleration still requires you to step on your gas pedal)
+* Lexus RX  (and hybird) 2016-2019 (use pedal only if 0-25mph acceleration still requires you to step on your gas pedal)
+
+***
+
+### Vehicles require SDSU ONLY
+
+#### What is needed:
+
+1. [SDSU](../beartech/sdsu-description-and-installation-guide.md)
+
+#### Toyota:
+
+* Toyota RAV4 Hybrid&#x20;
+* Toyota Highlander&#x20;
+* Most of the Toyota Hybrid Vehicles requires SDSU only
+
+***
+
+### Vehicles require CANfilter ONLY (NO SDSU, NO Pedal)
+
+#### What is needed:
+
+1. CANfilter (still under development)
+
+#### Toyota:
+
+* Toyota Camry
+* Toyota CHR
+* Toyota RAV4 2024
+
+### How to identify which version of harness box is needed:
+
+1. If you have a harness box with rj45 port - you DO NOT need another harness box to use pedal
+2. If have a harness box purchased from Comma, with no rj45 port - you will need a 2x9 pin box
+3. If you plan to purchase the harness + box (GM only) from me, then it is 2x13 pin box
+4. If you purchased a used harness with no box, please DM me the picture of your harness. (the old ones before 2024 June are 2x13 pin)
+5. If you purchased a customized harness for Tesla, you will need a 2x13 pin box

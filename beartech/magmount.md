@@ -35,12 +35,13 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 | Wet & DryWipe x2               | Wet & DryWipe x4               |
 | IPA Wipe X2                    | IPA Wipe X4                    |
 | Static Film x2                 | Static Film x4                 |
-| Allen Key x1                   | Allen Key x1                   |
+|                                | Allen Key x1                   |
 |                                |                                |
 |                                | Dummy Mount x1                 |
 |                                | Adhesion Promoter Wipe X2      |
 |                                | PE gloves X2                   |
 |                                | Threadlocker x1                |
+|                                | Set Screw x1                   |
 
 ## What sets it apart from other Magnetic mount solutions:
 
@@ -66,7 +67,7 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 
 #### **What is included in Magmount Essential:**
 
-<div data-full-width="false"><figure><img src="../.gitbook/assets/Magmount Set A  pack1-1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Magmount Set A  pack2-1.jpg" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../.gitbook/assets/Magmount  Set A pack 3-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Magmount  Set A pack 4-1-1.jpg" alt=""><figcaption></figcaption></figure></div>
 
 **Magmount Set A:**\
 1\. Magmount Set Pack:\
@@ -91,15 +92,11 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 
 <div align="left"><figure><img src="../.gitbook/assets/VHB 1.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
 
-4. Allen Key x1 (Adjust set screw)
-
-<div align="left"><figure><img src="../.gitbook/assets/L形内六角扳手1.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
-
 #### **What is included in Magmount Premium:**
 
-<div><figure><img src="../.gitbook/assets/Magmount Set A  pack2-1 (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Magmount Set B  pack2-1.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/Magmount  Set A pack 4-1-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Magmount Set B pack2-1.jpg" alt=""><figcaption></figcaption></figure></div>
 
-**Magmount Premium includes everything in Magmount Essentail, Plus Magmount Set B:**
+**Magmount Premium includes everything in Magmount Essential, Plus Magmount Set B:**
 
 1. Dummy Magmount windshield side x1
 
@@ -123,6 +120,10 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
    (Prevents loosening of set screw in Device Side Mount)
 
 <div align="left"><figure><img src="../.gitbook/assets/Threadlocker 2.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
+
+5. Allen Key x1 (Adjust set screw)
+
+<div align="left"><figure><img src="../.gitbook/assets/L形内六角扳手1.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
 
 &#x20;**What is included in the Installation kit (for Magmount Premium pre-orders ONLY):**
 
@@ -181,10 +182,6 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
    (Connect the comma device and the Device Side Mount)
 
 <div align="left"><figure><img src="../.gitbook/assets/Device Magmount 2.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
-
-3. Allen Key x1
-
-<div align="left"><figure><img src="../.gitbook/assets/L形内六角扳手1.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **What is included in the Dummy Windshield Mount:**
 

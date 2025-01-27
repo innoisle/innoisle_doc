@@ -32,21 +32,23 @@ Harness box has 2 versions.&#x20;
 
 1. Harness box v1 2x13 pin. This is the harness box Comma originally carries, and it works with all of the previous 2x13 pin harness.&#x20;
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/harness box v1.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/harness box v1.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 2. Harness box v2 2x9 pin. This is a replacement new harness box, compatible with pedal.
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/harness box v2.jpg" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/harness box v2.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 All the electronic components from innoisle on this device are AEC-Q100 & AEC-Q200 qualified. All the connecting parts are from original equipment manufacturers. Assembled in Canada. 3D printed case with ASA automotive grade and UV resistant plastic.
+
+***
+
+#### How to identify which version of harness box is needed:
+
+1. If you have a harness box with rj45 port - you DO NOT need another harness box to use pedal
+2. If have a harness box purchased from Comma, with no rj45 port - you will need a 2x9 pin box
+3. If you plan to purchase the harness + box (GM only) from me, then it is 2x13 pin box
+4. If you purchased a used harness with no box, please DM me the picture of your harness. (the old ones before 2024 June are 2x13 pin)
+5. If you purchased a customized harness for Tesla, you will need a 2x13 pin box
 
 ***
 
@@ -60,10 +62,6 @@ If you would like to use pedal, you will need to obtain a harness box that has a
 
 **Note:** The picture below is a comma power, not a harness box. The RJ45 port on this is not equivalent to the one on Harness box
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image.png" alt="" width="232"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image.png" alt="" width="232"><figcaption></figcaption></figure></div>
 
 ***

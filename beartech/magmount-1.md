@@ -55,11 +55,11 @@ icon: screwdriver-wrench
 <div><figure><img src="../.gitbook/assets/IMG_2281.JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_2283.JPG" alt=""><figcaption></figcaption></figure></div>
 
 18. _**Warning**_: Only tighten the set screw if the mount is loose on your comma device. By design, the mount should be a very tight fit with your comma device, and it has been tested on both C3 and C3X. The set screw is there if you are using a comma clone device and the mount is loose on your device. \
-    Apply a drop of Thread Locker **(Magmount Premium)** to the set screw. Use the Allen Key **(Device Mount Pack)** to tighten the set screw on the Device Side Mount
+    Apply a drop of Thread Locker **(Magmount Premium)** to the set screw. Use the Allen Key **(Magmount Premium)** to tighten the set screw on the Device Side Mount
 
 <div><figure><img src="../.gitbook/assets/IMG_2285.JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_2282.JPG" alt=""><figcaption></figcaption></figure></div>
 
-19. Tighten it just enough that there is a gap between the mount and the device. Make sure this line is straight, not curved, when you tighten the set screw.
+19. Tighten it just enough that there is a gap between the mount and the device. Make sure this line is straight, not curved when you tighten the set screw.
 
 <figure><img src="../.gitbook/assets/Set screw.png" alt=""><figcaption></figcaption></figure>
 
