@@ -41,3 +41,10 @@ description: What do you need for Honda vehicles
 3. If you plan to purchase the harness + box (GM only) from me, then it is 2x13 pin box
 4. If you purchased a used harness with no box, please DM me the picture of your harness. (the old ones before 2024 June are 2x13 pin)
 5. If you purchased a customized harness for Tesla, you will need a 2x13 pin box
+
+#### What else do you need:
+
+* An ethernet cable
+  * For smaller cars, 11ft in length or more&#x20;
+  * For larger cars (eg. Ridgeline/ Odessy), minimum 15ft is required
+  * Please avoid flat noodle cable
