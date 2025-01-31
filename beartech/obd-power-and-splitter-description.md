@@ -16,9 +16,11 @@ Link to my Etsy Store: [https://www.etsy.com/ca/listing/1018215440/obd-power-and
 
 ## Product Description - OBD Power
 
-OBD Power is the original Comma power
+OBD Power is the original Comma power.
 
 It uses your car's OBD-II port to power your car harness
+
+You will need an additional ethernet cable (again, please avoid flat noodle cables) to connect.
 
 
 
