@@ -112,10 +112,13 @@ If you need the individual harness box, you can find it at : [https://shop.tlbb.
 
 **Other Make and Models we customized before (but unsure about software compatibility, mainly for development use)**
 
-* BMW
-* Cadillac XT5
-* 2019 Cadillac Escalade ESV
-* Hyundai Elantra N 2022
+* BMW 535i 2014 - ready for testing
+* Cadillac XT5 (need brake booster for braking)
+* Cadillac XT4 - ongoing testing
+* 2019 Cadillac Escalade ESV - ongoing testing
+* GMC Yukon - ongoing testing
+* Toyota Yaris 2009 - ongoing testing
+* Hyundai Elantra N 2022 - compatible
 
 ***
 
