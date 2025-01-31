@@ -62,6 +62,6 @@ If you would like to use pedal, you will need to obtain a harness box that has a
 
 **Note:** The picture below is a comma power, not a harness box. The RJ45 port on this is not equivalent to the one on Harness box
 
-<div align="left"><figure><img src="../.gitbook/assets/image.png" alt="" width="232"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (2).png" alt="" width="232"><figcaption></figcaption></figure></div>
 
 ***

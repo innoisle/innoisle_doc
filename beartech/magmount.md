@@ -168,7 +168,7 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 
 <div align="left"><figure><img src="../.gitbook/assets/VHB 1.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
 
-**What is included in the Device Magmount:**
+#### **What is included in the Device Magmount:**
 
 <div align="left"><figure><img src="../.gitbook/assets/Device Magmount pack1-1.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -183,7 +183,7 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 
 <div align="left"><figure><img src="../.gitbook/assets/Device Magmount 2.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
 
-**What is included in the Dummy Windshield Mount:**
+#### **What is included in the Dummy Windshield Mount:**
 
 <div align="left"><figure><img src="../.gitbook/assets/Dummy Windshield Magmount pack1-1.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -199,7 +199,57 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 
 <div align="left"><figure><img src="../.gitbook/assets/VHB 1.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
 
+#### **What is included in the Magmount Angle Wedge:**
 
+<div align="left"><figure><img src="../.gitbook/assets/Angle Wedge 2-1.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+1. 8 degree mount
+
+<div align="left"><figure><img src="../.gitbook/assets/8 degree Angle Wedge 1.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+2. 16 degree mount
+
+<div align="left"><figure><img src="../.gitbook/assets/16 degree Angle Wedge 1 .jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+3. VHB Tape pack:\
+   \- Cut to size 3M VHB Tape x2 (Stick the Windshield Side Mount to Car Windshield)\
+   \- Wet & Dry wipes x2 (Clean the windshield before apply)\
+   \- IPA wipe x2 (Clean the windshield before apply)\
+   \- Static film x2 (Stick to the windshield before sticking the VHB tape for easy removal in the future ONLY stick to glass (no tint on the windshield). If the temperature in your area is above 40C (or 104F), static film is not recommended)
+
+<div align="left"><figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+**What is included in the Comma Mount Adapter:**
+
+<div align="left"><figure><img src="../.gitbook/assets/comma mount adapter (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+1. Comma Mount Adapter
+
+<figure><img src="../.gitbook/assets/comma mount adapter-white-1.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/comma mount adapter-white2.jpg" alt=""><figcaption></figcaption></figure>
+
+2. VHB Tape pack:\
+   \- Cut to size 3M VHB Tape x2 (Stick the Windshield Side Mount to Car Windshield)\
+   \- Wet & Dry wipes x2 (Clean the windshield before apply)\
+   \- IPA wipe x2 (Clean the windshield before apply)\
+   \- Static film x2 (Stick to the windshield before sticking the VHB tape for easy removal in the future ONLY stick to glass (no tint on the windshield). If the temperature in your area is above 40C (or 104F), static film is not recommended)
+
+<div align="left"><figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+#### **What is included in the Magmount Cover B**
+
+Many users requested the Magmount Cover B to either replace the lost original windshield mount cover or cover the device magmount.
+
+The new Magmount Cover is compatible on both sides. It can be a cover for either windshield mount or device mount after taking them apart.
+
+If you would like to cover BOTH windshield mount AND device mount SEPARATELY, please purchase 2.
+
+<div align="left"><figure><img src="../.gitbook/assets/cover b-1.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+1. Magmount Cover B
+
+<figure><img src="../.gitbook/assets/cover B demonstration.jpg" alt=""><figcaption></figcaption></figure>
 
 
 

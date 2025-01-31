@@ -10,7 +10,11 @@ Link to my Store: [https://shop.tlbb.ca/products/comma-pedal-non-customizable-to
 
 Link to my Etsy Store: [https://www.etsy.com/ca/listing/952895642/openpilot-comma-pedal-non-customizable](https://www.etsy.com/ca/listing/952895642/openpilot-comma-pedal-non-customizable)
 
+***
 
+### Update:
+
+Firmware updated - For 2017-2021 Chevy bolt users, if you had  "propulsion error" using the pedal, please flash an updated software for your pedal. A dfu key is required for flashing. Pedal purchased after 2025-01-01 already has the up-to-date firmware
 
 ## Product Description
 
@@ -50,13 +54,14 @@ If you need the individual harness box, you can find it at : [https://shop.tlbb.
   * For smaller cars, 11ft in length or more&#x20;
   * Please avoid flat noodle cable
 
-## **Currently support vehicle**
+## **Currently supported vehicles**
 
 #### GM:&#x20;
 
 * Chevy Bolt EV
 * Chevy Bolt EUV
 * Chevy Volt without ACC
+* Opel Ampera E (Same as Bolt, but in Europe)
 
 #### Toyota:
 
@@ -104,6 +109,15 @@ If you need the individual harness box, you can find it at : [https://shop.tlbb.
 * Tesla Pre-AP
 
 
+
+**Other Make and Models we customized before (but unsure about software compatibility, mainly for development use)**
+
+* BMW
+* Cadillac XT5
+* 2019 Cadillac Escalade ESV
+* Hyundai Elantra N 2022
+
+***
 
 ## Installation Guide
 

@@ -10,7 +10,7 @@ description: What do you need for Honda vehicles
 
 1. [SDSU](../beartech/sdsu-description-and-installation-guide.md)
 2. [Pedal](../beartech/comma-pedal-description-and-installation-guide.md)
-3. [Splitter](../beartech/splitter-description.md) (only if you have an RJ45 Comma Power connected)
+3. [Splitter](../beartech/obd-power-and-splitter-description.md) (only if you have an RJ45 Comma Power connected)
 4. [Harness box](../beartech/harness-and-harness-box-description.md) (To connect the pedal, you will need a harness box with rj45 port)
 
 #### Why do you need both SDSU and Pedal:

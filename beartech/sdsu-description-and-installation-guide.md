@@ -51,6 +51,7 @@ For comparison about which branch to use:
 * Toyota Prius V 2017
 * Toyota Rav4 (and Hybird) 2016-2018
 * Toyota Sienna 2018-2020
+* 2019 Toyota Kluger (Highlander name in Australia)
 
 **Lexus:**
 
@@ -63,9 +64,19 @@ For comparison about which branch to use:
 
 ## Installation Guide
 
+If you are connecting BOTH a SDSU and a pedal on your vehicle, Pedal has to connect to the harness box. It does not connect to SDSU.
+
+If you would like to add an OBD power, it will need to be connected through a splitter.
+
+<figure><img src="../.gitbook/assets/Photo 2024-11-16, 08 37 43.png" alt=""><figcaption></figcaption></figure>
+
 #### Toyota:&#x20;
 
 For installation, Jason Moreau made a wonderful video on how to install my Smart DSU and Pedal on his Rav4. He used our older version of the pedal and SDSU, but the installation method is similar. Please refer to his video:&#x20;
+
+\*\*In this video, pedal was connected to SDSU through RJ45 port, which is WRONG.
+
+Pedal HAS TO connect to harness box (therefore the harness box must have an rj45 port)
 
 {% embed url="https://www.youtube.com/watch?v=ftkKeD9NGl4" %}
 

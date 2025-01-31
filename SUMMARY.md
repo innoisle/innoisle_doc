@@ -11,7 +11,7 @@
 * [Harness and Harness Box Description](beartech/harness-and-harness-box-description.md)
 * [Comma Pedal Description and Installation Guide](beartech/comma-pedal-description-and-installation-guide.md)
 * [DFU key Flash Instructions and Firmware](beartech/dfu-key-flash-instructions-and-firmware.md)
-* [Splitter Description](beartech/splitter-description.md)
+* [OBD Power and Splitter Description](beartech/obd-power-and-splitter-description.md)
 * [ASCM Harness](beartech/ascm-harness.md)
 * [SDGM Harness](beartech/sdgm-harness.md)
 * [SASCM](beartech/sascm.md)

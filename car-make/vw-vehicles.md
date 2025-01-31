@@ -15,7 +15,7 @@ description: What do you need for Honda vehicles
 ### What is needed:
 
 1. [Pedal](../beartech/comma-pedal-description-and-installation-guide.md)
-2. [Splitter](../beartech/splitter-description.md) (only if you have an RJ45 Comma Power connected)
+2. [Splitter](../beartech/obd-power-and-splitter-description.md) (only if you have an RJ45 Comma Power connected)
 3. [Harness box](../beartech/harness-and-harness-box-description.md) (To connect the pedal, you will need a harness box with rj45 port)
 
 ### How to identify which version of harness box is needed:
