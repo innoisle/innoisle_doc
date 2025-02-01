@@ -61,6 +61,14 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 14. -20°C/-4°F Freezer test passed (incoming Canadian winter test).
 15. 12V 3Amp high power temperature test passed.
 
+#### Vehicles that require Angle Wedge:
+
+* Toyota Highlander&#x20;
+* Ford F150
+* And any windshield that makes your comma device tilt more than 5 degree
+
+<div align="left"><figure><img src="../.gitbook/assets/2b0ccda2eeba6c9ef96674a01c19fd6.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
 ## Product Description
 
 ### Magmount Kits
