@@ -27,7 +27,7 @@ This harness is 2x9 pin and works with 2x9 pin harness box
 **Supported vehicles:**
 
 * Buick Enclave
-* Chevy Volt (2019) - _pedal also needed_
+* Chevy Volt (2019)
 * Cadillac XT4
 * Chevy Traverse
 * Buick Baby Enclave (CN)
