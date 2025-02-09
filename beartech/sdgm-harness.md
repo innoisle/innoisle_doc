@@ -35,3 +35,5 @@ This harness is 2x9 pin and works with 2x9 pin harness box
 * Cadillac XT6 (CN)
 * Chevy Malibu XL (CN)
 
+\*(CN) means Chinese market vehicle. Usually, it is not ported to mainstream openpilot nor any fork that's found in the openpilot community. Your mileage may vary.&#x20;
+

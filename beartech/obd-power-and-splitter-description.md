@@ -18,7 +18,9 @@ Link to my Etsy Store: [https://www.etsy.com/ca/listing/1018215440/obd-power-and
 
 OBD Power is the original Comma power.
 
-It uses your car's OBD-II port to power your car harness
+It provides 12V power to your Comma device via the OBD port. \
+12V from the OBD port usually stays alive after the car is off, which means your Comma device will stay on.\
+It also connects 1 CAN bus from your comma device to the OBD port.
 
 You will need an additional ethernet cable (again, please avoid flat noodle cables) to connect.
 
