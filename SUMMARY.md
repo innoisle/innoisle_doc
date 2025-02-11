@@ -25,6 +25,11 @@
 * [VW Vehicles](car-make/vw-vehicles.md)
 * [Tesla Pre-AP](car-make/tesla-pre-ap.md)
 
+## Materials
+
+* [3D Printing Filaments](materials/3d-printing-filaments.md)
+* [Bambu Hotend Cleaning Solution](materials/bambu-hotend-cleaning-solution.md)
+
 ***
 
 * [Other Accessories](other-accessories/README.md)
