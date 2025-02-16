@@ -151,6 +151,7 @@ Or you can refer to Kevin's video on installing the pedal on Toyota. All install
 ## **Warning:**
 
 Comma Pedal only adds support to your car to accelerate from the start. It does not enable your car to stop to zero.\
+For braking to stop, it will be handled by your comma device. Please refer to Openpilot's source code.\
 The Wiring is the cross-type showed in the product description. The listing will not guaranty working for your car.\
 Please confirm that the wiring fits your car before purchase.\
 This product is only rated for off-road use.\
