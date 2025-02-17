@@ -63,8 +63,8 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 
 #### Vehicles that require Angle Wedge:
 
-* Toyota Highlander&#x20;
-* Ford F150
+* Toyota Highlander (8 degree)
+* Ford F150 (8 degree)
 * And any windshield that makes your comma device tilt more than 5 degree
 
 <div align="left"><figure><img src="../.gitbook/assets/2b0ccda2eeba6c9ef96674a01c19fd6.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
@@ -253,7 +253,7 @@ The new Magmount Cover is compatible on both sides. It can be a cover for either
 
 If you would like to cover BOTH windshield mount AND device mount SEPARATELY, please purchase 2.
 
-<div align="left"><figure><img src="../.gitbook/assets/cover b-1.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/cover b-2.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 1. Magmount Cover B
 
