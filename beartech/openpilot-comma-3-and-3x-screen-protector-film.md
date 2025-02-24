@@ -1,6 +1,6 @@
 ---
-description: 'Join our discord at: https://discord.innoisle.com/'
 icon: reel
+description: 'Join our discord at: https://discord.innoisle.com/'
 ---
 
 # OpenPilot Comma 3 & 3X Screen Protector Film
@@ -9,11 +9,11 @@ icon: reel
 
 Link to my Store:&#x20;
 
-Screen Protector Film: [https://shop.tlbb.ca/products/sascm-for-gm-vehicles](https://shop.tlbb.ca/products/sascm-for-gm-vehicles)
+Screen Protector Film: [https://shop.tlbb.ca/products/c3-c3x-screen-protector](https://shop.tlbb.ca/products/c3-c3x-screen-protector)
 
 Link to my Etsy Store:
 
-Screen Protector Film: [https://www.etsy.com/ca/listing/1840924033/sascm-for-gm-vehicles](https://www.etsy.com/ca/listing/1840924033/sascm-for-gm-vehicles)
+Screen Protector Film: [https://www.etsy.com/ca/listing/1879407633/c3-c3x-screen-protector-2-matte-2-clear](https://www.etsy.com/ca/listing/1879407633/c3-c3x-screen-protector-2-matte-2-clear)
 
 ***
 
