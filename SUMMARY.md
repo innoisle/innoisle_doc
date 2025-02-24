@@ -15,6 +15,7 @@
 * [ASCM Harness](beartech/ascm-harness.md)
 * [SDGM Harness](beartech/sdgm-harness.md)
 * [SASCM](beartech/sascm.md)
+* [OpenPilot Comma 3 & 3X Screen Protector Film](beartech/openpilot-comma-3-and-3x-screen-protector-film.md)
 
 ## Car Make
 

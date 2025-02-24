@@ -1,5 +1,6 @@
 ---
 icon: goal-net
+description: 'Join our discord at: https://discord.innoisle.com/'
 ---
 
 # Comma Pedal Description and Installation Guide

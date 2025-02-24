@@ -1,5 +1,6 @@
 ---
 icon: engine
+description: 'Join our discord at: https://discord.innoisle.com/'
 ---
 
 # SDSU Description and Installation Guide

@@ -1,5 +1,6 @@
 ---
 icon: screwdriver-wrench
+description: 'Join our discord at: https://discord.innoisle.com/'
 ---
 
 # Magmount Installation Guide

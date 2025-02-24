@@ -1,5 +1,6 @@
 ---
 icon: conveyor-belt-arm
+description: 'Join our discord at: https://discord.innoisle.com/'
 ---
 
 # Magmount Development Roadmaps

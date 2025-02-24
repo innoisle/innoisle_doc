@@ -1,9 +1,6 @@
 ---
 icon: screwdriver-wrench
-description: >-
-  The Magmount is currently SOLD OUT. We will be releasing a new version after
-  our early users test it and provide feedback. Version 2 will be based on the
-  insights we receive, so if you're interested,
+description: 'Join our discord at: https://discord.innoisle.com/'
 ---
 
 # Magmount Description

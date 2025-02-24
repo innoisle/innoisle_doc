@@ -1,10 +1,9 @@
 ---
 icon: key
+description: 'Join our discord at: https://discord.innoisle.com/'
 ---
 
 # DFU key Flash Instructions and Firmware
-
-
 
 ## Where to buy
 

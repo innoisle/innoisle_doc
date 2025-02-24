@@ -1,5 +1,6 @@
 ---
 icon: reel
+description: 'Join our discord at: https://discord.innoisle.com/'
 ---
 
 # SDGM Harness
