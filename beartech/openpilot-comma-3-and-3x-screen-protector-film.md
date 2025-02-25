@@ -21,7 +21,7 @@ Screen Protector Film: [https://www.etsy.com/ca/listing/1879407633/c3-c3x-screen
 
 **OpenPilot Comma 3 & 3X Screen Protector Film (2 Clear + 2 Matte)**
 
-<div align="left"><figure><img src="../.gitbook/assets/38e766fd-ef4b-4eb6-893b-5d88bd951903.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/43551b72-5896-4789-9726-5c55e3eefe69.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/c6d9d32b-9cde-46b0-b8d2-981211d2bba9.jpg" alt=""><figcaption></figcaption></figure></div>
 
 **Protect Your Comma Device with Our Premium Screen Protector Film**
 
