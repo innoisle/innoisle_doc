@@ -54,6 +54,9 @@ If you need the individual harness box, you can find it at : [https://shop.tlbb.
 * An ethernet cable
   * For smaller cars, 11ft in length or more&#x20;
   * Please avoid flat noodle cable
+  * At least CAT6 cable is recommended
+  * CAT8 cable couble be too thick and too hard to hide
+  * There is a discussion about the ethernet cable under #customer service in the discord channel. Several tested cables were confirmed to work. Please search "ethernet" under that channel.
 
 ## **Currently supported vehicles**
 
