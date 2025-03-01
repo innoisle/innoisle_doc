@@ -25,7 +25,7 @@ Screen Protector Film: [https://www.etsy.com/ca/listing/1879407633/c3-c3x-screen
 
 **Protect Your Comma Device with Our Premium Screen Protector Film**
 
-While **tempered glass screen protectors** are commonly used for devices due to their strength and durability, we’ve found that they need to be cut smaller for the Comma 3 and 3X. This is because **tempered glass** is rigid and cannot bend around the corners perfectly. As a result, it leaves the fragile corners exposed, which is the most vulnerable place on screen and can reduce overall protection. We haven’t found a good solution for this limitation with tempered glass, which is why we’ve turned to **hydrogel film**.
+While tempered glass screen protectors are commonly used for devices due to their strength and durability, we’ve found that they need to be cut smaller for the Comma 3 and 3X. This is because tempered glass is rigid and cannot bend around the corners perfectly. As a result, it leaves the fragile corners exposed, which is the most vulnerable place on screen and can reduce overall protection. We haven’t found a good solution for this limitation with tempered glass, which is why we’ve turned to **hydrogel film**.
 
 Introducing our **Hydrogel Film** screen protectors, which **wrap perfectly around every corner of your screen**, providing full coverage and enhanced protection. The flexible nature of hydrogel film allows it to conform seamlessly to the edges of your device, ensuring complete protection against scratches, dust, and fingerprints.
 
