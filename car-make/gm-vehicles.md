@@ -1,5 +1,5 @@
 ---
-description: What do you need for Honda vehicles
+description: What do you need for GM vehicles
 ---
 
 # GM Vehicles
