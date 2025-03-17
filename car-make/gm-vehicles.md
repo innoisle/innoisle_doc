@@ -49,7 +49,8 @@ description: What do you need for GM vehicles
 * Chevy Suburban & Tahoe (pre-2022)
 * Chevy Equinox
 * Chevy Malibu without ACC
-* Cadillac (some models)
+* Cadillac XT5 2021
+* &#x20;(some other Cadillac models may apply too)
 
 ***
 
