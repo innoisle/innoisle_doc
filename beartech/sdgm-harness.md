@@ -1,6 +1,6 @@
 ---
-icon: reel
 description: 'Join our discord at: https://discord.innoisle.com/'
+icon: reel
 ---
 
 # SDGM Harness
@@ -38,3 +38,10 @@ This harness is 2x9 pin and works with 2x9 pin harness box
 
 \*(CN) means Chinese market vehicle. Usually, it is not ported to mainstream openpilot nor any fork that's found in the openpilot community. Your mileage may vary.&#x20;
 
+
+
+Shout out to Mochi, who helped with various GM vehicle harness developments.
+
+Please refer to Mochi's instructions about SDGM:
+
+[https://github.com/garrettpall/GMSDGMConnector/blob/main/2019\_volt/2019\_Volt\_Readme.md](https://github.com/garrettpall/GMSDGMConnector/blob/main/2019_volt/2019_Volt_Readme.md)
