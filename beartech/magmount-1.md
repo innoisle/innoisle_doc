@@ -23,8 +23,8 @@ icon: screwdriver-wrench
 3. Wipe the back of the Windshield Side Mount with the IPA wipe.
 4. Apply adhesion promoter to every surface that the VHB is going to stick to and let it dry. (If you have windshield tint, please try it on a small area first, some tint does not do well with the adhesion promoter)
 5. Apply VHB tape to the Windshield Side Mount.
-6. Clamp or use weight on the complete magmount for at least 5 hours so VHB makes perfect contact to the surface. Every VHB-connected surface needs to be clamped. (The complete magmount here means magount with VHB or the magmount with angle wedges and VHB or magmount with mount adapter sticked together. )
-7. For the VHB that sticks to the windshield, you need to stack at least two VHB tapes (each 1.1mm thick for a total of 2.2mm) so that the middle of the tape makes good contact with your curved windshield.
+6. **Clamp or use weight** on the complete magmount for **at least 5 hours** so VHB makes perfect contact to the surface. **Every VHB-connected surface** needs to be clamped. (The complete magmount here means magount with VHB or the magmount with angle wedges and VHB or magmount with mount adapter sticked together. )
+7. For the VHB that sticks to the windshield, you need to stack at least **two pieces VHB tapes** (each 1.1mm thick for a total of 2.2mm) so that the middle of the tape makes good contact with your curved windshield.
 
 #### Magmount Windshield and Device Side Installation Guide
 
@@ -50,8 +50,8 @@ icon: screwdriver-wrench
 8. Use the IPA wipes **(VHB Tape pack)** to thoroughly clean the marked area on the windshield
 9. Apply the Static film **(VHB Tape pack)** to the windshield. **Note**: If temperatures exceed 40°C (104°F), avoid using the static film.
 10. Take the Windshield Side Mount and the Windshield Side Mount cover **(DO NOT open it up yet)**.
-11. Wipe the back of the Windshield Side Mount with the IPA wipe.
-12. Install Magmount in warm temp and push firm for best contact.
+11. See [#prepare-your-magmount](magmount-1.md#prepare-your-magmount "mention")  applying VHB on Magmount.
+12. For the surface that sticks to the windshield, Stack at least **2 pieces of VHB**. Install Magmount at a **warm temperature** and push firm for best contact.
 13. Attach the Windshield Side Mount to the Static film you applied in step 9
 
 <figure><img src="../.gitbook/assets/IMG_7119-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
