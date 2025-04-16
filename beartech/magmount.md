@@ -1,6 +1,6 @@
 ---
-icon: screwdriver-wrench
 description: 'Join our discord at: https://discord.innoisle.com/'
+icon: screwdriver-wrench
 ---
 
 # Magmount Description
@@ -61,6 +61,7 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 #### Vehicles that require Angle Wedge:
 
 * Toyota Highlander (8 degree)
+* Honda Pilot (8 degree)
 * Ford F150 (8 degree)
 * Rivian Truck & SUV  (8 degree)
 * And any windshield that makes your comma device tilt more than 5 degree
