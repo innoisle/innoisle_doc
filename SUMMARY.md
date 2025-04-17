@@ -16,7 +16,8 @@
 * [SDGM Harness](beartech/sdgm-harness.md)
 * [SASCM](beartech/sascm.md)
 * [OpenPilot Comma 3 & 3X Screen Protector Film](beartech/openpilot-comma-3-and-3x-screen-protector-film.md)
-* [IR Filter - coming soon](beartech/ir-filter-coming-soon.md)
+* [IR (Infrared) Filter](beartech/ir-infrared-filter.md)
+* [Device Stand](beartech/device-stand.md)
 
 ## Car Make
 

@@ -1,6 +1,6 @@
 ---
-icon: reel
 description: 'Join our discord at: https://discord.innoisle.com/'
+icon: tarp-droplet
 ---
 
 # OpenPilot Comma 3 & 3X Screen Protector Film
