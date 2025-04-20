@@ -63,6 +63,7 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 * Toyota Highlander (8 degree)
 * Honda Pilot (8 degree)
 * Ford F150 (8 degree)
+* Ford Maverick (8 degree)
 * Rivian Truck & SUV  (8 degree)
 * And any windshield that makes your comma device tilt more than 5 degree
 
