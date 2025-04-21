@@ -21,7 +21,13 @@ OP Device Stand: [https://www.etsy.com/ca/listing/1904708571/op-device-stand](ht
 
 #### **OP Device Stand**
 
-<div><figure><img src="../.gitbook/assets/213bd14b-35ac-4bd1-a53c-0154242be36b (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/750b97d9-23a9-49c0-98e7-1294cacfb9ca.jpg" alt=""><figcaption></figcaption></figure></div>
+**What you will receive:**
+
+<figure><img src="../.gitbook/assets/c59c18ea-eaf3-496f-a99b-b865103d6cd7.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+**What it looks like after installation**&#x20;
+
+<div><figure><img src="../.gitbook/assets/12625662-5caa-44ec-936b-8b59719270fd.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/53128a9e-bf8b-4cdb-9a42-6b94d39040ac.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/938ae85f-d11f-4139-affb-2cb4e5911429.jpg" alt=""><figcaption></figcaption></figure></div>
 
 Introducing the **OP Device Stand** — the perfect solution for keeping your Comma device safe and secure while you work on updates, log uploads, or development. This **acrylic stand with a handle** allows you to place your Comma device on your desk or workspace securely, giving it a stable spot when not in use.
 
@@ -37,7 +43,17 @@ Whether you're developing, uploading logs, or updating your OP, the **OpenPilot 
 
 
 
-## Installation Instruction
+**Using it with a Magmount**
+
+<div><figure><img src="../.gitbook/assets/213bd14b-35ac-4bd1-a53c-0154242be36b (1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/750b97d9-23a9-49c0-98e7-1294cacfb9ca.jpg" alt=""><figcaption></figcaption></figure></div>
+
+**Using it with a Slidemount**
+
+<div><figure><img src="../.gitbook/assets/37112b01-319d-4a4e-99bc-f52502db2866.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/b0f1503a-aa53-452c-93ab-a88b2d9ad83e.jpg" alt=""><figcaption></figcaption></figure></div>
+
+
+
+## Installation Guide
 
 <figure><img src="../.gitbook/assets/installation 长图.jpg" alt=""><figcaption></figcaption></figure>
 
