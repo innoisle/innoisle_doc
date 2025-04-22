@@ -7,6 +7,7 @@
 * [Magmount Description](beartech/magmount.md)
 * [Magmount Installation Guide](beartech/magmount-1.md)
 * [Magmount Development Roadmaps](beartech/publish-your-docs.md)
+* [Slidemount Description](beartech/magmount-2.md)
 * [SDSU Description and Installation Guide](beartech/sdsu-description-and-installation-guide.md)
 * [Harness and Harness Box Description](beartech/harness-and-harness-box-description.md)
 * [Comma Pedal Description and Installation Guide](beartech/comma-pedal-description-and-installation-guide.md)
