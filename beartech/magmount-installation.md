@@ -50,7 +50,7 @@ icon: screwdriver-wrench
 8. Use the IPA wipes **(VHB Tape pack)** to thoroughly clean the marked area on the windshield
 9. Apply the Static film **(VHB Tape pack)** to the windshield. **Note**: If temperatures exceed 40°C (104°F), avoid using the static film.
 10. Take the Windshield Side Mount and the Windshield Side Mount cover **(DO NOT open it up yet)**.
-11. See [#prepare-your-magmount](magmount-1.md#prepare-your-magmount "mention")  applying VHB on Magmount. Remember to **clamp your mount** **and VHB** after you apply the VHB on the Magmount.
+11. See [#prepare-your-magmount](magmount-installation.md#prepare-your-magmount "mention")  applying VHB on Magmount. Remember to **clamp your mount** **and VHB** after you apply the VHB on the Magmount.
 12. Stack at least **2 pieces of VHB on** the surface that sticks to the windshield. Install Magmount at a **warm temperature** and **push firm** for best contact.
 13. Attach the Windshield Side Mount to the Static film you applied in strep 9
 

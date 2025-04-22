@@ -1,11 +1,11 @@
 ---
 description: 'Join our discord at: https://discord.innoisle.com/'
-icon: screwdriver-wrench
+icon: magnet
 ---
 
 # Slidemount Description
 
-cription:
+## Slidemount Pre-Order available now!
 
 We’ve heard your requests, and we're excited to introduce the **Beartech Slidemount**! After the success of the Magmount, we’re offering a **pre-order** for the Slidemount, available in **Essential** and **Pioneer** bundles.
 
@@ -14,7 +14,7 @@ We’ve heard your requests, and we're excited to introduce the **Beartech Slide
 The **Beartech Slidemount** was designed in response to community feedback:
 
 1. Users wanted a **quick-mount solution** that offers physical contact, as some felt uncomfortable using the **Magmount**.
-2. **Current Slidemount solutions** require a lot of space to install and remove, so we designed ours to take up only **half the space** for a more compact and efficient experience.
+2. **Current Slidemount solutions** require a lot of space to install and remove, so we designed ours to require only **half the space** for a more compact and efficient experience.
 
 ## Where to pre-order:
 
@@ -69,7 +69,7 @@ OP Device Stand: [https://shop.tlbb.ca/products/op-device-stand](https://shop.tl
 
 <div align="left"><figure><img src="../.gitbook/assets/2b0ccda2eeba6c9ef96674a01c19fd6.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-##
+## Warnings and Cautions
 
 1. Magnets:
    1. Warning: The strong magnets in this product can cause severe pinching injuries. Always handle with care and avoid placing fingers near the magnetic connection points. Do not play with the magnets, as they can attract unexpectedly and lead to injury.
