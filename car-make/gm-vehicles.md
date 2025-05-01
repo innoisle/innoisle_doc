@@ -103,3 +103,9 @@ description: What do you need for GM vehicles
 * Cadillac XT5 (CN)
 * Cadillac XT6 (CN)
 * Chevy Malibu XL (CN)
+
+
+
+#### More information regarding GM vehicles  - Comma Wiki for GM
+
+[https://github.com/commaai/openpilot/wiki/GM](https://github.com/commaai/openpilot/wiki/GM)
