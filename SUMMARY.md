@@ -19,6 +19,7 @@
 * [OpenPilot Comma 3 & 3X Screen Protector Film](beartech/openpilot-comma-3-and-3x-screen-protector-film.md)
 * [IR (Infrared) Filter](beartech/ir-infrared-filter.md)
 * [Device Stand](beartech/device-stand.md)
+* [Screen Protector](beartech/screen-protector.md)
 
 ## Car Make
 
