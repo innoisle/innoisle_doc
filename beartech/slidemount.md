@@ -20,7 +20,11 @@ The **Beartech Slidemount** was designed in response to community feedback:
 
 Slidemount Pre-order: [https://shop.tlbb.ca/products/beartech-slidemount-pre-order](https://shop.tlbb.ca/products/beartech-slidemount-pre-order)
 
+#### Videos:
 
+{% embed url="https://www.youtube.com/shorts/pY-kq5TgB6Y" %}
+
+{% embed url="https://www.youtube.com/shorts/LTKeOpZvHFU" %}
 
 ***
 

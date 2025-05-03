@@ -15,7 +15,11 @@ Magmount Essential Kit and Premium Kit: [https://shop.tlbb.ca/products/openpilot
 
 Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-add-on-for-comma-device](https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-add-on-for-comma-device)
 
+#### Videos:
 
+{% embed url="https://www.youtube.com/shorts/GSoOGO7cpKA" %}
+
+{% embed url="https://www.youtube.com/shorts/AnRGKL9YbV8" %}
 
 ***
 
