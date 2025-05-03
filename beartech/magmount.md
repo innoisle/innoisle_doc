@@ -17,7 +17,7 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 
 #### Videos:
 
-{% embed url="https://www.youtube.com/shorts/GSoOGO7cpKA" %}
+{% embed url="https://www.youtube.com/shorts/GSoOGO7cpKA" fullWidth="false" %}
 
 {% embed url="https://www.youtube.com/shorts/AnRGKL9YbV8" %}
 
