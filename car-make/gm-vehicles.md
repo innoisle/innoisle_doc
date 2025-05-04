@@ -6,6 +6,8 @@ description: What do you need for GM vehicles
 
 ### Vehicles require Pedal
 
+\*\* Pedal firmware for Bolt vehicles is still updating regularly. DFU key is highly recommended for a bolt pedal.
+
 #### What is needed:
 
 1. [Pedal](../beartech/comma-pedal-description-and-installation-guide.md)
