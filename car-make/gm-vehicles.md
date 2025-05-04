@@ -19,7 +19,7 @@ description: What do you need for GM vehicles
 * Chevy Bolt EV without ACC after 2022
 * Chevy Bolt EUV with and without ACC (before 2022)
 * Chevy Bolt EUV without ACC after 2022
-* Chevy Volt without ACC
+* Chevy Volt without ACC&#x20;
 
 ### How to identify which version of harness box is needed:
 
@@ -37,7 +37,7 @@ description: What do you need for GM vehicles
 
 ***
 
-### Vehicles require Harness & Harness box
+### Vehicles require GM Harness & Harness box
 
 #### What is needed:
 
@@ -56,7 +56,9 @@ description: What do you need for GM vehicles
 
 ***
 
-### Vehicles require ASCM
+### Vehicles require ASCM Harness & Harness box
+
+For steering control
 
 #### What is needed:
 
@@ -64,12 +66,14 @@ description: What do you need for GM vehicles
 
 #### GM:&#x20;
 
-* Chevy Volt (2016-2018)  （with Adaptive Cruise Control）- _pedal also needed_
+* Chevy Volt (2016-2018)  （with Adaptive Cruise Control）- _pedal optional for start from stop_
 * Acadia Denali （2018）
 
 ***
 
-### Vehicles require SDGM
+### Vehicles require SDGM Harness & Harness box
+
+For steering control
 
 #### What is needed:
 
@@ -78,17 +82,19 @@ description: What do you need for GM vehicles
 #### GM:&#x20;
 
 * Buick Enclave
-* Chevy Volt (2019) - _pedal also needed_
+* Chevy Volt (2019)  （with Adaptive Cruise Control）- _pedal also needed for start from stop_
 * Cadillac XT4
 * Chevy Traverse
 * Buick Baby Enclave (CN)
 * Cadillac XT5 (CN)
-* Cadillac XT6 (CN)
+* Cadillac XT6
 * Chevy Malibu XL (CN)
 
 ***
 
-### Vehicles require SASCM
+### Vehicles require SASCM&#x20;
+
+For speed control and to retain AEB.
 
 #### What is needed:
 
@@ -96,7 +102,7 @@ description: What do you need for GM vehicles
 
 #### GM:&#x20;
 
-* Chevy Volt (2019) - _pedal also needed_
+* Chevy Volt (2019)  （with Adaptive Cruise Control）- _pedal also needed for start from stop_
 * Acadia Denali （2018）
 * Buick Enclave
 * Cadillac XT4
