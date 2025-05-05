@@ -1,6 +1,6 @@
 ---
-icon: reel
 description: 'Join our discord at: https://discord.innoisle.com/'
+icon: reel
 ---
 
 # ASCM Harness
@@ -29,4 +29,23 @@ This harness is 2x9 pin and works with 2x9 pin harness box
 
 * Chevy Volt (2016-2018)  （with Adaptive Cruise Control）- _pedal also needed_
 * Acadia Denali （2018）
+
+
+
+## Installation Guide
+
+This is how you connect older style harness: https://docs.google.com/document/d/1bAoENo8edsbknXUx6bcx-L0-9dbgItJRCfd6DIyGDN0/edit?tab=t.0\
+For the new ASCM harness, please locate the ASCM module and run the harness like a normal openpilot setup.
+
+<figure><img src="../.gitbook/assets/企业微信截图_17463872074744.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/企业微信截图_17463872126240.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/企业微信截图_17463872198046.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/企业微信截图_17463872232894.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
 
