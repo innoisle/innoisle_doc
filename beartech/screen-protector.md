@@ -19,7 +19,10 @@ OP Device Stand: [https://shop.tlbb.ca/products/c3-c3x-screen-protector](https:/
 
 ## Product Description
 
-#### Screen Protector (2 Matte and 2 Clear)
+Based on the feedback we have received, matte screen protectors are more popular. Therefore, we will change the screen protector pack to 4 matte.\
+The clear screen protector will only be included in our carry case product.
+
+#### Screen Protector (4 Matte)
 
 **What you will receive:**
 
