@@ -6,6 +6,8 @@ We primarily use **ASA Carbon Fiber (ASA-CF)** material for our products. This h
 
 We used this material to print our product with Bambu Lab AMS and never had any issue.&#x20;
 
+Hardened steel nozzle is required; we have never had a clog issue.
+
 **Why ASA-CF?**
 
 ASA-CF (Acrylonitrile Styrene Acrylate Carbon Fiber) filament is ideal for creating structural components that require:
