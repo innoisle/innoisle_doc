@@ -4,6 +4,8 @@
 
 We primarily use **ASA Carbon Fiber (ASA-CF)** material for our products. This high-performance filament is carbon fiber reinforced and designed to deliver exceptional strength, dimensional stability, and surface quality.
 
+We used this material to print our product with Bambu Lab AMS and never had any issue.&#x20;
+
 **Why ASA-CF?**
 
 ASA-CF (Acrylonitrile Styrene Acrylate Carbon Fiber) filament is ideal for creating structural components that require:
@@ -24,6 +26,8 @@ We’ve sourced this premium material in bulk, as it’s difficult to find in No
 
 * **Special pricing** for community members
 * **Free shipping** when you purchase this material with other items from our store
+
+
 
 If you’re working on projects that require durable, lightweight, and high-quality 3D printed parts, this is the material for you!
 
