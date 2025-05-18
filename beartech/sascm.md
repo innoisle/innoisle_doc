@@ -13,7 +13,7 @@ SASCM: [https://shop.tlbb.ca/products/sascm-for-gm-vehicles](https://shop.tlbb.c
 
 Link to my Etsy Store:
 
-SDGM Harness Set: [https://www.etsy.com/ca/listing/1840924033/sascm-for-gm-vehicles](https://www.etsy.com/ca/listing/1840924033/sascm-for-gm-vehicles)
+SASCM Harness Set: [https://www.etsy.com/ca/listing/1840924033/sascm-for-gm-vehicles](https://www.etsy.com/ca/listing/1840924033/sascm-for-gm-vehicles)
 
 ***
 
