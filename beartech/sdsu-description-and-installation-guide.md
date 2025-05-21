@@ -1,6 +1,6 @@
 ---
-icon: engine
 description: 'Join our discord at: https://discord.innoisle.com/'
+icon: engine
 ---
 
 # SDSU Description and Installation Guide
@@ -19,6 +19,8 @@ Link to Retropilot Store: [https://shop.retropilot.org/product/c-sdsu-smartdsu/]
 
 SmartDSU enabling openpilot longitudinal control without removing AEB.
 
+SDSU will enable your experimental mode.
+
 For complete detail, please read this article:&#x20;
 
 {% embed url="https://github.com/wocsor/panda/tree/smart_dsu" %}
@@ -29,7 +31,7 @@ All the electronic components from innoisle on this device are AEC-Q100 & AEC-Q2
 
 Comma released a new update for their official branch 0.9.7. SDSU will no longer be supported in the official openpilot.
 
-If you would like to continue to use SDSU, please switch to SunnyPilot or FrogPilot.
+**If you would like to continue to use SDSU, please switch to SunnyPilot or FrogPilot.**
 
 See all available branches here:
 

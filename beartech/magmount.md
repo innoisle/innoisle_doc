@@ -44,6 +44,20 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 |                                | Threadlocker x1                |
 |                                | Set Screw x1                   |
 
+## What is a Dummy mount, and why do I need a premium package?
+
+Q: Why pick premium instead of essential?\
+A: Depends on your use case. Premium has one **dummy mount** that offer a way to mount your device under dash or steering wheel when you car is in park. Potential thief can’t see what’s under the steering wheel or under dash from peeking over the window.\
+Premium also has more mounting accessories that help make the mount stick better.\
+There is no circuitry inside the dummy mount. You can **only hang your device for storage**.
+
+I wrote this one Reddit, and this is the reason why we have a dummy mount:\
+The Magnetic mount solution from the community doesn't address this issue very well. I'm too lazy to store it in the glove box or the center console. Think about the process: You have to go into your glove box, reach for the device, take it out of the box if you don't want to scratch it, reach over the windshield, and mount it every time you enter the car. That's too much work!\
+This got me thinking, and I came up with a solution. In the premium set, I included a dummy mount. You can stick the dummy mount under the dash and then attach your device to it for storage. When you enter the car, grab your device and attach it to the real mount on the windshield before you even sit.\
+You still get everything you need from Essential if you just need a quick-mount. The Beartech Magmount is a clean and tidy solution for storing it, hiding away from thieves, and no more overheating when you start the car because the foot well area is colder and away from the sun.
+
+{% embed url="https://www.reddit.com/r/Comma_ai/comments/1gctg53/magnetic_quick_release_mount_from/" %}
+
 ## What sets it apart from other Magnetic mount solutions:
 
 1. 24 pogo pins enable full-feature type-c connections.
@@ -106,7 +120,11 @@ Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnet
 
 #### **What is included in Magmount Premium:**
 
-<div><figure><img src="../.gitbook/assets/Magmount  Set A pack 4-1-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Magmount Set B pack2-1.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/Magmount  Set A pack 4-1-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Magmount Set B pack2-1-1.jpg" alt=""><figcaption></figcaption></figure></div>
+
+
+
+Magmount set B is only included in the premium package
 
 **Magmount Premium includes everything in Magmount Essential, Plus Magmount Set B:**
 

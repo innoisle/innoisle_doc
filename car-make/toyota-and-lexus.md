@@ -4,6 +4,16 @@ description: What do you need for Honda vehicles
 
 # Toyota & Lexus
 
+### Notice:
+
+Comma released a new update for their official branch 0.9.7. SDSU will no longer be supported in the official openpilot.
+
+**If you would like to continue to use SDSU, please switch to SunnyPilot or FrogPilot.**
+
+**Please see the SDSU page for details:**&#x20;
+
+{% embed url="https://docs.innoisle.com/beartech/sdsu-description-and-installation-guide" %}
+
 ### Vehicles require SDSU + Pedal
 
 #### What is needed:
@@ -17,7 +27,7 @@ description: What do you need for Honda vehicles
 
 You will use openpilot longitudinal control instead of Toyota TSS-P ACC
 
-[SDSU](../beartech/sdsu-description-and-installation-guide.md) helps openpilot to gain longitudinal control. This will allow your openpilot the ability to accelerate from 20mph and slow down to 0mph.
+[SDSU](../beartech/sdsu-description-and-installation-guide.md) helps openpilot to gain longitudinal control. This will allow your openpilot the ability to accelerate from 20mph and slow down to 0mph. **SDSU will enable experimental mode.**
 
 [Pedal](../beartech/comma-pedal-description-and-installation-guide.md) covers the acceleration from 0mph to 20mph
 
@@ -34,9 +44,12 @@ You will use openpilot longitudinal control instead of Toyota TSS-P ACC
 #### **Lexus:**
 
 * Lexus ES350 (and hybird)  2017-2018
-* Lexus CT Hybird 2017-2018 (use pedal only if 0-25mph acceleration still requires you to step on your gas pedal)
-* Lexus NX  (and hybird) 2018-2019 (use pedal only if 0-25mph acceleration still requires you to step on your gas pedal)
-* Lexus RX  (and hybird) 2016-2019 (use pedal only if 0-25mph acceleration still requires you to step on your gas pedal)
+* Lexus CT Hybird 2017-2018 (pedal optional)
+* Lexus NX  (and hybird) 2018-2019 (pedal optional)
+* Lexus RX  (and hybird) 2016-2019 (pedal optional)
+* For Lexus vehicles, **add a pedal** if you encounter either of the occasions:&#x20;
+  * 0-25mph acceleration still requires you to step on your gas pedal
+  * The sng hack in the fork you use does not work for 0-25mph
 
 ***
 
