@@ -23,11 +23,17 @@ OP Device Stand: [https://www.etsy.com/ca/listing/1904708571/op-device-stand](ht
 
 **What you will receive:**
 
-<figure><img src="../.gitbook/assets/c59c18ea-eaf3-496f-a99b-b865103d6cd7.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/a72342ef-35a9-40c2-bbca-3cb034104973.jpg" alt=""><figcaption></figcaption></figure>
 
 **What it looks like after installation**&#x20;
 
+**Install with handle option (for home use):**
+
 <div><figure><img src="../.gitbook/assets/12625662-5caa-44ec-936b-8b59719270fd.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/53128a9e-bf8b-4cdb-9a42-6b94d39040ac.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/938ae85f-d11f-4139-affb-2cb4e5911429.jpg" alt=""><figcaption></figcaption></figure></div>
+
+**Install with a stand option (for car use):**
+
+<div><figure><img src="../.gitbook/assets/8d8512e1-390e-4a0d-9dc7-50e3fd53e9ee.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/8184fbc7-f51b-436a-96ef-8834993c3582.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/a8f06531-7f87-4ced-b6e9-876ece5b4df5.jpg" alt=""><figcaption></figcaption></figure></div>
 
 Introducing the **OP Device Stand** — the perfect solution for keeping your Comma device safe and secure while you work on updates, log uploads, or development. This **acrylic stand with a handle** allows you to place your Comma device on your desk or workspace securely, giving it a stable spot when not in use.
 

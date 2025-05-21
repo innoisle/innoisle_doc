@@ -23,7 +23,7 @@ Carry Case for C3/ C3X: [https://www.etsy.com/ca/listing/4308329070/carry-case-f
 
 **What you will receive:**
 
-<div><figure><img src="../.gitbook/assets/IMG_9030-1.JPG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/39fcf56c-5831-494b-8897-58385f55e050.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/IMG_9030-1.JPG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_9034.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **What it looks like after putting your comma in:**&#x20;
 
