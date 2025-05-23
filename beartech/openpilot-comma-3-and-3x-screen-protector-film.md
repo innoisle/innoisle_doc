@@ -1,5 +1,6 @@
 ---
 description: 'Join our discord at: https://discord.innoisle.com/'
+hidden: true
 icon: tarp-droplet
 ---
 

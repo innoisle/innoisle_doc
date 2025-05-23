@@ -21,6 +21,7 @@
 * [Device Stand](beartech/device-stand.md)
 * [Screen Protector](beartech/screen-protector.md)
 * [Carry Case for C3 / C3X](beartech/carry-case-for-c3-c3x.md)
+* [Bear Tech Product Development Road Map and Progress Tracker](beartech/bear-tech-product-development-road-map-and-progress-tracker.md)
 
 ## Car Make
 
