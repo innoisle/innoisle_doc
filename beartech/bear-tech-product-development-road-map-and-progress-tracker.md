@@ -177,6 +177,72 @@ After 5 months and no less than 10 iterations of the case selection and foam des
 The limited bonus item is an idea from a friend who mentioned that if someone wants to protect their device with a case, they probably want a screen protector. Thus, I sourced it and included it as a bonus. I hope my friend is right and that people who purchased it like it. It is an ultra-clear screen protector. If you are looking for a matted one, you can find them here: https://shop.tlbb.ca/products/c3-c3x-screen-protector\
 
 
+### Behind the Case: What We Tried Before
+
+**An Add-On to the Carry Case Story**
+
+Updated: 5/25/2025
+
+After we launched the final carry case for the Comma 3 and 3X, I thought it might be interesting to share a bit of what **didn’t** make the cut.
+
+This case went through more prototyping and sourcing than most people would believe. We didn’t just settle on the first decent box we found—we tried everything from rugged hard shells to sleek cloth styles. Many were eliminated on the spot, but these are the ones that made it home for actual testing.
+
+***
+
+**All the Cases We Sourced and Tested**
+
+<div><figure><img src="../.gitbook/assets/all-2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/all.jpg" alt=""><figcaption></figcaption></figure></div>
+
+These two photos capture the bulk of what we ordered in. From early contenders to long-shot experiments. Some looked great, some felt durable—but **none were just right**.
+
+***
+
+**Pelican-Style Hard Cases**
+
+<figure><img src="../.gitbook/assets/pelican.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+These came up first in community feedback—**rugged, waterproof, tough as nails**. But they all shared one major flaw: **they’re huge**. Glove box? Not a chance. Backpack? Tight squeeze. And walking around with one felt like carrying a briefcase full of cash. Not the low-key look we were going for.
+
+***
+
+**Cloth Cases – Hard and Soft Variants**
+
+<figure><img src="../.gitbook/assets/cloth case.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+We tried plenty of these too. The **hard cloth cases** offered some structure, and the **soft ones** were lightweight. But the styling wasn’t great, and none of the sizes quite hit the mark. They just didn’t feel like a product we’d want to put our name on.
+
+***
+
+**Finalist Styles – Travel-Case Inspired**
+
+<figure><img src="../.gitbook/assets/finalist.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+This is where the breakthrough happened. These sleek, luggage-style cases were **protective, compact, and actually good-looking**. We tested different finishes (metallic, matte, black, champagne gold) and finally landed on our signature gunmetal with diagonal ribs.
+
+***
+
+**TPU Insert Prototypes**
+
+<figure><img src="../.gitbook/assets/tpu insert.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+Before we finalized the foam insert, we 3D-printed some slick TPU molds. They looked cool—and were fun to prototype—but didn’t absorb impact well. Plus, once we factored in the Magmount attached to the device, **the fit failed**. Back to the drawing board.
+
+***
+
+**CNC-Cut Foam Inserts – The Final Answer**
+
+<figure><img src="../.gitbook/assets/foam.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+After many layout tweaks, this foam gave us exactly what we wanted: a **secure fit**, drop protection, and modular options for different accessories. We added a **thumb cut-out** so you can lift your device out easily with one hand, and we **glued the foam into the case** to prevent shifting or pop-out accidents.
+
+***
+
+This update isn’t about what succeeded—it’s about what _didn’t_, and how each misstep helped us inch closer to a case that really works.
+
+Thanks to everyone in the community who shared what they wanted. Your input helped shape not just what we built—but what we **chose not to build**.
+
+
+
 
 
 
