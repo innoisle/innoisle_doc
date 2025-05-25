@@ -84,7 +84,7 @@ For steering control
 * Buick Enclave
 * Chevy Volt (2019)  （with Adaptive Cruise Control）- _pedal optional for start from stop_
 * Cadillac XT4
-* Chevy Traverse
+* Chevy Traverse (2022-2023)
 * Buick Baby Enclave (CN)
 * Cadillac XT5 (CN)
 * Cadillac XT6
@@ -106,7 +106,7 @@ For speed control and to retain AEB.
 * Acadia Denali （2018）
 * Buick Enclave
 * Cadillac XT4
-* Chevy Traverse
+* Chevy Traverse  (2022-2023)
 * Buick Baby Enclave (CN)
 * Cadillac XT5 (CN)
 * Cadillac XT6 (CN)

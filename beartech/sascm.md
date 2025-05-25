@@ -30,7 +30,7 @@ It will intercept your ASCM module, allowing Openpilot to send a longitudinal co
 * Acadia Denali （2018）
 * Buick Enclave
 * Cadillac XT4
-* Chevy Traverse
+* Chevy Traverse  (2022-2023)
 * Buick Baby Enclave (CN)
 * Cadillac XT5 (CN)
 * Cadillac XT6 (CN)

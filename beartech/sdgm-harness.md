@@ -32,7 +32,7 @@ This harness is 2x9 pin and works with 2x9 pin harness box
 * Buick Enclave
 * Chevy Volt (2019)
 * Cadillac XT4
-* Chevy Traverse
+* Chevy Traverse  (2022-2023)
 * Buick Baby Enclave (CN)
 * Cadillac XT5 (CN)
 * Cadillac XT6 (CN)
