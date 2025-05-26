@@ -116,4 +116,8 @@ For speed control and to retain AEB.
 
 #### More information regarding GM vehicles  - Comma Wiki for GM
 
-[https://github.com/commaai/openpilot/wiki/GM](https://github.com/commaai/openpilot/wiki/GM)
+{% embed url="https://github.com/commaai/openpilot/wiki/GM" %}
+
+**GM Bolt Installation Guide**&#x20;
+
+[https://docs.google.com/document/u/0/d/1-MPeSlzj-705sbGkDHYGqSl7sVDFSFTqGrebiH0gNfY/mobilebasic#h.1tvlrgmmu9ao](https://docs.google.com/document/u/0/d/1-MPeSlzj-705sbGkDHYGqSl7sVDFSFTqGrebiH0gNfY/mobilebasic#h.1tvlrgmmu9ao)
