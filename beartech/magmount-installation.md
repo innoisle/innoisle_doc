@@ -21,12 +21,14 @@ Update: We are currently in a transition phase, where we try to preapply VHB tap
 
 1. Warning: Apply the VHB tape to the magmount, angle wedges or comma mount adapter first before you stick it on the windshield. And apply the VHB in warm temp.\
    If you are reapplying the VHB tape, Clean the surface with isopropyl alcohol and ensure that no residue remains.
-2. Take the Windshield Side Mount and the Windshield Side Mount cover **(DO NOT open it up yet)**.
-3. Wipe the back of the Windshield Side Mount with the IPA wipe.
-4. Apply adhesion promoter to every surface that the VHB is going to stick to and let it dry. (If you have windshield tint, please try it on a small area first, some tint does not do well with the adhesion promoter)
-5. Apply VHB tape to the Windshield Side Mount.
-6. **Clamp or use weight** on the complete magmount for **at least 5 hours** so VHB makes perfect contact to the surface. **Every VHB-connected surface** needs to be clamped. (The complete magmount here means magount with VHB or the magmount with angle wedges and VHB or magmount with mount adapter sticked together. )
-7. For the VHB that sticks to the windshield, you need to stack at least **two pieces VHB tapes** (each 1.1mm thick for a total of 2.2mm) so that the middle of the tape makes good contact with your curved windshield. You don't need to stack two pieces of VHB if you received the gray VHB that's thicker. (gray VHB is 1.6mm)
+2. **(Important)** The ideal application temperature for VHB is above 70°F or 21°C. The minimum application temperature is 50°F and 10°C. If the temperature is lower than the minimum required, you can try to heat up the application area before and after attaching the magmount. Use common sense when heating the application area and avoid overheating or leaving it unattended. The VHB also need the above minimum required temperature for curing. Please leave it at least 24 hours or 1.5x the curing time recommended by 3M. Below is a snippet of recommended bond time from the 3M datasheet.
+3. ![](../.gitbook/assets/image.png)
+4. Take the Windshield Side Mount and the Windshield Side Mount cover **(DO NOT open it up yet)**.
+5. Wipe the back of the Windshield Side Mount with the IPA wipe.
+6. Apply adhesion promoter to every surface that the VHB is going to stick to and let it dry. (If you have windshield tint, please try it on a small area first, some tint does not do well with the adhesion promoter)
+7. Apply VHB tape to the Windshield Side Mount.
+8. **Clamp or use weight** on the complete magmount for **at least 5 hours** so VHB makes perfect contact to the surface. **Every VHB-connected surface** needs to be clamped. (The complete magmount here means magount with VHB or the magmount with angle wedges and VHB or magmount with mount adapter sticked together. )
+9. For the VHB that sticks to the windshield, you need to stack at least **two pieces VHB tapes** (each 1.1mm thick for a total of 2.2mm) so that the middle of the tape makes good contact with your curved windshield. You don't need to stack two pieces of VHB if you received the gray VHB that's thicker. (gray VHB is 1.6mm)
 
 #### Magmount Windshield and Device Side Installation Guide
 
@@ -53,8 +55,9 @@ Update: We are currently in a transition phase, where we try to preapply VHB tap
 9. Apply the Static film **(VHB Tape pack)** to the windshield. **Note**: If temperatures exceed 40°C (104°F), avoid using the static film.
 10. Take the Windshield Side Mount and the Windshield Side Mount cover **(DO NOT open it up yet)**.
 11. See [#prepare-your-magmount](magmount-installation.md#prepare-your-magmount "mention")  applying VHB on Magmount. Remember to **clamp your mount** **and VHB** after you apply the VHB on the Magmount.
-12. Stack at least **2 pieces of VHB on** the surface that sticks to the windshield. Install Magmount at a **warm temperature** and **push firm** for best contact.
-13. Attach the Windshield Side Mount to the Static film you applied in strep 9
+12. **(Important)** The ideal application temperature for VHB is above 70°F or 21°C. The minimum application temperature is 50°F and 10°C. If the temperature is lower than the minimum required, you can try to heat up the application area before and after attaching the magmount. Use common sense when heating the application area and avoid overheating or leaving it unattended. The VHB also need the above minimum required temperature for curing. Please leave it at least 24 hours or 1.5x the curing time recommended by 3M. Below is a snippet of recommended bond time from the 3M datasheet.\
+    ![](../.gitbook/assets/image.png)
+13. Attach the Windshield Side Mount to the Static film if you applied it in step 9, or attach it to the windshield if the static film isn't applied. Try not to leave bubbles in VHB. Install it at a warm temperature and push firmly for optimal contact. During the time when VHB is curing, push firmly every hour to achieve optimal adhesion.&#x20;
 
 <figure><img src="../.gitbook/assets/IMG_7119-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
