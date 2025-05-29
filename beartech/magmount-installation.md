@@ -15,6 +15,8 @@ icon: screwdriver-wrench
 
 ### Installation Steps
 
+Update: We are currently in a transition phase, where we try to preapply VHB tape for the customer. If you received a Magmount/Slidemount with a gray pre-applied VHB, you don't need to prepare your Magmount. We have already prepared it for you. You also don't need to stack two VHB tapes with the gray VHB tape, since the gray one is thicker.
+
 #### Prepare your magmount:
 
 1. Warning: Apply the VHB tape to the magmount, angle wedges or comma mount adapter first before you stick it on the windshield. And apply the VHB in warm temp.\
@@ -24,7 +26,7 @@ icon: screwdriver-wrench
 4. Apply adhesion promoter to every surface that the VHB is going to stick to and let it dry. (If you have windshield tint, please try it on a small area first, some tint does not do well with the adhesion promoter)
 5. Apply VHB tape to the Windshield Side Mount.
 6. **Clamp or use weight** on the complete magmount for **at least 5 hours** so VHB makes perfect contact to the surface. **Every VHB-connected surface** needs to be clamped. (The complete magmount here means magount with VHB or the magmount with angle wedges and VHB or magmount with mount adapter sticked together. )
-7. For the VHB that sticks to the windshield, you need to stack at least **two pieces VHB tapes** (each 1.1mm thick for a total of 2.2mm) so that the middle of the tape makes good contact with your curved windshield.
+7. For the VHB that sticks to the windshield, you need to stack at least **two pieces VHB tapes** (each 1.1mm thick for a total of 2.2mm) so that the middle of the tape makes good contact with your curved windshield. You don't need to stack two pieces of VHB if you received the gray VHB that's thicker. (gray VHB is 1.6mm)
 
 #### Magmount Windshield and Device Side Installation Guide
 
