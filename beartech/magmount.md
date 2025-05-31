@@ -287,8 +287,8 @@ If you would like to cover BOTH windshield mount AND device mount SEPARATELY, pl
 
 Learn about the development process and tests we have done.
 
-{% content-ref url="publish-your-docs.md" %}
-[publish-your-docs.md](publish-your-docs.md)
+{% content-ref url="bear-tech-product-development-road-map-and-progress-tracker.md" %}
+[bear-tech-product-development-road-map-and-progress-tracker.md](bear-tech-product-development-road-map-and-progress-tracker.md)
 {% endcontent-ref %}
 
 ## Warnings and Cautions

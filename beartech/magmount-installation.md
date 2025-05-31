@@ -3,19 +3,29 @@ description: 'Join our discord at: https://discord.innoisle.com/'
 icon: screwdriver-wrench
 ---
 
-# Magmount Installation Guide
+# Magmount & Slidemount Installation Guide
 
-## Magmount Description and Comparison&#x20;
+\*Disclaimer: This is a guide only.
 
-{% content-ref url="magmount.md" %}
-[magmount.md](magmount.md)
-{% endcontent-ref %}
-
+**This installation guide applies to both magmount and slidemount.** \
+**The difference will be indicated in the guide.** \
 
 
 ### Installation Steps
 
-Update: We are currently in a transition phase, where we try to preapply VHB tape for the customer. If you received a Magmount/Slidemount with a gray pre-applied VHB, you don't need to prepare your Magmount. We have already prepared it for you. You also don't need to stack two VHB tapes with the gray VHB tape, since the gray one is thicker.
+**Update:** We are currently in a transition phase, where we try to preapply VHB tape for the customer. However, due to time constraints, we might not be able to pre-apply for every single mount.&#x20;
+
+If you received a Magmount/Slidemount with a gray pre-applied VHB, you **don't need to** prepare your Magmount. We have already prepared it for you. You also **don't need to stack two VHB** tapes with the gray VHB tape, since the gray one is thicker.
+
+<div><figure><img src="../.gitbook/assets/Photo 2025-05-31, 09 50 44.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Photo 2025-05-31, 09 51 27.jpg" alt=""><figcaption></figcaption></figure></div>
+
+Why are there two different types of VHB?\
+Based on customer feedback, we found that some windshields are more curved. In this case, a thicker VHB would be helpful. Using the thick version VHB **OR** stacking 2 pieces of thin version VHB would have the same result.\
+In some scenarios, adhesion promoter with 1 thin layer of VHB already works. The other pieces are all extras for testing and remounting purposes.&#x20;
+
+You might need 1 layer/ 2 layers of VHB based on your local weather and windshield curvature.  (**Maximum 2 pieces** of thin version VHB and adhesion promoter is needed)\
+There should be sufficient VHB included in your package.\
+Please preapply adhesion promoter on your windshield mount before applying the VHB.
 
 #### Prepare your magmount:
 
@@ -57,7 +67,8 @@ Update: We are currently in a transition phase, where we try to preapply VHB tap
 11. See [#prepare-your-magmount](magmount-installation.md#prepare-your-magmount "mention")  applying VHB on Magmount. Remember to **clamp your mount** **and VHB** after you apply the VHB on the Magmount.
 12. **(Important)** The ideal application temperature for VHB is above 70°F or 21°C. The minimum application temperature is 50°F and 10°C. If the temperature is lower than the minimum required, you can try to heat up the application area before and after attaching the magmount. Use common sense when heating the application area and avoid overheating or leaving it unattended. The VHB also need the above minimum required temperature for curing. Please leave it at least 24 hours or 1.5x the curing time recommended by 3M. Below is a snippet of recommended bond time from the 3M datasheet.\
     ![](../.gitbook/assets/image.png)
-13. Attach the Windshield Side Mount to the Static film if you applied it in step 9, or attach it to the windshield if the static film isn't applied. Try not to leave bubbles in VHB. Install it at a warm temperature and push firmly for optimal contact. During the time when VHB is curing, push firmly every hour to achieve optimal adhesion.&#x20;
+13. For slidemount installation, you need to leave enough room to slide the mount in and out. Please leave minimum 3.5cm (1.4 inch)&#x20;
+14. Attach the Windshield Side Mount to the Static film if you applied it in step 9, or attach it to the windshield if the static film isn't applied. Try not to leave bubbles in VHB. Install it at a warm temperature and push firmly for optimal contact. During the time when VHB is curing, push firmly every hour to achieve optimal adhesion.&#x20;
 
 <figure><img src="../.gitbook/assets/IMG_7119-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -71,7 +82,7 @@ Update: We are currently in a transition phase, where we try to preapply VHB tap
 
 <div><figure><img src="../.gitbook/assets/IMG_2281.JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_2283.JPG" alt=""><figcaption></figcaption></figure></div>
 
-18. _**Warning**_: Only tighten the set screw if the mount is loose on your comma device. By design, the mount should be a very tight fit with your comma device, and it has been tested on both C3 and C3X. The set screw is there if you are using a comma clone device and the mount is loose on your device. \
+18. _**For Magmount set screw instruction, Warning**_: Only tighten the set screw if the mount is loose on your comma device. By design, the mount should be a very tight fit with your comma device, and it has been tested on both C3 and C3X. The set screw is there if you are using a comma clone device and the mount is loose on your device. \
     Apply a drop of Thread Locker **(Magmount Premium)** to the set screw. Use the Allen Key **(Magmount Premium)** to tighten the set screw on the Device Side Mount
 
 <div><figure><img src="../.gitbook/assets/IMG_2285-1 (2).JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_2282.JPG" alt=""><figcaption></figcaption></figure></div>
@@ -80,8 +91,14 @@ Update: We are currently in a transition phase, where we try to preapply VHB tap
 
 <figure><img src="../.gitbook/assets/Set screw.png" alt=""><figcaption></figcaption></figure>
 
-20. Carefully remove the Windshield Side Mount Cover and attach the Device Side Mount to the Windshield Side Mount. **Be cautious,** as the magnet is very strong and can pinch your fingers.
-21. &#x20;Use the bubble level **(Installation Kit)** to ensure the Comma Device is level
+20. For Slidemount set screw instruction: \
+    \- Tighten the pre-install set screws at the left and right side of the Slidemount.\
+    \- Tighten it just enough that you can't move the Slidemount.\
+    \- Do not over-tighten it, as the screw is small and is only intended to prevent movement.
+
+    <figure><img src="../.gitbook/assets/企业微信截图_17486580636245.png" alt=""><figcaption></figcaption></figure>
+21. Carefully remove the Windshield Side Mount Cover and attach the Device Side Mount to the Windshield Side Mount. **Be cautious,** as the magnet is very strong and can pinch your fingers.
+22. &#x20;Use the bubble level **(Installation Kit)** to ensure the Comma Device is level
 
 <div align="left"><figure><img src="../.gitbook/assets/IMG_7132.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -105,13 +122,7 @@ Update: We are currently in a transition phase, where we try to preapply VHB tap
 
 
 
-## Development Roadmaps
 
-Learn about the development process and tests we have done.
-
-{% content-ref url="publish-your-docs.md" %}
-[publish-your-docs.md](publish-your-docs.md)
-{% endcontent-ref %}
 
 ## Warnings and Cautions
 

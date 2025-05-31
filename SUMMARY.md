@@ -5,8 +5,7 @@
 ## BearTech
 
 * [Magmount Description](beartech/magmount.md)
-* [Magmount Installation Guide](beartech/magmount-installation.md)
-* [Magmount Development Roadmaps](beartech/publish-your-docs.md)
+* [Magmount & Slidemount Installation Guide](beartech/magmount-installation.md)
 * [Slidemount Description](beartech/slidemount.md)
 * [SDSU Description and Installation Guide](beartech/sdsu-description-and-installation-guide.md)
 * [Harness and Harness Box Description](beartech/harness-and-harness-box-description.md)
@@ -31,6 +30,12 @@
 * [Ford Vehicles](car-make/ford-vehicles.md)
 * [VW Vehicles](car-make/vw-vehicles.md)
 * [Tesla Pre-AP](car-make/tesla-pre-ap.md)
+
+## Attaky
+
+* [Attaky Module](attaky/attaky-module.md)
+* [Attaky Development Road Map and Progress Tracker](attaky/attaky-development-road-map-and-progress-tracker.md)
+* [Attaky Use Cases](attaky/attaky-use-cases.md)
 
 ## Materials
 
