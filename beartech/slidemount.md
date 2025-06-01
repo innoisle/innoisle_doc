@@ -5,9 +5,9 @@ icon: magnet
 
 # Slidemount Description
 
-## Slidemount Pre-Order available now!
+## Description:
 
-We’ve heard your requests, and we're excited to introduce the **Beartech Slidemount**! After the success of the Magmount, we’re offering a **pre-order** for the Slidemount, available in **Essential** and **Pioneer** bundles.
+We’ve heard your requests, and we're excited to introduce the **Beartech Slidemount**!&#x20;
 
 **Why Did We Create the Slidemount?**
 
@@ -16,49 +16,11 @@ The **Beartech Slidemount** was designed in response to community feedback:
 1. Users wanted a **quick-mount solution** that offers physical contact, as some felt uncomfortable using the **Magmount**.
 2. **Current Slidemount solutions** require a lot of space to install and remove, so we designed ours to require only **half the space** for a more compact and efficient experience.
 
-## Where to pre-order:
+## Where to buy:
 
-Slidemount Pre-order: [https://shop.tlbb.ca/products/beartech-slidemount-pre-order](https://shop.tlbb.ca/products/beartech-slidemount-pre-order)
+Slidemount set and single windshield mount: [https://shop.tlbb.ca/products/beartech-slidemount](https://shop.tlbb.ca/products/beartech-slidemount)
 
-#### Videos:
-
-{% embed url="https://www.youtube.com/shorts/pY-kq5TgB6Y" %}
-
-{% embed url="https://www.youtube.com/shorts/LTKeOpZvHFU" %}
-
-***
-
-<figure><img src="../.gitbook/assets/Beartech Slidemount Pre-order Post essential.png" alt=""><figcaption></figcaption></figure>
-
-## Essential Kit VS Premium Kit
-
-What is included in Essential Kit:
-
-* 1 x **Windshield Slidemount** (with VHB tape pre-applied)
-* 1 x **Device Slidemount**
-* 1 x **15cm (6-inch) Type-C Cable**
-* 1 x **45cm (\~18-inch) Type-C Cable**
-* 1 x **Tightening Kit**
-* 2 x **VHB Tapes and Clean Kits**
-* 2 x **Adhesion Promoters**
-
-The **Essential Bundle** includes the core components for mounting, while the **Premium Bundle** offers the same components plus a **free upgrade** to the latest version of the Slidemount, redeemable a year later.
-
-
-
-## Add-ons
-
-The **Slidemount** will not include a dummy mount like the **Magmount** to keep the product clean and concise, as many users didn’t understand its purpose.&#x20;
-
-If you still wish to protect your Comma device, we will have our **storage case** available soon.&#x20;
-
-Additionally, accessories and add-ons such as the **Angle Wedge**, **Comma Mount Adapter**, and **OP Device Stand** are shared between the **Magmount** and **Slidemount**.
-
-You can find them at:
-
-Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-add-on-for-comma-device](https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-add-on-for-comma-device)
-
-OP Device Stand: [https://shop.tlbb.ca/products/op-device-stand](https://shop.tlbb.ca/products/op-device-stand)
+Add-on Mounts for Magmount/ Slidemount: [https://shop.tlbb.ca/products/magmount-addon](https://shop.tlbb.ca/products/magmount-addon)
 
 
 
@@ -72,6 +34,112 @@ OP Device Stand: [https://shop.tlbb.ca/products/op-device-stand](https://shop.tl
 * And any windshield that makes your comma device tilt more than 5 degree
 
 <div align="left"><figure><img src="../.gitbook/assets/2b0ccda2eeba6c9ef96674a01c19fd6.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+
+
+## Installation Guide:
+
+{% content-ref url="magmount-installation.md" %}
+[magmount-installation.md](magmount-installation.md)
+{% endcontent-ref %}
+
+## Videos:
+
+{% embed url="https://www.youtube.com/shorts/pY-kq5TgB6Y" %}
+
+{% embed url="https://www.youtube.com/shorts/LTKeOpZvHFU" %}
+
+***
+
+## **What is included:**
+
+**What is included in the Slidemount Set:**
+
+<div><figure><img src="../.gitbook/assets/slidemount set1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/slidemount set2.jpg" alt=""><figcaption></figcaption></figure></div>
+
+**Slidemount Set:**\
+1\. Slidemount Set Pack:\
+\- Device Side Mount x1\
+\- Windshield Side Mount x1\
+\- Windshield Mount Cover x1\
+(Prevent short-circuiting after the device is pulled off)\
+2\. Type C pack\
+\- 13cm Right Angle Head Type-C to Right Angle Head Type-C Cable\
+(Connect the comma device and the Device Side Mount)\
+\- 45cm Right Angle Head Type-C to Stright Type-C Cable\
+(Connect harness box and the Windshield Side Mount)\
+3\. VHB Tape pack\
+\- Cut to size 3M VHB Tape x2\
+(Stick the Windshield Side Mount to Car Windshield)\
+\- Wet & Dry wipes x2\
+(Clean the windshield before apply)\
+\- IPA wipe x2\
+(Clean the windshield before apply)\
+\- Static film x2\
+(Stick to the windshield before sticking the VHB tape for easy removal in the future\
+ONLY stick to glass (no tint on the windshield)\
+If the temperature in your area is above 40C (or 104F), static film is not recommended)\
+4\. Adhesion Promoter pack\
+\- Adhesion Promoter Wipe x2\
+(Enhance adhesion for non-glass surfaces, adhesion for dummy mount)\
+\- PE gloves x2\
+4\. Tightening Kit x1\
+(Adjust set screw)\
+Allen Key x1\
+Set Scre x2
+
+
+
+**What is included in Windshield Slidemount:**
+
+<div><figure><img src="../.gitbook/assets/windshield2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/windshield1.jpg" alt=""><figcaption></figcaption></figure></div>
+
+1\. Windshield Slidemount Pack:\
+\- Windshield Side Mount x1\
+\- Windshield Mount Cover x1\
+(Prevent short-circuiting after the device is pulled off)\
+2\. Type C pack\
+\- 45cm Right Angle Head Type-C to Stright Type-C Cable\
+(Connect harness box and the Windshield Side Mount)\
+3\. VHB Tape pack\
+\- Cut to size 3M VHB Tape x2\
+(Stick the Windshield Side Mount to Car Windshield)\
+\- Wet & Dry wipes x2\
+(Clean the windshield before apply)\
+\- IPA wipe x2\
+(Clean the windshield before apply)\
+\- Static film x2\
+(Stick to the windshield before sticking the VHB tape for easy removal in the future\
+ONLY stick to glass (no tint on the windshield)\
+If the temperature in your area is above 40C (or 104F), static film is not recommended)\
+4\. Adhesion Promoter pack\
+\- Adhesion Promoter Wipe x2\
+(Enhance adhesion for non-glass surfaces, adhesion for dummy mount)\
+\- PE gloves x2
+
+
+
+## Add-ons
+
+The **Slidemount** will not include a dummy mount like the **Magmount** to keep the product clean and concise, as many users didn’t understand its purpose.&#x20;
+
+If you still wish to protect your Comma device, we have our **storage case**.&#x20;
+
+{% content-ref url="carry-case-for-c3-c3x.md" %}
+[carry-case-for-c3-c3x.md](carry-case-for-c3-c3x.md)
+{% endcontent-ref %}
+
+Additionally, accessories and add-ons such as the **Angle Wedge**, **Comma Mount Adapter**, and **OP Device Stand** are shared between the **Magmount** and **Slidemount**.
+
+You can find them at:
+
+Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-add-on-for-comma-device](https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-add-on-for-comma-device)
+
+OP Device Stand: [https://shop.tlbb.ca/products/op-device-stand](https://shop.tlbb.ca/products/op-device-stand)
+
+
+
+
 
 ## Warnings and Cautions
 
