@@ -84,16 +84,18 @@ Please preapply adhesion promoter on your windshield mount before applying the V
 
 <div><figure><img src="../.gitbook/assets/IMG_2281.JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_2283.JPG" alt=""><figcaption></figcaption></figure></div>
 
-18. _**For Magmount set screw instruction, Warning**_: Only tighten the set screw if the mount is loose on your comma device. By design, the mount should be a very tight fit with your comma device, and it has been tested on both C3 and C3X. The set screw is there if you are using a comma clone device and the mount is loose on your device. \
+18. _**For Magmount set screw instructions, Magmount Warning**_: (Set screw is optional for Magmount) Only tighten the set screw if the mount is loose on your comma device. By design, the mount should be a very tight fit with your comma device, and it has been tested on both C3 and C3X. For Magmount: The set screw is there if you are using a comma clone device and the mount is loose on your device. \
+    \
     Apply a drop of Thread Locker **(Magmount Premium)** to the set screw. Use the Allen Key **(Magmount Premium)** to tighten the set screw on the Device Side Mount
 
 <div><figure><img src="../.gitbook/assets/IMG_2285-1 (2).JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_2282.JPG" alt=""><figcaption></figcaption></figure></div>
 
-19. Tighten it just enough that there is a gap between the mount and the device. Make sure this line is straight, not curved when you tighten the set screw.
+19. Tighten it just enough that there is a gap between the mount and the device. Make sure this line is straight, not curved when you tighten the set screw.\
+    &#xNAN;_**This also applies if you get the tightening kit for your Slidemount, Warning**_: Slidemount use two smaller set screw to make it secure on the device. ¼ set screw is not for Slidemount. Only in extreme cases might you need it to secure the Slidemount onto the device using ¼ set screw. In the case that you use the ¼ set screw, please don't over-tighten it and damage your Slidemount. The following guide is for Magmount, but some of the process still applies to Slidemount. Proceed at your own risk.
 
 <figure><img src="../.gitbook/assets/Set screw.png" alt=""><figcaption></figcaption></figure>
 
-20. For Slidemount set screw instruction: \
+20. For Slidemount set screw instructionv (Set screw is required for Slidemount): \
     \- Tighten the pre-install set screws at the left and right side of the Slidemount.\
     \- Tighten it just enough that you can't move the Slidemount.\
     \- Do not over-tighten it, as the screw is small and is only intended to prevent movement.
