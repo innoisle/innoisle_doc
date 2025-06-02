@@ -18,6 +18,8 @@ The **Beartech Slidemount** was designed in response to community feedback:
 
 **Warning: Slidemount does not support 3rd party comma devices, we don't guarantee compatibility of Slidemount on any device other than comma C3X, C3 and C2. Thank you for understanding.**
 
+**Slidemount use two set screws to secure the device mount to your device. Which will create a small dent or scratches. You can check Magmount which does not require set screws.**
+
 ## Where to buy:
 
 Slidemount set and single windshield mount: [https://shop.tlbb.ca/products/beartech-slidemount](https://shop.tlbb.ca/products/beartech-slidemount)
