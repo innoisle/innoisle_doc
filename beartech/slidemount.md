@@ -16,7 +16,7 @@ The **Beartech Slidemount** was designed in response to community feedback:
 1. Users wanted a **quick-mount solution** that offers physical contact, as some felt uncomfortable using the **Magmount**.
 2. **Current Slidemount solutions** require a lot of space to install and remove, so we designed ours to require only **half the space** for a more compact and efficient experience.
 
-**Warning: Slidemount may not support 3rd party comma devices, we don't guarantee compatibility of Slidemount on any device other than comma C3X, C3 and C2. Thank you for understanding.**
+**Warning: Slidemount does not support 3rd party comma devices, we don't guarantee compatibility of Slidemount on any device other than comma C3X, C3 and C2. Thank you for understanding.**
 
 ## Where to buy:
 
