@@ -27,6 +27,8 @@ You might need 1 layer/ 2 layers of VHB based on your local weather and windshie
 There should be sufficient VHB included in your package.\
 Please preapply adhesion promoter on your windshield mount before applying the VHB.
 
+**Warning: Slidemount may not support 3rd party comma devices, we don't guarantee compatibility of Slidemount on any device other than comma C3X, C3 and C2. Thank you for understanding.**
+
 #### Prepare your magmount:
 
 1. Warning: Apply the VHB tape to the magmount, angle wedges or comma mount adapter first before you stick it on the windshield. And apply the VHB in warm temp.\
