@@ -11,9 +11,11 @@ icon: screwdriver-wrench
 **The difference will be indicated in the guide.** \
 
 
-### Installation Steps
+## Updates:
 
-**Update:** We are currently in a transition phase, where we try to preapply VHB tape for the customer. However, due to time constraints, we might not be able to pre-apply for every single mount.&#x20;
+### VHB Tape
+
+We are currently in a transition phase, where we try to preapply VHB tape for the customer. However, due to time constraints, we might not be able to pre-apply for every single mount.&#x20;
 
 If you received a Magmount/Slidemount with a gray pre-applied VHB, you **don't need to** prepare your Magmount. We have already prepared it for you. You also **don't need to stack two VHB** tapes with the gray VHB tape, since the gray one is thicker.
 
@@ -27,7 +29,29 @@ You might need 1 layer/ 2 layers of VHB based on your local weather and windshie
 There should be sufficient VHB included in your package.\
 Please preapply adhesion promoter on your windshield mount before applying the VHB.
 
-**Warning: Slidemount may not support 3rd party comma devices, we don't guarantee compatibility of Slidemount on any device other than comma C3X, C3 and C2. Thank you for understanding.**
+### **Set Screw:**
+
+**\*Over-tightening the set screw could break your magmount/ slidemount**
+
+For magmount set screw is **not required** unless you require extra tightness.\
+\- **Do not over-tighten it**, as the screw is small and is only intended to prevent movement.
+
+For Slidemount set screw instruction **(Set screw is required for Slidemount)**: \
+\- Tighten the pre-install set screws at the left and right side of the Slidemount.\
+\- Tighten it **just enough** that you can't move the Slidemount.\
+\- **Do not over-tighten it**, as the screw is small and is only intended to prevent movement.
+
+<figure><img src="../.gitbook/assets/企业微信截图_17486580636245.png" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
+### **Warning:**&#x20;
+
+**Slidemount may not support 3rd party comma devices, we don't guarantee compatibility of Slidemount on any device other than comma C3X, C3 and C2. Thank you for understanding.**
+
+***
+
+## Installation Steps
 
 #### Prepare your magmount:
 

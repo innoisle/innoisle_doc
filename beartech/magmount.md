@@ -9,6 +9,8 @@ icon: screwdriver-wrench
 
 The Magmount is your go-to magnetic mount for the comma device, featuring 24 pogo pins for a full-feature Type-C connection and optimized internal wiring for top-notch signal quality. It’s super slim at just 17mm and includes a handy 1/4-inch thread for camera tripods, making it both functional and versatile. Plus, with concerns about smash-and-grab thefts on the rise, our premium set comes with a dummy mount that lets you securely stash your device under the dash, keeping it hidden and cool. Just grab it and attach it to the windshield as you get in—no more fussing around with glove boxes or center consoles!
 
+<figure><img src="../.gitbook/assets/magmount with c3.JPG" alt="" width="375"><figcaption></figcaption></figure>
+
 ## Where to buy:
 
 Magmount Essential Kit and Premium Kit: [https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-set-for-comma-device](https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-set-for-comma-device)
