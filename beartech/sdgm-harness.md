@@ -33,10 +33,10 @@ This harness is 2x9 pin and works with 2x9 pin harness box
 * Chevy Volt (2019)
 * Cadillac XT4
 * Chevy Traverse  (2022-2023)
-* Buick Baby Enclave (CN)
-* Cadillac XT5 (CN)
-* Cadillac XT6 (CN)
-* Chevy Malibu XL (CN)
+* Buick Baby Enclave
+* Cadillac XT5
+* Cadillac XT6
+* Chevy Malibu XL
 
 \*(CN) means Chinese market vehicle. Usually, it is not ported to mainstream openpilot nor any fork that's found in the openpilot community. Your mileage may vary.&#x20;
 

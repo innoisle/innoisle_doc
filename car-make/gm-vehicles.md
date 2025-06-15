@@ -85,10 +85,10 @@ For steering control
 * Chevy Volt (2019)  （with Adaptive Cruise Control）- _pedal optional for start from stop_
 * Cadillac XT4
 * Chevy Traverse (2022-2023)
-* Buick Baby Enclave (CN)
-* Cadillac XT5 (CN)
+* Buick Baby Enclave
+* Cadillac XT5
 * Cadillac XT6
-* Chevy Malibu XL (CN)
+* Chevy Malibu XL
 
 ***
 
@@ -102,15 +102,16 @@ For speed control and to retain AEB.
 
 #### GM:&#x20;
 
-* Chevy Volt (2019)  （with Adaptive Cruise Control）- _pedal optional for start from stop_
+* Chevy Volt (2016-2018)  （with Adaptive Cruise Control）
+* Chevy Volt (2019) （with Adaptive Cruise Control）- _pedal optional for start from stop_
 * Acadia Denali （2018）
 * Buick Enclave
 * Cadillac XT4
 * Chevy Traverse  (2022-2023)
-* Buick Baby Enclave (CN)
-* Cadillac XT5 (CN)
-* Cadillac XT6 (CN)
-* Chevy Malibu XL (CN)
+* Buick Baby Enclave&#x20;
+* Cadillac XT5
+* Cadillac XT6&#x20;
+* Chevy Malibu XL
 
 
 
