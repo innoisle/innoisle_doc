@@ -4,8 +4,6 @@ icon: arrows-split-up-and-left
 
 # OBD Power and Splitter Description
 
-
-
 ## Where to buy
 
 Link to my Store: [https://shop.tlbb.ca/products/obd-and-splitter](https://shop.tlbb.ca/products/obd-and-splitter)
@@ -22,11 +20,19 @@ It provides 12V power to your Comma device via the OBD port. \
 12V from the OBD port usually stays alive after the car is off, which means your Comma device will stay on.\
 It also connects 1 CAN bus from your comma device to the OBD port.
 
-You will need an additional ethernet cable (again, please avoid flat noodle cables) to connect.
+It is compatible with Pedal, with the RJ45 port
+
+**Update:**
+
+We noticed the ethernet port could be hard to plug in with normal ethernet cable.
+
+Therefore, we will include compatible ethernet cable
 
 
 
 <div align="left"><figure><img src="../.gitbook/assets/OBD power.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+<div align="left"><figure><img src="../.gitbook/assets/IMG_9745-1.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Product Description - Splitter
 

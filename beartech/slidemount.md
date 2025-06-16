@@ -9,6 +9,8 @@ icon: magnet
 
 We’ve heard your requests, and we're excited to introduce the **Beartech Slidemount**!&#x20;
 
+<div><figure><img src="../.gitbook/assets/front.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/back (1).jpg" alt=""><figcaption></figcaption></figure></div>
+
 **Why Did We Create the Slidemount?**
 
 The **Beartech Slidemount** was designed in response to community feedback:
@@ -19,6 +21,8 @@ The **Beartech Slidemount** was designed in response to community feedback:
 **Warning: Slidemount does not support 3rd party comma devices, we don't guarantee compatibility of Slidemount on any device other than comma C3X, C3 and C2. Thank you for understanding.**
 
 **Slidemount use two set screws to secure the device mount to your device. Which will create a small dent or scratches. You can check Magmount which does not require set screws.**
+
+
 
 ## Where to buy:
 
