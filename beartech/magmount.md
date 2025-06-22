@@ -15,8 +15,6 @@ The Magmount is your go-to magnetic mount for the comma device, featuring 24 pog
 
 Magmount Essential Kit and Premium Kit: [https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-set-for-comma-device](https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-set-for-comma-device)
 
-Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-add-on-for-comma-device](https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-add-on-for-comma-device)
-
 #### Videos:
 
 {% embed url="https://www.youtube.com/shorts/GSoOGO7cpKA" fullWidth="false" %}
@@ -85,6 +83,7 @@ You still get everything you need from Essential if you just need a quick-mount.
 * Ford F150 (8 degree)
 * Ford Maverick (8 degree)
 * Rivian Truck & SUV  (8 degree)
+* Ram 1500  (8 degree)
 * And any windshield that makes your comma device tilt more than 5 degree
 
 <div align="left"><figure><img src="../.gitbook/assets/2b0ccda2eeba6c9ef96674a01c19fd6.jpg" alt="" width="375"><figcaption></figcaption></figure></div>

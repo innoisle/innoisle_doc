@@ -51,7 +51,7 @@ description: What do you need for GM vehicles
 * Chevy Suburban & Tahoe (pre-2022)
 * Chevy Equinox
 * Chevy Malibu without ACC
-* Cadillac XT5 2021
+* Cadillac XT5 2018, 2021
 * &#x20;(some other Cadillac models may apply too)
 
 ***
@@ -59,6 +59,10 @@ description: What do you need for GM vehicles
 ### Vehicles require ASCM Harness & Harness box
 
 For steering control
+
+**Please make sure your vehicle has ASCM harness connection port to proceed**
+
+lpi
 
 #### What is needed:
 
@@ -68,6 +72,8 @@ For steering control
 
 * Chevy Volt (2016-2018)  （with Adaptive Cruise Control）- _pedal optional for start from stop_
 * Acadia Denali （2018）
+* Chevy Malibu (Before 2018)
+* Regal TourX&#x20;
 
 ***
 
@@ -75,26 +81,42 @@ For steering control
 
 For steering control
 
+**Please make sure your vehicle has SDGM harness connection port to proceed**\
+(Usually behind OBD port, if not, please check the back of your trunk)
+
 #### What is needed:
 
 1. [SDGM Harness](../beartech/sdgm-harness.md)
 
-#### GM:&#x20;
 
-* Buick Enclave
-* Chevy Volt (2019)  （with Adaptive Cruise Control）- _pedal optional for start from stop_
-* Cadillac XT4
-* Chevy Traverse (2022-2023)
-* Buick Baby Enclave
-* Cadillac XT5
+
+**Supported vehicles:**
+
+**Your vehicle HAS to have LKAS to support SDGM.**&#x20;
+
+**(If your car make is listed, but the year is different. SDGM might work if you have ACC or lane keep.)**
+
+**SDGM A:**
+
+* Buick Enclave (2019)
+* Buick Baby Enclave (CN)
+* Chevy Volt (2019)
+* Cadillac XT4 (2023)
+* Chevy Traverse  (2022, 2023)
+* Chevy Malibu XL 2019
+
+**SDGM B:**
+
 * Cadillac XT6
-* Chevy Malibu XL
+* Chevy Blazer 2022, 2025
 
 ***
 
 ### Vehicles require SASCM&#x20;
 
 For speed control and to retain AEB.
+
+**Please make sure your vehicle has SASCM connection port to proceed**
 
 #### What is needed:
 

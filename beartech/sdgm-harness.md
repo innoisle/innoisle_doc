@@ -27,18 +27,41 @@ This harness is 2x9 pin and works with 2x9 pin harness box
 
 <div><figure><img src="../.gitbook/assets/13e9dabb-1389-423b-aa6b-e754ef6a0c47.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/28be1acc-8300-499e-9234-2eda1729b623.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/7d9bd26d-0c69-4ffa-bee0-07a9c4ff3994.jpg" alt=""><figcaption></figcaption></figure></div>
 
+There are **2 types of SDGM Harness**, SDGM A and SDGM B. Please make sure you choose the correct one for your vehicle.
+
 **Supported vehicles:**
 
-* Buick Enclave
-* Chevy Volt (2019)
-* Cadillac XT4
-* Chevy Traverse  (2022-2023)
-* Buick Baby Enclave
-* Cadillac XT5
-* Cadillac XT6
-* Chevy Malibu XL
+**(If your car make is listed, but the year is different. SDGM might work if you have ACC or lane keep.)**
 
-\*(CN) means Chinese market vehicle. Usually, it is not ported to mainstream openpilot nor any fork that's found in the openpilot community. Your mileage may vary.&#x20;
+**SDGM A:**
+
+* Buick Enclave (2019)
+* Buick Baby Enclave (CN)
+* Chevy Volt (2019)
+* Cadillac XT4 (2023)
+* Chevy Traverse  (2022, 2023)
+* Chevy Malibu XL 2019
+
+**SDGM B:**
+
+* Cadillac XT6
+* Chevy Blazer 2022, 2024, 2025
+
+
+
+**Please make sure your vehicle has a SDGM harness connection point to proceed**
+
+
+
+**Where to find your SDGM connection point:**
+
+The SDGM is under the dash and it blocks the CAN bus data from the OBD-II port.
+
+It should near the OBD port.
+
+<figure><img src="../.gitbook/assets/企业微信截图_17503053877859.png" alt=""><figcaption></figcaption></figure>
+
+
 
 
 
