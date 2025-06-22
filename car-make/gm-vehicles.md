@@ -4,7 +4,7 @@ description: What do you need for GM vehicles
 
 # GM Vehicles
 
-### Vehicles require Pedal
+### Vehicles require Pedal and GM harness set
 
 \*\* Pedal firmware for Bolt vehicles is still updating regularly. DFU key is highly recommended for a bolt pedal.
 
@@ -60,9 +60,9 @@ description: What do you need for GM vehicles
 
 For steering control
 
-**Please make sure your vehicle has ASCM harness connection port to proceed**
+**Please make sure your vehicle has ASCM harness connection point to proceed**
 
-lpi
+Please find more detailed information: [ASCM](../beartech/ascm-harness.md)&#x20;
 
 #### What is needed:
 
@@ -81,8 +81,9 @@ lpi
 
 For steering control
 
-**Please make sure your vehicle has SDGM harness connection port to proceed**\
-(Usually behind OBD port, if not, please check the back of your trunk)
+**Please make sure your vehicle has SDGM harness connection point to proceed**\
+(Usually behind OBD port, if not, please check the back of your trunk)\
+Please find more detailed information: [SDGM Harness](../beartech/sdgm-harness.md)
 
 #### What is needed:
 
@@ -116,7 +117,8 @@ For steering control
 
 For speed control and to retain AEB.
 
-**Please make sure your vehicle has SASCM connection port to proceed**
+**Please make sure your vehicle has SASCM connection point to proceed**\
+Please find more detailed information: [SASCM](../beartech/sascm.md)
 
 #### What is needed:
 
