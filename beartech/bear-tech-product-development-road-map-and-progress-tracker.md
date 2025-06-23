@@ -7,6 +7,10 @@ icon: scribble
 
 Welcome to the official roadmap tracker for BearTech Workshop products. This page serves as a living document where we log the journey of every product we've brought to life—from the first spark of an idea to real-world usage.
 
+This update isn’t about what succeeded—it’s about **what&#x20;**_**didn’t**_, and how each misstep helped us inch closer to a case that really works.
+
+Thanks to everyone in the community who shared what they wanted. Your input helped shape not just what we built—but what we **chose not to build**.
+
 ***
 
 ### Magmount Basics for C3/C3X
@@ -156,7 +160,7 @@ That way, whether you’re a contributor like me running logs at your desk, or a
 
 It’s a small accessory, but a thoughtful one—born from the everyday use of a Comma device by people who live and breathe this stuff.
 
-
+***
 
 
 
@@ -237,9 +241,67 @@ After many layout tweaks, this foam gave us exactly what we wanted: a **secure f
 
 ***
 
-This update isn’t about what succeeded—it’s about what _didn’t_, and how each misstep helped us inch closer to a case that really works.
 
-Thanks to everyone in the community who shared what they wanted. Your input helped shape not just what we built—but what we **chose not to build**.
+
+### CPL Filter for Comma Devices
+
+Updated: 6/23/2025
+
+<figure><img src="../.gitbook/assets/pointing the filter.png" alt="" width="375"><figcaption></figcaption></figure>
+
+This one took time. A lot of it.
+
+We started developing the **CPL Filter** back in **February**, thinking it would be a fairly straightforward add-on. But what seemed simple at first turned out to be one of the most technically painful products we’ve ever made.
+
+Why a CPL filter? Because glare is real. Sunlight bouncing off windshields, dashboards reflecting back into your lens—it all degrades your video quality. A circular polarizing lens (CPL) can fix that, improving visibility and making your logs cleaner. So we went for it.
+
+That’s where the fun started.
+
+**The Glue Problem**
+
+Our first attempts used standard optical adhesive. But we quickly found that **some glues left subtle marks or hazing**—especially under heat. Not acceptable.
+
+**VHB Precision**
+
+Then came the **mounting ring**. We needed a perfect circle of **VHB tape**, precise down to fractions of a millimeter. Too wide, and it bubbles. Too narrow, and it peels. We ended up designing a custom cutting workflow just to get consistent results.
+
+**Adhesion Promoter Trouble**
+
+At one point, we thought using an adhesion promoter might help secure the ring even better. But during testing, we discovered that **any excess promoter could leave a stain on the Comma device’s camera lens itself**. Back to square one.
+
+**Lens Cutting Woes**
+
+We tried multiple lens materials and discovered—very late in the process—that **the front and back sides are not symmetrical**. Mounting them in reverse resulted in distorted polarization. That mistake cost us an entire batch.
+
+And speaking of cost: **cutting the lenses** was surprisingly wasteful. Every mistake meant tossing an entire piece of optical-grade material. We lost a lot of units to trial and error.
+
+**First Batch: Only 4 Survivors**
+
+After months of testing, tuning, rejecting, and retrying... our first real production batch gave us **just 4 units** that passed inspection. Four. That’s all.
+
+But they worked beautifully. And that gave us the energy to keep refiningit.
+
+***
+
+Today, the CPL filter is finally ready. It’s subtle, lightweight, and super easy to install. It reduces glare and reflections, and it looks like it was always part of the device.
+
+It may not look like much—but the road to get here was long, painful, and full of lessons.
+
+***
+
+
+
+### #To Be Continued
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -9,11 +9,11 @@ icon: circles-overlap
 
 Link to my Store:&#x20;
 
-CPL Filter: [https://shop.tlbb.ca/products/](https://shop.tlbb.ca/products/ir-infrared-filter-for-rearview-mirror-dimming-sensor)CPL\_filter
+CPL Filter: [https://shop.tlbb.ca/products/cpl-filter](https://shop.tlbb.ca/products/cpl-filter)
 
 Link to my Etsy Store:
 
-CPL FIlter: [https://www.etsy.com/ca/listing/C](https://www.etsy.com/ca/listing/1904694297/ir-infrared-filter-for-auto-dimming)PL\_filter
+CPL Filter: [https://www.etsy.com/ca/listing/4325126381/cpl-filter](https://www.etsy.com/ca/listing/4325126381/cpl-filter)
 
 ***
 
@@ -24,6 +24,8 @@ CPL FIlter: [https://www.etsy.com/ca/listing/C](https://www.etsy.com/ca/listing/
 **Reduce Glare. Improve Vision. Enhance Model Performance.**
 
 <div><figure><img src="../.gitbook/assets/pointing the filter.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/upright-1.JPG" alt=""><figcaption></figcaption></figure></div>
+
+**#Update: Please DO NOT use CPL filter if you have ceramic tint.**
 
 Upgrade your Comma 3 or Comma 3X with this custom CPL (Circular Polarizing Lens) filter set — designed to reduce windshield glare and interior reflections that can interfere with OpenPilot’s camera vision, especially during bright, sunny drives.
 
