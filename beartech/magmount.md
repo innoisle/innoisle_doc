@@ -17,6 +17,16 @@ Magmount Essential Kit and Premium Kit: [https://shop.tlbb.ca/products/openpilot
 
 🚨 **Important Notice:** We will **not be restocking this version of magmount** after the remaining units are sold. A **Magmount V2** is in the works—fully compatible with the current version but with improved design—and will be available in **1 to 1.5 months**. If you prefer not to wait, we recommend purchasing our [**Slidemount**](slidemount.md) instead.
 
+**How to get customer service for the product issue:**\
+Question of setting it up?\
+\- Documentation: https://docs.innoisle.com/\
+\- Discord: https://discord.innoisle.com/\
+Product defect warranty and help request:\
+\- Email us at \`info@beartech.ca\` If you purchased from \`shop.tlbb.ca\` or \`shop.beartech.com\`.\
+\- Send us a message on Etsy with your order number if you purchased from our Etsy store.
+
+&#x20;
+
 #### Videos:
 
 {% embed url="https://www.youtube.com/shorts/GSoOGO7cpKA" fullWidth="false" %}
