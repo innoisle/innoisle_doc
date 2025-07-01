@@ -15,6 +15,10 @@ Link to my Etsy Store:
 
 SASCM Harness Set: [https://www.etsy.com/ca/listing/1840924033/sascm-for-gm-vehicles](https://www.etsy.com/ca/listing/1840924033/sascm-for-gm-vehicles)
 
+Link to RetroPilot Store:
+
+SASCM: [https://shop.retropilot.org/product/sascm/](https://shop.retropilot.org/product/sascm/)
+
 ***
 
 ## Product Description

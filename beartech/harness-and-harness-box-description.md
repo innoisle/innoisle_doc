@@ -1,13 +1,13 @@
 ---
-icon: reel
 description: 'Join our discord at: https://discord.innoisle.com/'
+icon: reel
 ---
 
 # Harness and Harness Box Description
 
 ## Where to buy
 
-Link to my Store:&#x20;
+**Link to my Store:**&#x20;
 
 GM Harness Set: [https://shop.tlbb.ca/products/harness-for-chevrolet-bolt-preorder-open](https://shop.tlbb.ca/products/harness-for-chevrolet-bolt-preorder-open)
 
@@ -15,13 +15,21 @@ Ford MobileEye Q3 Harness Set: [https://shop.tlbb.ca/products/harness-for-ford-m
 
 Harness Box 2x9 pin & 2x 13 pin: [https://shop.tlbb.ca/products/openpilot-harness-box-v1-2x13-pin-and-v2-2x9-pin-with-rj-45-port](https://shop.tlbb.ca/products/openpilot-harness-box-v1-2x13-pin-and-v2-2x9-pin-with-rj-45-port)
 
-Link to my Etsy Store:
+**Link to my Etsy Store:**
 
 GM Harness Set: [https://www.etsy.com/ca/listing/1067463521/harness-set-harness-harness-box-for-gm](https://www.etsy.com/ca/listing/1067463521/harness-set-harness-harness-box-for-gm)
 
 For MobileEye Q3 Harness Set: [https://www.etsy.com/ca/listing/1226126146/harness-set-for-ford-mobileeye-q3](https://www.etsy.com/ca/listing/1226126146/harness-set-for-ford-mobileeye-q3)
 
 Harness Box 2x9 pin & 2x 13 pin: [https://www.etsy.com/ca/listing/1800366135/openpilot-harness-box-v1-2x13-pin-and-v2](https://www.etsy.com/ca/listing/1800366135/openpilot-harness-box-v1-2x13-pin-and-v2)
+
+**Link to RetroPilot Store:**&#x20;
+
+Harness box 2x9 pin: [ https://shop.retropilot.org/product/harness-box-9pin/](https://shop.retropilot.org/product/harness-box-9pin/)
+
+GM Harness Set: [https://shop.retropilot.org/product/gm-harness/](https://shop.retropilot.org/product/gm-harness/)
+
+For MobileEye Q3 Harness Set: [https://shop.retropilot.org/product/ford-mobileeye-q3-harness/](https://shop.retropilot.org/product/ford-mobileeye-q3-harness/)
 
 ***
 

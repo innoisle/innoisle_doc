@@ -9,11 +9,15 @@ icon: mobile-screen
 
 Link to my Store:&#x20;
 
-OP Device Stand: [https://www.etsy.com/ca/listing/1879407633/c3-c3x-screen-protector-2-matte-2-clear](https://www.etsy.com/ca/listing/1879407633/c3-c3x-screen-protector-2-matte-2-clear?)
+Screen Protector: [https://www.etsy.com/ca/listing/1879407633/c3-c3x-screen-protector-2-matte-2-clear](https://www.etsy.com/ca/listing/1879407633/c3-c3x-screen-protector-2-matte-2-clear?)
 
 Link to my Etsy Store:
 
-OP Device Stand: [https://shop.tlbb.ca/products/c3-c3x-screen-protector](https://shop.tlbb.ca/products/c3-c3x-screen-protector)
+Screen Protector: [https://shop.tlbb.ca/products/c3-c3x-screen-protector](https://shop.tlbb.ca/products/c3-c3x-screen-protector)
+
+Link to RetroPilot Store:
+
+Screen Protector: [https://shop.retropilot.org/product/screen-protector/](https://shop.retropilot.org/product/screen-protector/)
 
 ***
 

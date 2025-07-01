@@ -19,6 +19,8 @@ SDGM Harness Set: [https://www.etsy.com/ca/listing/1840113327/sdgm-harness](http
 
 Harness Box 2x9 pin & 2x 13 pin: [https://www.etsy.com/ca/listing/1800366135/openpilot-harness-box-v1-2x13-pin-and-v2](https://www.etsy.com/ca/listing/1800366135/openpilot-harness-box-v1-2x13-pin-and-v2)
 
+Link to RetroPilot Store: [https://shop.retropilot.org/product/sdgm-harness-set/](https://shop.retropilot.org/product/sdgm-harness-set/)
+
 ***
 
 ## Product Description

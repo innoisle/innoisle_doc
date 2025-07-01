@@ -1,6 +1,6 @@
 ---
-icon: goal-net
 description: 'Join our discord at: https://discord.innoisle.com/'
+icon: goal-net
 ---
 
 # Comma Pedal Description and Installation Guide
@@ -10,6 +10,8 @@ description: 'Join our discord at: https://discord.innoisle.com/'
 Link to my Store: [https://shop.tlbb.ca/products/comma-pedal-non-customizable-toyota-honda-gm-vw-benz](https://shop.tlbb.ca/products/comma-pedal-non-customizable-toyota-honda-gm-vw-benz)
 
 Link to my Etsy Store: [https://www.etsy.com/ca/listing/952895642/openpilot-comma-pedal-non-customizable](https://www.etsy.com/ca/listing/952895642/openpilot-comma-pedal-non-customizable)
+
+Link to RetroPilot Store: [https://shop.retropilot.org/product/pedal/](https://shop.retropilot.org/product/pedal/)
 
 ***
 

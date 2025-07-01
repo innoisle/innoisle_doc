@@ -15,6 +15,10 @@ Link to my Etsy Store:
 
 Carry Case for C3/ C3X: [https://www.etsy.com/ca/listing/4308329070/carry-case-for-c3-c3x](https://www.etsy.com/ca/listing/4308329070/carry-case-for-c3-c3x)
 
+Link to RetroPilot Store:
+
+Carry Case for C3/ C3X:  [https://shop.retropilot.org/product/carry-case-for-c3-c3x/](https://shop.retropilot.org/?post_type=product\&p=14599\&preview=true) ‎
+
 ***
 
 ## Product Description

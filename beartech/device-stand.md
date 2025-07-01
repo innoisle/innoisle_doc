@@ -15,6 +15,10 @@ Link to my Etsy Store:
 
 OP Device Stand: [https://www.etsy.com/ca/listing/1904708571/op-device-stand](https://www.etsy.com/ca/listing/1904708571/op-device-stand)
 
+Link to RetroPilot Store:
+
+OP Device Stand: [https://shop.retropilot.org/product/op-device-stand/](https://shop.retropilot.org/product/op-device-stand/)
+
 ***
 
 ## Product Description

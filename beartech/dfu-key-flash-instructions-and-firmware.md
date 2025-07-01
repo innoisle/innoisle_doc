@@ -1,6 +1,6 @@
 ---
-icon: key
 description: 'Join our discord at: https://discord.innoisle.com/'
+icon: key
 ---
 
 # DFU key Flash Instructions and Firmware
@@ -11,9 +11,13 @@ Link to my Store: [https://shop.tlbb.ca/products/dfu-key](https://shop.tlbb.ca/p
 
 Link to my Etsy Store: [https://www.etsy.com/ca/listing/1100070899/dfu-key-comma-device-firmware-flashing](https://www.etsy.com/ca/listing/1100070899/dfu-key-comma-device-firmware-flashing)
 
+Link to RetroPilot Store: [https://shop.retropilot.org/product/dfu-key/](https://shop.retropilot.org/product/dfu-key/)
+
 ***
 
 ## Product Description
+
+<figure><img src="../.gitbook/assets/with text.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **For comma device firmware flashing. which includes:**\
 1\. comma pedal\

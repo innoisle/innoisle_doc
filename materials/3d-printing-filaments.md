@@ -35,7 +35,11 @@ If you’re working on projects that require durable, lightweight, and high-qual
 
 ## Where to buy:
 
+Link to my store:
+
 ASA-CF Filaments: [https://shop.tlbb.ca/products/asa-carbon-fiber-filament-black-1-75mm-1kg](https://shop.tlbb.ca/products/asa-carbon-fiber-filament-black-1-75mm-1kg)
 
+Link to RetroPilot Store:
 
+ASA-CF Filaments: [https://shop.retropilot.org/product/asa-cf/](https://shop.retropilot.org/product/asa-cf/)
 

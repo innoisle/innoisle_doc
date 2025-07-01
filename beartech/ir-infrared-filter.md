@@ -13,7 +13,10 @@ IR Filter: [https://shop.tlbb.ca/products/ir-infrared-filter-for-rearview-mirror
 
 Link to my Etsy Store:
 
-IR FIlter: [https://www.etsy.com/ca/listing/1904694297/ir-infrared-filter-for-auto-dimming](https://www.etsy.com/ca/listing/1904694297/ir-infrared-filter-for-auto-dimming)
+IR Filter: [https://www.etsy.com/ca/listing/1904694297/ir-infrared-filter-for-auto-dimming](https://www.etsy.com/ca/listing/1904694297/ir-infrared-filter-for-auto-dimming)
+
+Link to RetroPilot Store:\
+IR Filter: [https://shop.retropilot.org/product/ir-filter/](https://shop.retropilot.org/product/ir-filter/)
 
 ***
 

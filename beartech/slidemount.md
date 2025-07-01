@@ -26,9 +26,17 @@ The **Beartech Slidemount** was designed in response to community feedback:
 
 ## Where to buy:
 
+Link to my Store:
+
 Slidemount set and single windshield mount: [https://shop.tlbb.ca/products/beartech-slidemount](https://shop.tlbb.ca/products/beartech-slidemount)
 
+Link to my Etsy Store:
 
+Slidemount set and accessories: [https://www.etsy.com/ca/listing/4314140929/beartech-slidemount-openpilot-slide](https://www.etsy.com/ca/listing/4314140929/beartech-slidemount-openpilot-slide)
+
+Link to RetroPilot Store:
+
+Slidemount set and accessories: [https://shop.retropilot.org/product/beartech-slidemount/](https://shop.retropilot.org/?post_type=product\&p=14650\&preview=true) ‎
 
 #### Vehicles that require Angle Wedge:
 

@@ -10,6 +10,8 @@ Link to my Store: [https://shop.tlbb.ca/products/obd-and-splitter](https://shop.
 
 Link to my Etsy Store: [https://www.etsy.com/ca/listing/1018215440/obd-power-and-splitter-for-comma-pedal](https://www.etsy.com/ca/listing/1018215440/obd-power-and-splitter-for-comma-pedal)
 
+Link to RetroPilot Store: [https://shop.retropilot.org/product/obd-splitter/](https://shop.retropilot.org/product/obd-splitter/)
+
 ***
 
 ## Product Description - OBD Power

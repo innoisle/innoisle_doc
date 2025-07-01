@@ -19,6 +19,10 @@ ASCM Harness Set: [https://www.etsy.com/ca/listing/1840105495/ascm-harness](http
 
 Harness Box 2x9 pin & 2x 13 pin: [https://www.etsy.com/ca/listing/1800366135/openpilot-harness-box-v1-2x13-pin-and-v2](https://www.etsy.com/ca/listing/1800366135/openpilot-harness-box-v1-2x13-pin-and-v2)
 
+Link to RetroPilot store:
+
+ASCM Harness Set: [https://shop.retropilot.org/product/ascm-harness/](https://shop.retropilot.org/product/ascm-harness/)
+
 ***
 
 ## Product Description
