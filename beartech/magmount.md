@@ -15,7 +15,7 @@ The Magmount is your go-to magnetic mount for the comma device, featuring 24 pog
 
 Magmount Essential Kit and Premium Kit: [https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-set-for-comma-device](https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-set-for-comma-device)
 
-🚨 **Important Notice:** We will **not be restocking this version of magmount** after the remaining units are sold. A **Magmount V2** is in the works—fully compatible with the current version but with improved design—and will be available in **1 to 1.5 months**. If you prefer not to wait, we recommend purchasing our [**Slidemount**](slidemount.md) instead.
+🚨 **Important Notice:** We will **not be restocking this version of magmount** after the remaining units are sold. A **Magmount V2** is in the works—fully compatible with the current version but with improved design—and will be available in **1 to 1.5 months (ETA mid-August)**. If you prefer not to wait, we recommend purchasing our [**Slidemount**](slidemount.md) instead.
 
 **How to get customer service for the product issue:**\
 Question of setting it up?\
