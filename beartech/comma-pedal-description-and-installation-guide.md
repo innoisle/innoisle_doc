@@ -39,7 +39,7 @@ There are two versions, 2x9 pin (new version by comma) and 2x13 pin (old version
 
 If you need the individual harness box, you can find it at : [https://shop.tlbb.ca/products/openpilot-harness-box-v1-2x13-pin-and-v2-2x9-pin-with-rj-45-port](https://shop.tlbb.ca/products/openpilot-harness-box-v1-2x13-pin-and-v2-2x9-pin-with-rj-45-port)
 
-**A Splitter is needed except for Chevy Bolt and Chevy Bolt EUV.**
+**A Splitter is needed if you are using OBD power (you will need an OBD power with RJ45 port).**
 
 \*Pedals will not be refunded for the issue of using the wrong splitter.
 
