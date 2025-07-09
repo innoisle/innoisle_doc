@@ -13,6 +13,20 @@ icon: screwdriver-wrench
 
 ## Updates:
 
+### Mount Holder (Compatible with Slidemount and Magmount)
+
+After we pre-applied VHB, with adhesion promoter properly applied, there has been no issue of VHB breaking off from the windshield mount.
+
+If you are still afraid of VHB peeling off the mount, you can add a mount holder to hold the mount in place.
+
+This magmount holder will hold your magmount in place if the VHB peels off. It is unlikely that with the adhesive promoter applied, the VHB still peels off from magmount, but the holder acts as a last line of defence.\
+You can 3D print it with **PETG, ABS, ASA, and PA** materials, and cut a strip of VHB to stick it on the windshield over the magmount. (We use [ASA-CF material](../materials/3d-printing-filaments.md), which can also be found in our store)\
+The holder is designed not to be in contact with the Magmount. If the VHB tape ever fails, the magmount will drop onto the holder, and you can sway your device back and forth, which indicates that the VHB is peeled off.
+
+Please find the 3D printing file in our discrod channel or contact us to get the file.
+
+<div><figure><img src="../.gitbook/assets/holder with mount.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_9974.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
+
 ### VHB Tape
 
 We are currently in a transition phase, where we try to preapply VHB tape for the customer. However, due to time constraints, we might not be able to pre-apply for every single mount.&#x20;

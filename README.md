@@ -5,20 +5,6 @@ cover: >-
   featuring a serene ocean with numerous small islands. The scene should have a
   simple, comic or sketch style, using no mor.jpg
 coverY: -92.672
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Welcome to innoisle!
