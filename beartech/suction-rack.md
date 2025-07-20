@@ -9,15 +9,15 @@ icon: globe-stand
 
 Link to my Store:&#x20;
 
-Suction Rack: [https://shop.tlbb.ca/products/op-device-stand](https://shop.tlbb.ca/products/op-device-stand)
+Suction Rack: [https://shop.beartech.ca/products/suction-rack](https://shop.beartech.ca/products/suction-rack)
 
 Link to my Etsy Store:
 
-Suction Rack: [https://www.etsy.com/ca/listing/1904708571/op-device-stand](https://www.etsy.com/ca/listing/1904708571/op-device-stand)
+Suction Rack: [https://www.etsy.com/ca/listing/4338610954/beartech-suction-rack](https://www.etsy.com/ca/listing/4338610954/beartech-suction-rack)
 
 Link to RetroPilot Store:
 
-Suction Rack: [https://shop.retropilot.org/product/op-device-stand/](https://shop.retropilot.org/product/op-device-stand/)
+Suction Rack:&#x20;
 
 ***
 
