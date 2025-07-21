@@ -49,6 +49,7 @@ The Suction Rack is a versatile mounting solution designed for Comma 3 and Comma
   For hassle-free installation, the rack integrates a mini bubble level in its center. This feature allows users to quickly check and adjust the rack’s position for a perfectly horizontal setup, improving camera alignment and overall system performance.
 * **Compatible Mounting:**\
   The rack is designed to work in conjunction with your existing **Magmount** or **Slidemount** (required, not included). Once installed, your comma device attaches securely and can be removed or repositioned as needed.
+* Also **compatible with DSLR and GoPro** with the ¼ tripod screw included.
 
 **What is Included:**
 
