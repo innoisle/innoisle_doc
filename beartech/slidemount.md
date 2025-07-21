@@ -22,6 +22,8 @@ The **Beartech Slidemount** was designed in response to community feedback:
 
 **Slidemount use two set screws to secure the device mount to your device. Which will create a small dent or scratches. You can check Magmount which does not require set screws.**
 
+For installation, you will need to leave **3.5cm (1.4 inch) horizontal space clearance** for sliding.
+
 
 
 ## Where to buy:

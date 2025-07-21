@@ -68,6 +68,35 @@ The Suction Rack is a versatile mounting solution designed for Comma 3 and Comma
 
 
 
+**Use the Suction Rack with mounts:**
+
+1. Magmount
+
+If you already have a magmount set, you can remove the windshield mount from your windshield and install on the suction rack. \
+If you intend to use the suction rack for additional vehicle/ travel, you can get the Suction Rack + Magmount Windshield Mount option to use the rack on rental vehicles\
+Detailed description of magmount:
+
+{% content-ref url="magmount.md" %}
+[magmount.md](magmount.md)
+{% endcontent-ref %}
+
+2. Slidemount
+
+If you already have a slidemount set, you can remove the windshield mount from your windshield and install it on the suction rack. \
+If you intend to use the suction rack for additional vehicle/ travel, you can get the Suction Rack + Slidemount Windshield Mount option to use the rack on rental vehicles\
+For slidemount, you will need to leave 3.5cm (1.4 inch) horizontal space clearance for sliding.\
+Detailed description of slidemount:
+
+{% content-ref url="slidemount.md" %}
+[slidemount.md](slidemount.md)
+{% endcontent-ref %}
+
+3. Comma Mount
+
+There are requests for using the stock mount on the suction rack, so we have included the adapter in the package.
+
+
+
 ## Installation Guide
 
 
