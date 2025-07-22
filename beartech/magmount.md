@@ -71,6 +71,7 @@ Product defect warranty and help request:\
 | Angle Wedge (8 degree)                  |
 | Magmount Holder (0 degree and 8 degree) |
 | Comma Mount Adapter                     |
+| Magmount Cover B x2                     |
 
 ## What is a Dummy mount, and why do I need it?
 
