@@ -65,9 +65,7 @@ Whether you're developing, uploading logs, or updating your OP, the **OpenPilot 
 
 ## Installation Guide
 
-<figure><img src="../.gitbook/assets/installation 长图.jpg" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/installation 长图 v2.png" alt=""><figcaption></figcaption></figure>
 
 Please join our discord to leave your feedback: [http://discord.innoisle.com/](http://discord.innoisle.com/)
 
