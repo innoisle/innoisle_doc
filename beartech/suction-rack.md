@@ -21,6 +21,11 @@ Suction Rack:&#x20;
 
 ***
 
+## Update:
+
+Comma Mount Adapter for Suction Rack is under development. \
+It would allow using a suction rack without using a slidemount or magmount.
+
 ## Product Description
 
 **Suction Rack**
@@ -91,9 +96,9 @@ Detailed description of slidemount:
 [slidemount.md](slidemount.md)
 {% endcontent-ref %}
 
-3. Comma Mount
+3. Comma Mount Adapter
 
-There are requests for using the stock mount on the suction rack, so we have included the adapter in the package.
+There are requests for using the comma device by itself on the suction rack, so we have included the adapter in the package.
 
 
 

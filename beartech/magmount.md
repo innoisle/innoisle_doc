@@ -15,7 +15,21 @@ The Magmount is your go-to magnetic mount for the comma device, featuring 24 pog
 
 Magmount Essential Kit and Premium Kit: [https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-set-for-comma-device](https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-set-for-comma-device)
 
-🚨 **Important Notice:** We will **not be restocking this version of magmount** after the remaining units are sold. A **Magmount V2** is in the works—fully compatible with the current version but with improved design—and will be available in **1 to 1.5 months (ETA mid-August)**. If you prefer not to wait, we recommend purchasing our [**Slidemount**](slidemount.md) instead.
+### 🚨 **Important Notice:**&#x20;
+
+After carefully listening to feedback and reviewing the issues some users encountered, we’ve **upgraded the Magmount design** to make it even more reliable. We’ve switched from a glue-based system to a **secure screw-on mount** and will now include **all the small kits you might need** (like screws, extra adhesion promoters, magmount holder, angle wedge, comma mount adapter, etc.) right in the box.
+
+Because of this, we’ve decided to move forward with **only the Premium Kit**. We realized that offering an Essential Kit often left customers coming back to request additional parts—and we want everyone to have the best, worry-free experience right out of the box.
+
+This change comes from a place of care and consideration for our community—we’d rather provide a **complete solution upfront** than risk any frustration later on.
+
+Thank you as always for your trust and support. It’s because of you and your feedback that we’re able to make Magmount even better.
+
+**Magmount V2** will be available soon **(ETA early-August)**. If you prefer not to wait, we recommend purchasing our [**Slidemount**](slidemount.md) instead.
+
+
+
+
 
 **How to get customer service for the product issue:**\
 Question of setting it up?\
@@ -35,30 +49,31 @@ Product defect warranty and help request:\
 
 ***
 
-## Essential Kit VS Premium Kit
+## Magmount Premium Kit
 
-| Magmount Essential             | Magmount Premium               |
-| ------------------------------ | ------------------------------ |
-| Device Side Mount x1           | Device Side Mount x1           |
-| Windshield Side Mount x1       | Windshield Side Mount x1       |
-| Windshield Side Mount Cover x1 | Windshield Side Mount Cover x1 |
-| 13cm Type C Cable x1           | 13cm Type C Cable              |
-| 45cm Type C Cable x1           | 45cm Type C Cable x1           |
-| 3M VHB Tape x2                 | 3M VHB Tape x4                 |
-| Wet & DryWipe x2               | Wet & DryWipe x4               |
-| IPA Wipe X2                    | IPA Wipe X4                    |
-| Static Film x2                 | Static Film x4                 |
-|                                | Allen Key x1                   |
-|                                |                                |
-|                                | Dummy Mount x1                 |
-|                                | Adhesion Promoter Wipe X2      |
-|                                | PE gloves X2                   |
-|                                | Threadlocker x1                |
-|                                | Set Screw x1                   |
+| Magmount Premium                        |
+| --------------------------------------- |
+| Device Side Mount x1                    |
+| Windshield Side Mount x1                |
+| Windshield Side Mount Cover x1          |
+| Dummy Mount x1                          |
+| 45cm Type C Cable x1                    |
+| 13cm Type C Cable                       |
+| Wet & DryWipe x4                        |
+| IPA Wipe X4                             |
+| 3M VHB Tape x4                          |
+| Allen Key x1                            |
+| Static Film x4                          |
+| Set Screw x1                            |
+| Adhesion Promoter Wipe X2               |
+| PE gloves X2                            |
+| Threadlocker x1                         |
+| Angle Wedge (8 degree)                  |
+| Magmount Holder (0 degree and 8 degree) |
+| Comma Mount Adapter                     |
 
-## What is a Dummy mount, and why do I need a premium package?
+## What is a Dummy mount, and why do I need it?
 
-Q: Why pick premium instead of essential?\
 A: Depends on your use case. Premium has one **dummy mount** that offer a way to mount your device under dash or steering wheel when you car is in park. Potential thief can’t see what’s under the steering wheel or under dash from peeking over the window.\
 Premium also has more mounting accessories that help make the mount stick better.\
 There is no circuitry inside the dummy mount. You can **only hang your device for storage**.
