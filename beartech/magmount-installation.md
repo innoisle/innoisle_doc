@@ -28,9 +28,13 @@ The holder is designed not to be in contact with the Magmount. If the VHB tape e
 Please find the 3D printing file in our discrod channel or contact us to get the file.\
 We have 0 degree (standard) mount holder and 8 degree mount holder available.
 
+**0° Magmount Holder Installation:**
+
 <div><figure><img src="../.gitbook/assets/holder with mount.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_9974.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
 
-###
+**8° Magmount Holder Installation:**
+
+<div><figure><img src="../.gitbook/assets/d72ace7d4a60c4bbd473a11e69a2adf7_origin(1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/7d2794341e06fdd616489bb7ba6d42ba_origin(1).jpg" alt=""><figcaption></figcaption></figure></div>
 
 ### VHB Tape
 
