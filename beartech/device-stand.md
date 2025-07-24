@@ -65,7 +65,7 @@ Whether you're developing, uploading logs, or updating your OP, the **OpenPilot 
 
 ## Installation Guide
 
-<figure><img src="../.gitbook/assets/deskstand installation v2-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/deskstand installation v2-2.png" alt=""><figcaption></figcaption></figure>
 
 Please join our discord to leave your feedback: [http://discord.innoisle.com/](http://discord.innoisle.com/)
 
