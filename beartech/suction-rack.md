@@ -20,7 +20,8 @@ Suction Rack: [https://www.etsy.com/ca/listing/4338610954/beartech-suction-rack]
 ## Update:
 
 1/4 screw thick comma mount (the adapter that allows sliding your Comma directly onto the suction rack) for Suction Rack and Device Stand is under development. \
-It would allow using a suction rack without using a slidemount or magmount.
+It would allow using a suction rack without using a slidemount or magmount.\
+If you need that, please specify it in your order. Thank you
 
 ## Product Description
 
@@ -125,19 +126,11 @@ We offer several combinations of the suction rack and mounting kits to suit diff
 
 There are many possible combinations depending on your routine. Some users prefer having multiple mounts at home and in the car; others prioritize flexibility for frequent travel. If you’re unsure, start with one rack + mount set, then expand as your needs grow.
 
-
+##
 
 ## Installation Guide
 
-
-
-
-
-
-
-
-
-
+<figure><img src="../.gitbook/assets/installation rack v1.png" alt=""><figcaption></figcaption></figure>
 
 Please join our discord to leave your feedback: [http://discord.innoisle.com/](http://discord.innoisle.com/)
 
