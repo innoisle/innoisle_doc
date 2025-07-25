@@ -74,7 +74,6 @@ Please find more detailed information: [ASCM](../beartech/ascm-harness.md)&#x20;
 * Acadia Denali （2018）
 * Chevy Malibu (Before 2018)
 * Regal TourX&#x20;
-* Cadillac Escalade ESV （2018）
 
 ***
 

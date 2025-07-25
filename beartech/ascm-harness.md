@@ -33,7 +33,6 @@ This harness is 2x9 pin and works with 2x9 pin harness box
 
 * Chevy Volt (2016-2018)  （with Adaptive Cruise Control）- _pedal also needed_
 * Acadia Denali （2018）
-* Cadillac Escalade ESV （2018）
 * Chevy Malibu (Before 2018)
 * Regal TourX&#x20;
 
