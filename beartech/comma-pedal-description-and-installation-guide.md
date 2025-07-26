@@ -75,16 +75,15 @@ If you need the individual harness box, you can find it at : [https://shop.tlbb.
 * Toyota Avalon Hybrid 2019-2021
 * Toyota Corolla 2017-2019
 * Toyota Rav4 2016-2018
-* Toyota Prius 2016-2020
-* Toyota Prius Prime 2017-2020
-* Toyota Prius 2017
+* Toyota Prius 2016-2020  (Pedal Optional: Pedal only helps in lowering the power draw in a stand still on Prius)
+* Toyota Prius Prime 2017-2020  (Pedal Optional: Pedal only helps in lowering the power draw in a stand still on Prius)
 
 **Lexus:**
 
-* Lexus ES350 (and hybird)  2017-2018
-* Lexus CT Hybird 2017-2018
-* Lexus NX  (and hybird) 2018-2019
-* Lexus RX  (and hybird) 2016-2019
+* Lexus ES350 (and hybird)  2017-2018 (pedal optional)
+* Lexus CT Hybird 2017-2018 (pedal optional)
+* Lexus NX  (and hybird) 2018-2019 (pedal optional)
+* Lexus RX  (and hybird) 2016-2019 (pedal optional)
 
 #### Honda:&#x20;
 

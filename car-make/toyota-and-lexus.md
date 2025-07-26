@@ -37,9 +37,8 @@ You will use openpilot longitudinal control instead of Toyota TSS-P ACC
 * Toyota Avalon Hybrid 2019-2021
 * Toyota Corolla 2017-2019
 * Toyota Rav4 2016-2018
-* Toyota Prius 2016-2020
-* Toyota Prius Prime 2017-2020 (with improvements only)
-* Toyota Prius 2017
+* Toyota Prius 2016-2020 (Pedal Optional: Pedal only helps in lowering the power draw in a standstill on Prius)
+* Toyota Prius Prime 2017-2020 (Pedal Optional: Pedal only helps in lowering the power draw in a standstill on Prius)
 
 #### **Lexus:**
 
