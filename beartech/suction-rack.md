@@ -15,6 +15,10 @@ Link to my Etsy Store:
 
 Suction Rack: [https://www.etsy.com/ca/listing/4338610954/beartech-suction-rack](https://www.etsy.com/ca/listing/4338610954/beartech-suction-rack)
 
+Link to RetroPilot Store:
+
+Suction Rack: [https://shop.retropilot.org/product/beartech-suction-rack/](https://shop.retropilot.org/?post_type=product\&p=14689\&preview=true) ‎
+
 ***
 
 ## Update:
