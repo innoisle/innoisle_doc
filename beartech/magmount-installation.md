@@ -61,12 +61,16 @@ For magmount set screw is **not required** unless you require extra tightness.\
 
 For Slidemount set screw instruction **(Set screw is required for Slidemount)**: \
 \- Tighten the pre-install set screws at the left and right side of the Slidemount.\
-\- Tighten it **just enough** that you can't move the Slidemount.\
-\- **Do not over-tighten it**, as the screw is small and is only intended to prevent movement.
+\- Tighten it **just enough** that you can't move the Slidemount. \
+\- **Do not over-tighten it**, as the screw is small and is only intended to prevent movement. (Over-tightening it will cause the breakage of the mounting bracket.&#x20;
 
 <figure><img src="../.gitbook/assets/企业微信截图_17486580636245.png" alt="" width="375"><figcaption></figcaption></figure>
 
+**\*\*Example of an over-tightened set screw:**\
+The set screw in the picture below is over-tightened way too much. \
+Otherwise, the mounting bracket could break (as shown in the picture)
 
+<figure><img src="../.gitbook/assets/企业微信截图_17537360466275.png" alt=""><figcaption></figcaption></figure>
 
 ### **Warning:**&#x20;
 
