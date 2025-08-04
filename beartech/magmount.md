@@ -41,37 +41,33 @@ Product defect warranty and help request:\
 
 &#x20;
 
-#### Videos:
-
-{% embed url="https://www.youtube.com/shorts/GSoOGO7cpKA" fullWidth="false" %}
-
-{% embed url="https://www.youtube.com/shorts/AnRGKL9YbV8" %}
-
 ***
 
 ## Magmount Premium Kit
 
-| Magmount Premium                        |
-| --------------------------------------- |
-| Device Side Mount x1                    |
-| Windshield Side Mount x1                |
-| Windshield Side Mount Cover x1          |
-| Dummy Mount x1                          |
-| 45cm Type C Cable x1                    |
-| 13cm Type C Cable                       |
-| Wet & DryWipe x4                        |
-| IPA Wipe X4                             |
-| 3M VHB Tape x4                          |
-| Allen Key x1                            |
-| Static Film x4                          |
-| Set Screw x1                            |
-| Adhesion Promoter Wipe X2               |
-| PE gloves X2                            |
-| Threadlocker x1                         |
-| Angle Wedge (8 degree)                  |
-| Magmount Holder (0 degree and 8 degree) |
-| Comma Mount Adapter                     |
-| Magmount Cover B x2                     |
+| Magmount Premium                                                                   |
+| ---------------------------------------------------------------------------------- |
+| Device Side Mount x1  (Mount Set) - With Magnetic Shield                           |
+| Windshield Side Mount x1  (Mount Set) - With VHB pre-applied                       |
+| Mount Cover x1  (Mount Set)                                                        |
+| Dummy Mount x1  (Mount Set)                                                        |
+| 8 degree Angle Wedge x1  (Accessories) - With VHB pre-applied                      |
+| Magmount Holder (0 degree and 8 degree)  x1   (Accessories) - With VHB pre-applied |
+| Comma Mount Adapter x1  (Accessories)                                              |
+| Magmount Cover B x1  (Accessories)                                                 |
+| 45cm Type C Cable x1  (Cable Set)                                                  |
+| 13cm Type C Cable x1  (Cable Set)                                                  |
+| Wet & DryWipe x4  (2 VHB Pack)                                                     |
+| IPA Wipe X4  (2 VHB Pack)                                                          |
+| 3M VHB Tape x4  (2 VHB Pack)                                                       |
+| Static Film x4  (2 VHB Pack)                                                       |
+| Adhesion Promoter Wipe X4  (Adhesion Promoter Pack)                                |
+| PE gloves X4  (Adhesion Promoter Pack)                                             |
+| Allen Key x1  (Set Screw Pack)                                                     |
+| Set Screw x1  (Set Screw Pack)                                                     |
+| Device Mount Bracket x1 (Replacement Parts)                                        |
+| Phillips screwdriver x1  (Replacement Parts)                                       |
+| Phillips screw x2  (Replacement Parts)                                             |
 
 ## What is a Dummy mount, and why do I need it?
 
