@@ -27,6 +27,8 @@ SASCM: [https://shop.retropilot.org/product/sascm/](https://shop.retropilot.org/
 
 It will intercept your ASCM module, allowing Openpilot to send a longitudinal control message to your vehicle while blocking the ASCM message.
 
+If you use SASCM, you will need the ASCM Harness Plus.
+
 **Supported vehicles:**
 
 * Chevy Volt (2016-2018)  （with Adaptive Cruise Control）

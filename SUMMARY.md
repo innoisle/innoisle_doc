@@ -12,7 +12,7 @@
 * [Comma Pedal Description and Installation Guide](beartech/comma-pedal-description-and-installation-guide.md)
 * [DFU key Flash Instructions and Firmware](beartech/dfu-key-flash-instructions-and-firmware.md)
 * [OBD Power and Splitter Description](beartech/obd-power-and-splitter-description.md)
-* [ASCM Harness](beartech/ascm-harness.md)
+* [ASCM Harness Plus](beartech/ascm-harness-plus.md)
 * [SDGM Harness](beartech/sdgm-harness.md)
 * [SASCM](beartech/sascm.md)
 * [OpenPilot Comma 3 & 3X Screen Protector Film](beartech/openpilot-comma-3-and-3x-screen-protector-film.md)

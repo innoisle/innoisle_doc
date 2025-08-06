@@ -56,17 +56,18 @@ description: What do you need for GM vehicles
 
 ***
 
-### Vehicles require ASCM Harness & Harness box
+### Vehicles require ASCM Harness Plus & Harness box
 
-For steering control
+ASCM Harness Plus is for steering control \
+The "Plus" means it is ready to use with SASCM Module for Openpilot Longitudinal control.&#x20;
 
 **Please make sure your vehicle has ASCM harness connection point to proceed**
 
-Please find more detailed information: [ASCM](../beartech/ascm-harness.md)&#x20;
+Please find more detailed information: [ASCM](../beartech/ascm-harness-plus.md)&#x20;
 
 #### What is needed:
 
-1. [ASCM](../beartech/ascm-harness.md) Harness
+1. [ASCM](../beartech/ascm-harness-plus.md) Harness
 
 #### GM:&#x20;
 
@@ -116,6 +117,8 @@ Please find more detailed information: [SDGM Harness](../beartech/sdgm-harness.m
 ### Vehicles require SASCM&#x20;
 
 For speed control and to retain AEB.
+
+If you use SASCM, you will need the ASCM Harness Plus.
 
 **Please make sure your vehicle has SASCM connection point to proceed**\
 Please find more detailed information: [SASCM](../beartech/sascm.md)
