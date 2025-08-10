@@ -107,7 +107,7 @@ Product defect warranty and help request:\
 * Phillips screwdriver x1  (Replacement Parts)
 * Phillips screw x2  (Replacement Parts)
 
-## What is a Dummy mount, and why do I need it?
+## What is a Dummy mount?
 
 A: Depends on your use case. Premium has one **dummy mount** that offer a way to mount your device under dash or steering wheel when you car is in park. Potential thief can’t see what’s under the steering wheel or under dash from peeking over the window.\
 Premium also has more mounting accessories that help make the mount stick better.\
