@@ -63,6 +63,20 @@ Product defect warranty and help request:\
 
 &#x20;
 
+## Installation Guide:
+
+**New Installation guide** for Magmount purchased **after August 2025**
+
+{% content-ref url="magmount-installation.md" %}
+[magmount-installation.md](magmount-installation.md)
+{% endcontent-ref %}
+
+**Old Installation guide** fo Magmount purchased **before August 2025**
+
+{% content-ref url="magmount-installation-1.md" %}
+[magmount-installation-1.md](magmount-installation-1.md)
+{% endcontent-ref %}
+
 ***
 
 ## Magmount Premium Kit

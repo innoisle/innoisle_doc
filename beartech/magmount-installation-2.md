@@ -3,22 +3,35 @@ description: 'Join our discord at: https://discord.innoisle.com/'
 icon: screwdriver-wrench
 ---
 
-# Magmount Installation Guide - After 2025Aug1st
+# Slidemount Installation Guide - After 2025Aug1st
 
 \*Disclaimer: This is a guide only.
 
-**This installation guide applies to the magmount purchased after Aug 2025.**\
+**This installation guide applies to the magmount purchased after July 2025.**\
 
 
 ## **Set Screw Warning:**
 
-#### **\*Over-tightening the set screw could break your magmount**
+**\*Over-tightening the set screw could break yourslidemount**
 
-For magmount, set screw is **not required** unless you require extra tightness.\
+**Set screw is required for Slidemount**: \
+\- Tighten the pre-install set screws at the left and right side of the Slidemount.\
+\- Tighten it **just enough** that you can't move the Slidemount. \
 \- **Do not over-tighten it**, as the screw is small and is only intended to prevent movement. \
-Over-tightening it will **cause the breakage of the mounting bracket**
+\- Over-tightening it will cause the **breakage of the mounting bracket**.&#x20;
 
-Only tighten the set screw if the mount is loose on your comma device. By design, the mount should be a very tight fit with your comma device, and it has been tested on both C3 and C3X.&#x20;
+<figure><img src="../.gitbook/assets/企业微信截图_17486580636245.png" alt="" width="375"><figcaption></figcaption></figure>
+
+**\*\*Example of an over-tightened set screw:**\
+The set screw in the picture below is over-tightened way too much. \
+Otherwise, the mounting bracket could break (as shown in the picture)
+
+<figure><img src="../.gitbook/assets/企业微信截图_17537360466275.png" alt=""><figcaption></figcaption></figure>
+
+### **Compatibility Warning:**&#x20;
+
+**Slidemount may not support 3rd party comma devices.**\
+**We don't guarantee compatibility of Slidemount on any device other than the comma C3X, C3 and C2. Thank you for understanding.**
 
 ***
 
@@ -26,24 +39,22 @@ Only tighten the set screw if the mount is loose on your comma device. By design
 
 ### (Optional) Prepare your magmount: (ONLY if you redo the VHB)
 
-1. Now, all magmount and angle wedge already come with **pre-applied VHB**. \
+1. Now, all slidemount and angle wedge already come with **pre-applied VHB**. \
    If you would like to **redo the VHB**, then please follow the steps to prep it.\
    Please make sure you **apply the adhesion promoter** before applying the VHB.&#x20;
-2. Warning: Apply the VHB tape to the magmount, angle wedges or comma mount adapter first before you stick it on the windshield. And apply the VHB in warm temp.\
+2. Warning: Apply the VHB tape to the slidemount, angle wedges or comma mount adapter first before you stick it on the windshield. And apply the VHB in warm temp.\
    If you are reapplying the VHB tape, Clean the surface with isopropyl alcohol and ensure that no residue remains.
 3. **(Important)** The ideal application temperature for VHB is above 70°F or 21°C. The minimum application temperature is 50°F and 10°C. If the temperature is lower than the minimum required, you can try to heat up the application area before and after attaching the magmount. Use common sense when heating the application area and avoid overheating or leaving it unattended. The VHB also need the above minimum required temperature for curing. Please leave it at least 24 hours or 1.5x the curing time recommended by 3M. Below is a snippet of recommended bond time from the 3M datasheet.
 4. ![](../.gitbook/assets/image.png)
 5. Take the Windshield Side Mount and the Windshield Side Mount cover **(DO NOT open it up yet)**.
 6. Wipe the back of the Windshield Side Mount with the IPA wipe.
-7. **Apply adhesion promoter to every surface** that the VHB is going to stick to and let it dry. (If you have windshield tint, please try it on a small area first, some tint does not do well with the adhesion promoter)
+7. Apply adhesion promoter to every surface that the VHB is going to stick to and let it dry. (If you have windshield tint, please try it on a small area first, some tint does not do well with the adhesion promoter)
 8. Apply VHB tape to the Windshield Side Mount.
-9. **Clamp or use weight** on the complete magmount for **at least 5 hours** so VHB makes perfect contact to the surface. **Every VHB-connected surface** needs to be clamped. (The complete magmount here means magount with VHB or the magmount with angle wedges and VHB or magmount with mount adapter sticked together. )
+9. **Clamp or use weight** on the complete slidemount for **at least 5 hours** so VHB makes perfect contact to the surface. **Every VHB-connected surface** needs to be clamped. (The complete magmount here means magount with VHB or the slidemount with angle wedges and VHB or magmount with mount adapter sticked together. )
 
+### Slidemount Windshield and Device Side Installation Guide
 
-
-### Magmount Windshield and Device Side Installation Guide
-
-1. Mark the **center position** where the Magmount will be installed
+1. Mark the **center position** where the Slidemount will be installed
 
 <figure><img src="../.gitbook/assets/IMG_7114-2-1.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -52,47 +63,36 @@ Only tighten the set screw if the mount is loose on your comma device. By design
 4. Use the IPA wipes **(VHB Tape pack)** to thoroughly clean the marked area on the windshield
 5. Apply the Static film **(VHB Tape pack)** to the windshield. **Note**: If temperatures exceed 40°C (104°F), avoid using the static film.
 6. Take the Windshield Side Mount and the Windshield Side Mount cover **(DO NOT open it up yet)**.
-7. See [#optional-prepare-your-magmount-only-if-you-redo-the-vhb](magmount-installation.md#optional-prepare-your-magmount-only-if-you-redo-the-vhb "mention")  applying VHB on Magmount. Remember to **clamp your mount** **and VHB** after you apply the VHB on the Magmount.
+7. See [#optional-prepare-your-magmount-only-if-you-redo-the-vhb](magmount-installation-2.md#optional-prepare-your-magmount-only-if-you-redo-the-vhb "mention")  applying VHB on slidemount. Remember to **clamp your mount** **and VHB** after you apply the VHB on the Slidemount.
 8. **(Important)** The ideal application temperature for VHB is above 70°F or 21°C. The minimum application temperature is 50°F and 10°C. If the temperature is lower than the minimum required, you can try to heat up the application area before and after attaching the magmount. Use common sense when heating the application area and avoid overheating or leaving it unattended. The VHB also need the above minimum required temperature for curing. Please leave it at least 24 hours or 1.5x the curing time recommended by 3M. Below is a snippet of recommended bond time from the 3M datasheet.\
    ![](../.gitbook/assets/image.png)
-9. Attach the Windshield Side Mount to the Static film if you applied it in step 5, or attach it to the windshield if the static film isn't applied. Try not to leave bubbles in VHB. Install it at a warm temperature and push firmly for optimal contact. During the time when VHB is curing, push firmly every hour to achieve optimal adhesion.&#x20;
+9. **(Important)** Please **leave enough room to slide the mount in and out**. Please **leave minimum 3.5cm (1.4 inch)**&#x20;
+10. Attach the Windshield Side Mount to the Static film if you applied it in step 5, or attach it to the windshield if the static film isn't applied. Try not to leave bubbles in VHB. Install it at a warm temperature and push firmly for optimal contact. During the time when VHB is curing, push firmly every hour to achieve optimal adhesion.&#x20;
 
 <figure><img src="../.gitbook/assets/IMG_7119-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-10. Stick the magmount holder around the magmount and click it on. \
-    Make sure it "holds" the magmounts on the sides.\
-    This magmount holder will hold your magmount in place if the VHB peels off. It is unlikely that with the adhesive promoter applied, the VHB still peels off from the magmount; but the holder acts as a last line of defence.
-
-    **0° Magmount Holder Installation:**
-
-    <div><figure><img src="../.gitbook/assets/holder with mount.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_9974.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
-
-    **8° Magmount Holder Installation:**
-
-    <div><figure><img src="../.gitbook/assets/d72ace7d4a60c4bbd473a11e69a2adf7_origin(1).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/7d2794341e06fdd616489bb7ba6d42ba_origin(1).jpg" alt=""><figcaption></figcaption></figure></div>
 11. Connect the 45cm Type-C cable to the Windshield Side Mount
 12. Connect the other side of the Type C cable to the harness box. Use the cable organizers **(Optional)** to tidy up the cable if needed.
 
 <div align="left"><figure><img src="../.gitbook/assets/IMG_7164.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-13. Take the Device Side Mount **(Device Mount Pack)** and slide it onto the Comma Device
-14. Use the 13cm Type C cable **(Device Mount Pack)** to connect the Device Side Mount to the Comma Device
+13. Take the Device Side Mount and slide it onto the Comma Device
+14. Use the 13cm Type C cable to connect the Device Side Mount to the Comma Device
 
-<div><figure><img src="../.gitbook/assets/IMG_2281.JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_2283.JPG" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/back (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/front (1).jpg" alt=""><figcaption></figcaption></figure></div>
 
-14. _**For Magmount set screw instructions, Magmount Warning**_: (Set screw is **optional** for Magmount) Only tighten the set screw if the mount is loose on your comma device. \
-    By design, the mount should be a very tight fit with your comma device, and it has been tested on both C3 and C3X. \
-    The set screw is there if you are using a comma clone device and the mount is loose on your device. \
-    \
-    Use the Allen Key to tighten the set screw on the Device Side Mount\
-    **Please do not over-tighten it**, as the screw is only intended to prevent movement. \
-    Over-tightening it will cause the breakage of the mounting bracket
+15. For Slidemount set screw instruction (**Set screw is required for Slidemount**): \
+    \- Tighten the pre-install set screws at the left and right side of the Slidemount.\
+    \- Tighten it **just enough** that you can't move the Slidemount.\
+    \- **Do not over-tighten it**, as the screw is small and is only intended to prevent movement.
 
-<figure><img src="../.gitbook/assets/IMG_2282.JPG" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/企业微信截图_17486580636245.png" alt=""><figcaption></figcaption></figure>
 
-15. Tighten it just enough that there is a gap between the mount and the device. Make sure this line is **straight, not curved** when you tighten the set screw.
+**\*\*Example of an over-tightened set screw:**\
+The set screw in the picture below is over-tightened way too much. \
+Otherwise, the mounting bracket could break (as shown in the picture)
 
-<figure><img src="../.gitbook/assets/Set screw.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/企业微信截图_17537360466275.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 16. Carefully remove the Windshield Side Mount Cover and attach the Device Side Mount to the Windshield Side Mount. **Be cautious,** as the magnet is very strong and can pinch your fingers.
 17. &#x20;Use the bubble level **(Optional)** to ensure the Comma Device is level
@@ -109,16 +109,6 @@ Only tighten the set screw if the mount is loose on your comma device. By design
 <figure><img src="../.gitbook/assets/IMG_7220-2.jpg" alt=""><figcaption></figcaption></figure>
 
 24. Please keep the Windshield Side Mount Cover for future use. Reattach it after removing the Comma Device to prevent short-circuiting the mount.
-
-### Magmount Dummy Side Installation Guide
-
-1. Choose a location to store your Comma Device.
-2. Clean the surface using the Wet & Dry Wipes and IPA Wipes **(VHB Tape pack)**.
-3. If attaching to a window or glass surface, you may use a static film. For other surfaces, use it with the adhesion promoter **(adhesion promoter pack)**.
-4. Stick the Dummy Dummy Side Mount on the surface with the pre-applied VHB.
-5. Now you can use the Dummy Mount to securely store your Comma Device when it’s not in use!
-
-
 
 ***
 

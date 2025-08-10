@@ -334,7 +334,7 @@ Real-world use exposed edge cases we couldn’t see on the bench—adhesives cre
 
 ### Functional Improvements
 
-* **Hold Strength:** **Magnet size increased** → **\~30% stronger** overall magnetic hold.
+* **Hold Strength:** **Magnet size increased** → **\~50% stronger** overall magnetic hold.
 * **Device Protection:** The **steel shield** keeps the magnetic field away from the fan while the bigger magnet keeps your device planted.
 * **Cable Durability:** Upgraded to a **braided cable** for repeated installs and daily use.
 * **Buying Made Simple:** **One tier** only—**all accessories included** to avoid confusion.

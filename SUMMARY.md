@@ -5,8 +5,10 @@
 ## BearTech
 
 * [Magmount Description](beartech/magmount.md)
-* [Magmount & Slidemount Installation Guide](beartech/magmount-installation.md)
+* [Magmount Installation Guide - After 2025Aug1st](beartech/magmount-installation.md)
+* [Magmount & Slidemount Installation Guide - before 2025Aug1st](beartech/magmount-installation-1.md)
 * [Slidemount Description](beartech/slidemount.md)
+* [Slidemount Installation Guide - After 2025Aug1st](beartech/magmount-installation-2.md)
 * [SDSU Description and Installation Guide](beartech/sdsu-description-and-installation-guide.md)
 * [Harness and Harness Box Description](beartech/harness-and-harness-box-description.md)
 * [Comma Pedal Description and Installation Guide](beartech/comma-pedal-description-and-installation-guide.md)
