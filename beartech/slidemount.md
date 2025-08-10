@@ -80,8 +80,8 @@ Slidemount set and accessories: [https://shop.retropilot.org/product/beartech-sl
 1\. Slidemount Set Pack:\
 \- Device Side Mount x1\
 \- Windshield Side Mount x1\
-\- Windshield Mount Cover x1\
-(Prevent short-circuiting after the device is pulled off)\
+\- Device Mount Cover x1\
+(Protect blade contact after the device is pulled off)\
 2\. Type C pack\
 \- 13cm Right Angle Head Type-C to Right Angle Head Type-C Cable\
 (Connect the comma device and the Device Side Mount)\
@@ -97,7 +97,7 @@ Slidemount set and accessories: [https://shop.retropilot.org/product/beartech-sl
 \- Static film x2\
 (Stick to the windshield before sticking the VHB tape for easy removal in the future\
 ONLY stick to glass (no tint on the windshield)\
-If the temperature in your area is above 40C (or 104F), static film is not recommended)\
+If your local weather exceeds 40C (or 104F), static film is not recommended.\
 4\. Adhesion Promoter pack\
 \- Adhesion Promoter Wipe x2\
 (Enhance adhesion for non-glass surfaces, adhesion for dummy mount)\
@@ -115,8 +115,8 @@ Set Scre x2
 
 1\. Windshield Slidemount Pack:\
 \- Windshield Side Mount x1\
-\- Windshield Mount Cover x1\
-(Prevent short-circuiting after the device is pulled off)\
+\- Device Mount Cover x1\
+(Protect blade contact after the device is pulled off)\
 2\. Type C pack\
 \- 45cm Right Angle Head Type-C to Stright Type-C Cable\
 (Connect harness box and the Windshield Side Mount)\
@@ -130,7 +130,7 @@ Set Scre x2
 \- Static film x2\
 (Stick to the windshield before sticking the VHB tape for easy removal in the future\
 ONLY stick to glass (no tint on the windshield)\
-If the temperature in your area is above 40C (or 104F), static film is not recommended)\
+If your local weather exceeds 40C (or 104F), static film is not recommended.\
 4\. Adhesion Promoter pack\
 \- Adhesion Promoter Wipe x2\
 (Enhance adhesion for non-glass surfaces, adhesion for dummy mount)\
@@ -140,7 +140,7 @@ If the temperature in your area is above 40C (or 104F), static film is not recom
 
 ## Add-ons
 
-The **Slidemount** will not include a dummy mount like the **Magmount** to keep the product clean and concise, as many users didn’t understand its purpose.&#x20;
+The **Slidemount** will not include a dummy mount like the **Magmount** to keep the product simple and concise, as many users didn’t understand its purpose.&#x20;
 
 If you still wish to protect your Comma device, we have our **storage case**.&#x20;
 

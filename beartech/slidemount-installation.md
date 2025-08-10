@@ -104,7 +104,7 @@ Otherwise, the mounting bracket could break (as shown in the picture)
 
 <figure><img src="../.gitbook/assets/IMG_7136-2.jpg" alt=""><figcaption></figcaption></figure>
 
-23. You are all set to go!
+23. The installation process is complete. Please wait for VHB to cure, and you are all set.
 
 <figure><img src="../.gitbook/assets/IMG_7220-2.jpg" alt=""><figcaption></figcaption></figure>
 

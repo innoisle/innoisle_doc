@@ -104,7 +104,7 @@ Only tighten the set screw if the mount is loose on your comma device. By design
 
 <figure><img src="../.gitbook/assets/IMG_7136-2.jpg" alt=""><figcaption></figcaption></figure>
 
-23. You are all set to go!
+23. The installation process is complete. Please wait for VHB to cure, and you are all set.
 
 <figure><img src="../.gitbook/assets/IMG_7220-2.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -115,7 +115,7 @@ Only tighten the set screw if the mount is loose on your comma device. By design
 1. Choose a location to store your Comma Device.
 2. Clean the surface using the Wet & Dry Wipes and IPA Wipes **(VHB Tape pack)**.
 3. If attaching to a window or glass surface, you may use a static film. For other surfaces, use it with the adhesion promoter **(adhesion promoter pack)**.
-4. Stick the Dummy Dummy Side Mount on the surface with the pre-applied VHB.
+4. Stick the Dummy Side Mount on the surface with the pre-applied VHB.
 5. Now you can use the Dummy Mount to securely store your Comma Device when it’s not in use!
 
 
