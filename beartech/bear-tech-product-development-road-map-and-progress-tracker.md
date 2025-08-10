@@ -291,6 +291,61 @@ It may not look like much—but the road to get here was long, painful, and full
 
 
 
+## Magmount V2 — 11-Month Roadmap & What Changed (Oct 2024 → Aug 2025)
+
+**TL;DR:** We rebuilt Magmount from the inside out. After **hundreds of hours of heat-soak and heat-cycle tests at 65–85 °C**, field failures, and two major redesigns, V2 now ships with **thicker 3M VHB**, **pre-applied adhesive**, a **mechanically fastened device mount (6 heat-set inserts + screws)**, a **galvanized steel shield to stop interference with the C3X fan**, **\~50% stronger magnet hold**, a **braided link cable**, and **one simple all-in kit**. Thank you to everyone who waited and reported issues—your feedback drove every change. 🙏\
+&#xNAN;_&#x54;ravel/no-VHB? Our **Suction Rack** is compatible with Magmount for rentals and road trips._
+
+#### Why V2 Exists
+
+Real-world use exposed edge cases we couldn’t see on the bench—adhesives creeping under heat, uneven load paths cracking mounts, and magnetic fields interference with C3X's fan. We re-tested, re-designed, and re-validated the whole stack.
+
+#### Test Program (Highlights)
+
+* **Thermal:** Continuous 65 °C & 85 °C soaks; 12 h hot / 12 h cool cycling; week-long 85 °C chamber runs on new device-mount assembly (no failures observed).
+* **Adhesion A/Bs:** Multiple surfaces, with/without adhesion promoter and tape thickness trials.
+* **Magnetic Field:** Fan behaviour checks; shield material trials; post-shield magnet field strength test.
+
+#### Major Issues → Fixes
+
+#### 1) Windshield VHB Peel
+
+**What we saw:** VHB lifting on curved windshields—our mount is rigid, unlike the flexible Comma Mount, so it didn’t conform as well.\
+**Fix:** **Thicker 3M VHB** for curvature + better short-term high-temp tolerance (per 3M datasheet).
+
+#### 2) VHB Peel on the Windshield mount
+
+**What we saw:** The Windshield mount slowly peeled off from the VHB.\
+**Immediate fix:** Shipped an **adhesion promoter care pack** to affected users.\
+**Long-term fix:** **Pre-applied VHB** at assembly for consistent bond at correct pressure.
+
+#### 3) C3X Fan Slowing Concern Near Strong Magnets
+
+**What we saw:** Rare reports of slow fan impact.\
+**Fix:** Added a **galvanized steel plate** between the magnet and the device, cutting the magnetic field by **\~80%** while preserving hold force.
+
+#### 4) Device Mount Splitting (Heat + Load Path)
+
+**What we saw:** The bracket loads two sides of the mount; under extreme heat this uneven load could initiate a split.
+
+* **Late 2024 (Rev A):** Switched from a two-piece “hamburger” to a **cap-style shell** to increase epoxy bond area. Helped, but not bulletproof under the worst heat.
+* **Summer 2025 (Rev B):** **Removed epoxy entirely**. The device mount is now **mechanically fastened** with **6 heat-set threaded inserts + screws** placed beside the bracket to share load. The bracket can flex to equalize force across screws.
+  * **Result:** Passed **\~1 week at 85 °C** chamber without failure.
+
+### Functional Improvements
+
+* **Hold Strength:** **Magnet size increased** → **\~50% stronger** overall magnetic hold.
+* **Device Protection:** The **steel shield** keeps the magnetic field away from the fan while the bigger magnet keeps your device planted.
+* **Cable Durability:** Upgraded to a **braided cable** for repeated installs and daily use.
+* **Buying Made Simple:** **One tier** only—**all accessories included** to avoid confusion.
+* **Alternative Mounting:** For folks who prefer mechanical lock-in over magnets, we also built a **Slidemount quick-mount**.
+
+#### Thank You
+
+To everyone who stress-tested V1, waited for V2, and sent us logs, photos, and failure stories—**thank you**. Your patience and support pushed us to build something better.
+
+***
+
 ### #To Be Continued
 
 
