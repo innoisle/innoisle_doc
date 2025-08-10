@@ -29,7 +29,7 @@ Link to RetroPilot Store:
 
 **Magmount V2** is **now available!** — heat-tested, screw-fastened, fan-safe, stronger hold (plus a travel rack option)
 
-After 11 months of feedback and **hundreds of hours of 65–85 °C soak + heat-cycle testing**, Magmount V2 is ready. We listened, broke things, fixed them, and iterated until it stuck (literally). Huge thanks to everyone who waited and sent detailed reports—you shaped V2.&#x20;
+After 11 months of feedback and **hundreds of hours of 65–85 °C soak + heat-cycle testing**, Magmount V2 is ready. We listened, broke things, fixed them, and iterated until it sticks (literally). Huge thanks to everyone who waited and sent detailed reports—you shaped V2.&#x20;
 
 **What’s new vs V1 (quick hits):**
 
