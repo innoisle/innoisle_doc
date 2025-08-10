@@ -1,6 +1,6 @@
 ---
 description: 'Join our discord at: https://discord.innoisle.com/'
-icon: screwdriver-wrench
+icon: magnet
 ---
 
 # Magmount Description

@@ -63,7 +63,7 @@ Otherwise, the mounting bracket could break (as shown in the picture)
 4. Use the IPA wipes **(VHB Tape pack)** to thoroughly clean the marked area on the windshield
 5. Apply the Static film **(VHB Tape pack)** to the windshield. **Note**: If temperatures exceed 40°C (104°F), avoid using the static film.
 6. Take the Windshield Side Mount and the Windshield Side Mount cover **(DO NOT open it up yet)**.
-7. See [#optional-prepare-your-magmount-only-if-you-redo-the-vhb](magmount-installation-2.md#optional-prepare-your-magmount-only-if-you-redo-the-vhb "mention")  applying VHB on slidemount. Remember to **clamp your mount** **and VHB** after you apply the VHB on the Slidemount.
+7. See [#optional-prepare-your-magmount-only-if-you-redo-the-vhb](slidemount-installation.md#optional-prepare-your-magmount-only-if-you-redo-the-vhb "mention")  applying VHB on slidemount. Remember to **clamp your mount** **and VHB** after you apply the VHB on the Slidemount.
 8. **(Important)** The ideal application temperature for VHB is above 70°F or 21°C. The minimum application temperature is 50°F and 10°C. If the temperature is lower than the minimum required, you can try to heat up the application area before and after attaching the magmount. Use common sense when heating the application area and avoid overheating or leaving it unattended. The VHB also need the above minimum required temperature for curing. Please leave it at least 24 hours or 1.5x the curing time recommended by 3M. Below is a snippet of recommended bond time from the 3M datasheet.\
    ![](../.gitbook/assets/image.png)
 9. **(Important)** Please **leave enough room to slide the mount in and out**. Please **leave minimum 3.5cm (1.4 inch)**&#x20;
