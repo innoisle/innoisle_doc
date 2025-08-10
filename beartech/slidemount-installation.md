@@ -12,10 +12,11 @@ icon: screwdriver-wrench
 
 ## **Set Screw Warning:**
 
-**\*Over-tightening the set screw could break yourslidemount**
+**\*Over-tightening the set screw could break your slidemount**
 
 **Set screw is required for Slidemount**: \
-\- Tighten the pre-install set screws at the left and right side of the Slidemount.\
+\- Lose the protruded set screw (if any) so it won't block you from installing the slidemount\
+\- After attaching the mount to device, tighten the pre-install set screws at the left and right side of the Slidemount.\
 \- Tighten it **just enough** that you can't move the Slidemount. \
 \- **Do not over-tighten it**, as the screw is small and is only intended to prevent movement. \
 \- Over-tightening it will cause the **breakage of the mounting bracket**.&#x20;
@@ -39,14 +40,14 @@ Otherwise, the mounting bracket could break (as shown in the picture)
 
 ### (Optional) Prepare your magmount: (ONLY if you redo the VHB)
 
-1. Now, all slidemount and angle wedge already come with **pre-applied VHB**. \
+1. All slidemount and angle wedge already come with **pre-applied VHB**. \
    If you would like to **redo the VHB**, then please follow the steps to prep it.\
    Please make sure you **apply the adhesion promoter** before applying the VHB.&#x20;
 2. Warning: Apply the VHB tape to the slidemount, angle wedges or comma mount adapter first before you stick it on the windshield. And apply the VHB in warm temp.\
    If you are reapplying the VHB tape, Clean the surface with isopropyl alcohol and ensure that no residue remains.
 3. **(Important)** The ideal application temperature for VHB is above 70°F or 21°C. The minimum application temperature is 50°F and 10°C. If the temperature is lower than the minimum required, you can try to heat up the application area before and after attaching the magmount. Use common sense when heating the application area and avoid overheating or leaving it unattended. The VHB also need the above minimum required temperature for curing. Please leave it at least 24 hours or 1.5x the curing time recommended by 3M. Below is a snippet of recommended bond time from the 3M datasheet.
 4. ![](../.gitbook/assets/image.png)
-5. Take the Windshield Side Mount and the Windshield Side Mount cover **(DO NOT open it up yet)**.
+5. Take the Windshield Side Mount.
 6. Wipe the back of the Windshield Side Mount with the IPA wipe.
 7. Apply **adhesion promoter to every surface (except on glass)**  that the VHB is going to stick to and let it dry. (If you have windshield tint, please try it on a small area first, some tint does not do well with the adhesion promoter)
 8. Apply VHB tape to the Windshield Side Mount.
@@ -62,7 +63,7 @@ Otherwise, the mounting bracket could break (as shown in the picture)
 3. Use the Dry wipes **(VHB Tape pack)** to further clean the same area on the windshield
 4. Use the IPA wipes **(VHB Tape pack)** to thoroughly clean the marked area on the windshield
 5. Apply the Static film **(VHB Tape pack)** to the windshield. **Note**: If your local weather exceed 40°C (104°F), avoid using the static film.
-6. Take the Windshield Side Mount and the Windshield Side Mount cover **(DO NOT open it up yet)**.
+6. Take the Windshield Side Mount.
 7. See [#optional-prepare-your-magmount-only-if-you-redo-the-vhb](slidemount-installation.md#optional-prepare-your-magmount-only-if-you-redo-the-vhb "mention")  applying VHB on slidemount. Remember to **clamp your mount** **and VHB** after you apply the VHB on the Slidemount.
 8. **(Important)** The ideal application temperature for VHB is above 70°F or 21°C. The minimum application temperature is 50°F and 10°C. If the temperature is lower than the minimum required, you can try to heat up the application area before and after attaching the magmount. Use common sense when heating the application area and avoid overheating or leaving it unattended. The VHB also need the above minimum required temperature for curing. Please leave it at least 24 hours or 1.5x the curing time recommended by 3M. Below is a snippet of recommended bond time from the 3M datasheet.\
    ![](../.gitbook/assets/image.png)
@@ -90,11 +91,11 @@ Otherwise, the mounting bracket could break (as shown in the picture)
 
 **\*\*Example of an over-tightened set screw:**\
 The set screw in the picture below is over-tightened way too much. \
-Otherwise, the mounting bracket could break (as shown in the picture)
+The mounting bracket could break (as shown in the picture)
 
 <div align="left"><figure><img src="../.gitbook/assets/企业微信截图_17537360466275.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-16. Carefully remove the Windshield Side Mount Cover and attach the Device Side Mount to the Windshield Side Mount. **Be cautious,** as the magnet is very strong and can pinch your fingers.
+16. Carefully attach the Device Side Mount to the Windshield Side Mount. **Be cautious,** as the magnet is very strong and can pinch your fingers.
 17. &#x20;Use the bubble level **(Optional)** to ensure the Comma Device is level
 
 <div align="left"><figure><img src="../.gitbook/assets/IMG_7132.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
