@@ -23,7 +23,7 @@ Link to my Etsy Store:
 
 Link to RetroPilot Store:
 
-
+[https://shop.retropilot.org/product/beartech-magmount](https://shop.retropilot.org/product/beartech-magmount)
 
 ### 🚨 Update for V2 Magmount Se&#x74;**:**&#x20;
 
