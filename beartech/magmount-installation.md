@@ -95,15 +95,15 @@ Otherwise, the mounting bracket could break (as shown in the picture)
 
 #### Magmount Windshield and Device Side Installation Guide
 
-1. Place the Magnetic angle gauge **(Installation kit)** on the floor to make sure the ground is level
+1. Place the Magnetic angle gauge **(Optional)** on the floor to make sure the ground is level
 
 <figure><img src="../.gitbook/assets/IMG_7081-2-1.jpg" alt=""><figcaption></figcaption></figure>
 
-2. Place the 1.5m tape measure **(Installation kit)** vertically on the far left and right side of your windshield outside the vehicle. Use tape to secure if needed
+2. Place the 1.5m tape measure **(Optional)** vertically on the far left and right side of your windshield outside the vehicle. Use tape to secure if needed
 
 <figure><img src="../.gitbook/assets/画板 1.png" alt=""><figcaption></figcaption></figure>
 
-3. &#x20;Center the 2m tape measure **(Installation kit)** on the windshield and mark 5cm down the radar
+3. &#x20;Center the 2m tape measure **(Optional)** on the windshield and mark 5cm down the radar
 
 <figure><img src="../.gitbook/assets/画板 1 拷贝.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -126,7 +126,7 @@ Otherwise, the mounting bracket could break (as shown in the picture)
 <figure><img src="../.gitbook/assets/IMG_7119-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 14. Connect the 45cm Type-C cable to the Windshield Side Mount
-15. Connect the other side of the Type C cable to the harness box. Use the cable organizers **(installation kit)** to tidy up the cable if needed.
+15. Connect the other side of the Type C cable to the harness box. Use the cable organizers **(Optional)** to tidy up the cable if needed.
 
 <div align="left"><figure><img src="../.gitbook/assets/IMG_7164.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -137,9 +137,10 @@ Otherwise, the mounting bracket could break (as shown in the picture)
 
 18. _**For Magmount set screw instructions, Magmount Warning**_: (Set screw is optional for Magmount) Only tighten the set screw if the mount is loose on your comma device. By design, the mount should be a very tight fit with your comma device, and it has been tested on both C3 and C3X. For Magmount: The set screw is there if you are using a comma clone device and the mount is loose on your device. \
     \
-    Apply a drop of Thread Locker **(Magmount Premium)** to the set screw. Use the Allen Key **(Magmount Premium)** to tighten the set screw on the Device Side Mount
+    Use the Allen Key to tighten the set screw on the Device Side Mount\
+    **Please do not over-tighten it**, as the screw is only intended to prevent movement. (Over-tightening it will cause the breakage of the mounting bracket
 
-<div><figure><img src="../.gitbook/assets/IMG_2285-1 (2).JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_2282.JPG" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/IMG_2282.JPG" alt="" width="375"><figcaption></figcaption></figure>
 
 19. Tighten it just enough that there is a gap between the mount and the device. Make sure this line is straight, not curved when you tighten the set screw.\
     &#xNAN;_**This also applies if you get the tightening kit for your Slidemount, Warning**_: Slidemount use two smaller set screw to make it secure on the device. ¼ set screw is not for Slidemount. Only in extreme cases might you need it to secure the Slidemount onto the device using ¼ set screw. In the case that you use the ¼ set screw, please don't over-tighten it and damage your Slidemount. The following guide is for Magmount, but some of the process still applies to Slidemount. Proceed at your own risk.
@@ -153,11 +154,11 @@ Otherwise, the mounting bracket could break (as shown in the picture)
 
     <figure><img src="../.gitbook/assets/企业微信截图_17486580636245.png" alt=""><figcaption></figcaption></figure>
 21. Carefully remove the Windshield Side Mount Cover and attach the Device Side Mount to the Windshield Side Mount. **Be cautious,** as the magnet is very strong and can pinch your fingers.
-22. &#x20;Use the bubble level **(Installation Kit)** to ensure the Comma Device is level
+22. &#x20;Use the bubble level **(Optional)** to ensure the Comma Device is level
 
 <div align="left"><figure><img src="../.gitbook/assets/IMG_7132.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-22. Use the Tilt Level meter (Installation Kit) to confirm proper installation.
+22. Use the Tilt Level meter (**Optional**) to confirm proper installation.
 
 <figure><img src="../.gitbook/assets/IMG_7136-2.jpg" alt=""><figcaption></figcaption></figure>
 
