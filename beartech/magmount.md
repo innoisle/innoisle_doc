@@ -41,11 +41,11 @@ After 11 months of feedback and **hundreds of hours of 65–85 °C soak + heat-c
 * **Simpler buying:** One kit, **all accessories included** (no more tier confusion).
 
 **Options if magnets aren’t your thing:**\
-We also built a **Sliding quick-mount** that locks mechanically.\
+We also built a **Slidemount** (a sliding quick mount) that locks mechanically.\
 [https://shop.tlbb.ca/products/beartech-slidemount](https://shop.tlbb.ca/products/beartech-slidemount)
 
 **Travel / no-VHB?**\
-Our **Suction Rack** works with Magmount—perfect for rentals, road trips, or anyone who doesn’t want adhesive on glass.\
+Our **Suction Rack** works with Magmount—perfect for tinted windshields, rentals, road trips, or anyone who doesn’t want adhesive on glass.\
 [https://shop.beartech.ca/products/suction-rack](https://shop.beartech.ca/products/suction-rack)
 
 **Support & thanks:**\

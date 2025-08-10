@@ -35,7 +35,7 @@ Only tighten the set screw if the mount is loose on your comma device. By design
 4. ![](../.gitbook/assets/image.png)
 5. Take the Windshield Side Mount and the Windshield Side Mount cover **(DO NOT open it up yet)**.
 6. Wipe the back of the Windshield Side Mount with the IPA wipe.
-7. **Apply adhesion promoter to every surface** that the VHB is going to stick to and let it dry. (If you have windshield tint, please try it on a small area first, some tint does not do well with the adhesion promoter)
+7. **Apply adhesion promoter to every surface (except on glass)** that the VHB is going to stick to and let it dry. (If you have windshield tint, please try it on a small area first, some tint does not do well with the adhesion promoter)
 8. Apply VHB tape to the Windshield Side Mount.
 9. **Clamp or use weight** on the complete magmount for **at least 5 hours** so VHB makes perfect contact to the surface. **Every VHB-connected surface** needs to be clamped. (The complete magmount here means magount with VHB or the magmount with angle wedges and VHB or magmount with mount adapter sticked together. )
 
@@ -50,7 +50,7 @@ Only tighten the set screw if the mount is loose on your comma device. By design
 2. Use the Wet wipes **(VHB Tape pack)** to clean the marked area on the windshield inside the vehicle
 3. Use the Dry wipes **(VHB Tape pack)** to further clean the same area on the windshield
 4. Use the IPA wipes **(VHB Tape pack)** to thoroughly clean the marked area on the windshield
-5. Apply the Static film **(VHB Tape pack)** to the windshield. **Note**: If temperatures exceed 40°C (104°F), avoid using the static film.
+5. Apply the Static film **(VHB Tape pack)** to the windshield. **Note**: If your local weather exceed 40°C (104°F), avoid using the static film.
 6. Take the Windshield Side Mount and the Windshield Side Mount cover **(DO NOT open it up yet)**.
 7. See [#optional-prepare-your-magmount-only-if-you-redo-the-vhb](magmount-installation.md#optional-prepare-your-magmount-only-if-you-redo-the-vhb "mention")  applying VHB on Magmount. Remember to **clamp your mount** **and VHB** after you apply the VHB on the Magmount.
 8. **(Important)** The ideal application temperature for VHB is above 70°F or 21°C. The minimum application temperature is 50°F and 10°C. If the temperature is lower than the minimum required, you can try to heat up the application area before and after attaching the magmount. Use common sense when heating the application area and avoid overheating or leaving it unattended. The VHB also need the above minimum required temperature for curing. Please leave it at least 24 hours or 1.5x the curing time recommended by 3M. Below is a snippet of recommended bond time from the 3M datasheet.\
@@ -75,8 +75,8 @@ Only tighten the set screw if the mount is loose on your comma device. By design
 
 <div align="left"><figure><img src="../.gitbook/assets/IMG_7164.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-13. Take the Device Side Mount **(Device Mount Pack)** and slide it onto the Comma Device
-14. Use the 13cm Type C cable **(Device Mount Pack)** to connect the Device Side Mount to the Comma Device
+13. Take the Device Side Mount and slide it onto the Comma Device
+14. Use the 13cm Type C cable to connect the Device Side Mount to the Comma Device
 
 <div><figure><img src="../.gitbook/assets/IMG_2281.JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_2283.JPG" alt=""><figcaption></figcaption></figure></div>
 
