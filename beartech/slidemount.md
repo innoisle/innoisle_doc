@@ -60,12 +60,6 @@ Slidemount set and accessories: [https://shop.retropilot.org/product/beartech-sl
 [magmount-installation.md](magmount-installation.md)
 {% endcontent-ref %}
 
-## Videos:
-
-{% embed url="https://www.youtube.com/shorts/pY-kq5TgB6Y" %}
-
-{% embed url="https://www.youtube.com/shorts/LTKeOpZvHFU" %}
-
 ***
 
 ## **What is included:**
@@ -146,17 +140,25 @@ If you still wish to protect your Comma device, we have our **storage case**.&#x
 [carry-case-for-c3-c3x.md](carry-case-for-c3-c3x.md)
 {% endcontent-ref %}
 
-Additionally, accessories and add-ons such as the **Angle Wedge**, **Comma Mount Adapter**, and **OP Device Stand** are shared between the **Magmount** and **Slidemount**.
+Additionally, accessories and add-ons such as the **Angle Wedge**, **Comma Mount Adapter**, **OP Device Stand,** and **Suction Rack** are shared between the **Magmount** and **Slidemount**.
 
 You can find them at:
 
-Magmount Add-on Mounts: [https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-add-on-for-comma-device](https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-add-on-for-comma-device)
-
 OP Device Stand: [https://shop.tlbb.ca/products/op-device-stand](https://shop.tlbb.ca/products/op-device-stand)
 
+Suction Rack: [https://shop.beartech.ca/products/suction-rack](https://shop.beartech.ca/products/suction-rack)
 
+Slidemount and accessories (angle wedge, Comma Mount Adapter): [https://shop.tlbb.ca/products/beartech-slidemount](https://shop.tlbb.ca/products/beartech-slidemount)
 
+***
 
+## Videos
+
+{% embed url="https://www.youtube.com/shorts/pY-kq5TgB6Y" %}
+
+{% embed url="https://www.youtube.com/shorts/LTKeOpZvHFU" %}
+
+***
 
 ## Warnings and Cautions
 

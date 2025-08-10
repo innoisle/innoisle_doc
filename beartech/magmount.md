@@ -7,27 +7,49 @@ icon: screwdriver-wrench
 
 ## Description:
 
-The Magmount is your go-to magnetic mount for the comma device, featuring 24 pogo pins for a full-feature Type-C connection and optimized internal wiring for top-notch signal quality. It’s super slim at just 17mm and includes a handy 1/4-inch thread for camera tripods, making it both functional and versatile. Plus, with concerns about smash-and-grab thefts on the rise, our premium set comes with a dummy mount that lets you securely stash your device under the dash, keeping it hidden and cool. Just grab it and attach it to the windshield as you get in—no more fussing around with glove boxes or center consoles!
+The Magmount is your go-to magnetic mount for the comma device, featuring 24 pogo pins for a full-feature Type-C connection and optimized internal wiring for top-notch signal quality. It’s super slim at just 17mm and includes a handy 1/4-inch thread for camera tripods, making it both functional and versatile. Plus, with concerns about smash-and-grab thefts on the rise, it comes with a dummy mount that lets you securely stash your device under the dash, keeping it hidden and cool. Just grab it and attach it to the windshield as you get in—no more fussing around with glove boxes or center consoles!
 
-<figure><img src="../.gitbook/assets/magmount with c3.JPG" alt="" width="375"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/1.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ## Where to buy:
 
-Magmount Essential Kit and Premium Kit: [https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-set-for-comma-device](https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-set-for-comma-device)
+Link to my Store:
 
-### 🚨 **Important Notice:**&#x20;
+Magmount Premium Set & Angle Wedge & Mount Adapter & More: [https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-set-for-comma-device](https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-set-for-comma-device)
 
-After carefully listening to feedback and reviewing the issues some users encountered, we’ve **upgraded the Magmount design** to make it even more reliable. We’ve switched from a glue-based system to a **secure screw-on mount** and will now include **all the small kits you might need** (like screws, extra adhesion promoters, magmount holder, angle wedge, comma mount adapter, etc.) right in the box.
+Link to my Etsy Store:
 
-Because of this, we’ve decided to move forward with **only the Premium Kit**. We realized that offering an Essential Kit often left customers coming back to request additional parts—and we want everyone to have the best, worry-free experience right out of the box.
+[https://www.etsy.com/ca/listing/1804507729/beartech-magmount-openpilot-magnetic](https://www.etsy.com/ca/listing/1804507729/beartech-magmount-openpilot-magnetic)
 
-This change comes from a place of care and consideration for our community—we’d rather provide a **complete solution upfront** than risk any frustration later on.
-
-Thank you as always for your trust and support. It’s because of you and your feedback that we’re able to make Magmount even better.
-
-**Magmount V2** will be available soon **(ETA early-August)**. If you prefer not to wait, we recommend purchasing our [**Slidemount**](slidemount.md) instead.
+Link to RetroPilot Store:
 
 
+
+### 🚨 Update for V2 Magmount Se&#x74;**:**&#x20;
+
+**Magmount V2** is **now available!** — heat-tested, screw-fastened, fan-safe, stronger hold (plus a travel rack option)
+
+After 11 months of feedback and **hundreds of hours of 65–85 °C soak + heat-cycle testing**, Magmount V2 is ready. We listened, broke things, fixed them, and iterated until it stuck (literally). Huge thanks to everyone who waited and sent detailed reports—you shaped V2.&#x20;
+
+**What’s new vs V1 (quick hits):**
+
+* **Sticks better:** Thicker 3M VHB for curved windshields + **pre-applied VHB** on the windshield mount side. **Adhesion promoter kit** included. Included **Magmount holder** acts like last line of defense, hold your Magmount in place.
+* **No more glue failures:** Device mount is now **mechanically fastened** with **6 heat-set inserts + screws** near the bracket for even load. Survived \~**1 week at 85 °C** in chamber tests.
+* **New C3X Fan friendly:** Added a **galvanized steel shield** between magnet and device to cut magnetic field \~**80%**—addresses the C3X slow-fan concern.
+* **Stronger hold:** Larger magnet = about **+50%** total magnetic strength.
+* **Tough cabling:** Upgraded to a **braided cable** for better wear resistance.
+* **Simpler buying:** One kit, **all accessories included** (no more tier confusion).
+
+**Options if magnets aren’t your thing:**\
+We also built a **Sliding quick-mount** that locks mechanically.\
+[https://shop.tlbb.ca/products/beartech-slidemount](https://shop.tlbb.ca/products/beartech-slidemount)
+
+**Travel / no-VHB?**\
+Our **Suction Rack** works with Magmount—perfect for rentals, road trips, or anyone who doesn’t want adhesive on glass.\
+[https://shop.beartech.ca/products/suction-rack](https://shop.beartech.ca/products/suction-rack)
+
+**Support & thanks:**\
+We’ve already sent replacement device mounts to folks who reported V1 splitting. If we missed you, DM us (or reply to your order email) and we’ll make it right. Thanks again for sticking with us—V2 exists because of you. 🙏
 
 
 
@@ -45,29 +67,31 @@ Product defect warranty and help request:\
 
 ## Magmount Premium Kit
 
-| Magmount Premium                                                                   |
-| ---------------------------------------------------------------------------------- |
-| Device Side Mount x1  (Mount Set) - With Magnetic Shield                           |
-| Windshield Side Mount x1  (Mount Set) - With VHB pre-applied                       |
-| Mount Cover x1  (Mount Set)                                                        |
-| Dummy Mount x1  (Mount Set)                                                        |
-| 8 degree Angle Wedge x1  (Accessories) - With VHB pre-applied                      |
-| Magmount Holder (0 degree and 8 degree)  x1   (Accessories) - With VHB pre-applied |
-| Comma Mount Adapter x1  (Accessories)                                              |
-| Magmount Cover B x1  (Accessories)                                                 |
-| 45cm Type C Cable x1  (Cable Set)                                                  |
-| 13cm Type C Cable x1  (Cable Set)                                                  |
-| Wet & DryWipe x4  (2 VHB Pack)                                                     |
-| IPA Wipe X4  (2 VHB Pack)                                                          |
-| 3M VHB Tape x4  (2 VHB Pack)                                                       |
-| Static Film x4  (2 VHB Pack)                                                       |
-| Adhesion Promoter Wipe X4  (Adhesion Promoter Pack)                                |
-| PE gloves X4  (Adhesion Promoter Pack)                                             |
-| Allen Key x1  (Set Screw Pack)                                                     |
-| Set Screw x1  (Set Screw Pack)                                                     |
-| Device Mount Bracket x1 (Replacement Parts)                                        |
-| Phillips screwdriver x1  (Replacement Parts)                                       |
-| Phillips screw x2  (Replacement Parts)                                             |
+<div><figure><img src="../.gitbook/assets/1 (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/set description.jpg" alt=""><figcaption></figcaption></figure></div>
+
+**What is included in the Magmount Premium Set**:
+
+* Device Side Mount x1  (Mount Set) - With Magnetic Shield
+* Windshield Side Mount x1  (Mount Set) - With VHB pre-applied
+* Mount Cover x1  (Mount Set)
+* Dummy Mount x1  (Mount Set)
+* 8 degree Angle Wedge x1  (Accessories) - With VHB pre-applied
+* Magmount Holder (0 degree and 8 degree)  x1   (Accessories) - With VHB pre-applied
+* Comma Mount Adapter x1  (Accessories)
+* Magmount Cover B x1  (Accessories)
+* 45cm Type C Cable x1  (Cable Set)
+* 13cm Type C Cable x1  (Cable Set)
+* Wet & DryWipe x4  (2 VHB Pack)
+* IPA Wipe X4  (2 VHB Pack)
+* 3M VHB Tape x4  (2 VHB Pack)
+* Static Film x4  (2 VHB Pack)
+* Adhesion Promoter Wipe X4  (Adhesion Promoter Pack)
+* PE gloves X2  (Adhesion Promoter Pack)
+* Allen Key x1  (Set Screw Pack)
+* Set Screw x1  (Set Screw Pack)
+* Device Mount Bracket x1 (Replacement Parts)
+* Phillips screwdriver x1  (Replacement Parts)
+* Phillips screw x2  (Replacement Parts)
 
 ## What is a Dummy mount, and why do I need it?
 
@@ -112,87 +136,107 @@ You still get everything you need from Essential if you just need a quick-mount.
 
 <div align="left"><figure><img src="../.gitbook/assets/2b0ccda2eeba6c9ef96674a01c19fd6.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-## Product Description
+***
+
+## Add-ons
+
+If you still wish to protect your Comma device, we have our **storage case**.&#x20;
+
+{% content-ref url="carry-case-for-c3-c3x.md" %}
+[carry-case-for-c3-c3x.md](carry-case-for-c3-c3x.md)
+{% endcontent-ref %}
+
+The **Magmount** will  include all the additional accessories that you might need. \
+But if you want additional parts such as the **Angle Wedge**, **Comma Mount Adapter**, **OP Device Stand,** and **Suction Rack,** they are shared between the **Magmount** and **Slidemount**.
+
+You can find them at:
+
+OP Device Stand: [https://shop.tlbb.ca/products/op-device-stand](https://shop.tlbb.ca/products/op-device-stand)
+
+Suction Rack: [https://shop.beartech.ca/products/suction-rack](https://shop.beartech.ca/products/suction-rack)
+
+Magmount and accessories (angle wedge, Comma Mount Adapter): [ttps://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-set-for-comma-device](https://shop.tlbb.ca/products/openpilot-magmount-magnetic-mount-set-for-comma-device)
+
+***
+
+## Detailed Parts Description
 
 ### Magmount Kits
 
-#### **What is included in Magmount Essential:**
+#### **What is included:**
 
-<div data-full-width="false"><figure><img src="../.gitbook/assets/Magmount  Set A pack 3-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Magmount  Set A pack 4-1-1.jpg" alt=""><figcaption></figcaption></figure></div>
+1. **Magmount Set:**
 
-**Magmount Set A:**\
-1\. Magmount Set Pack:\
-\- Device Side Mount x1\
-\- Windshield Side Mount x1\
+<div align="left"><figure><img src="../.gitbook/assets/magmount set.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+\- Magmount Device Side Mount x1\
+\- Magmount Windshield Side Mount x1\
 \- Windshield Mount Cover x1\
 (Prevent short-circuiting after the device is pulled off)
 
-<div align="left"><figure><img src="../.gitbook/assets/Magmount Set A 5.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
-
-2. Type C pack:\
-   \- 13cm Right Angle Head Type-C to Right Angle Head Type-C Cable (Connect the comma device and the Device Side Mount)\
-   \- 45cm Right Angle Head Type-C to Stright Type-C Cable (Connect harness box and the Windshield Side Mount)
-
-<div align="left"><figure><img src="../.gitbook/assets/Type-C A款1.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
-
-3. VHB Tape pack:\
-   \- Cut to size 3M VHB Tape x2 (Stick the Windshield Side Mount to Car Windshield)\
-   \- Wet & Dry wipes x2 (Clean the windshield before apply)\
-   \- IPA wipe x2 (Clean the windshield before apply)\
-   \- Static film x2 (Stick to the windshield before sticking the VHB tape for easy removal in the future ONLY stick to glass (no tint on the windshield). If the temperature in your area is above 40C (or 104F), static film is not recommended)
-
-<div align="left"><figure><img src="../.gitbook/assets/VHB 1.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
-
-#### **What is included in Magmount Premium:**
-
-<div><figure><img src="../.gitbook/assets/Magmount  Set A pack 4-1-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Magmount Set B pack2-1-1.jpg" alt=""><figcaption></figcaption></figure></div>
 
 
-
-Magmount set B is only included in the premium package
-
-**Magmount Premium includes everything in Magmount Essential, Plus Magmount Set B:**
-
-1. Dummy Magmount windshield side x1
+2. **Dummy Mount x1**
 
 <div align="left"><figure><img src="../.gitbook/assets/Dummy Windshield Magmount 2.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
 
-2. VHB Tape pack:\
-   \- Cut to size 3M VHB Tape x2 (Stick the Windshield Side Mount to Car Windshield)\
-   \- Wet & Dry wipes x2 (Clean the windshield before apply)\
-   \- IPA wipe x2 (Clean the windshield before apply)\
-   \- Static film x2 (Stick to the windshield before sticking the VHB tape for easy removal in the future ONLY stick to glass (no tint on the windshield). If the temperature in your area is above 40C (or 104F), static film is not recommended)
+
+
+3. **Type C pack:**
+
+<div align="left"><figure><img src="../.gitbook/assets/Type-C A款1.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
+
+\- 13cm Right Angle Head Type-C to Right Angle Head Type-C Cable (Connect the comma device and the Device Side Mount)\
+\- 45cm Right Angle Head Type-C to Stright Type-C Cable (Connect harness box and the Windshield Side Mount)
+
+
+
+4. **Accessories**
+
+<div align="left"><figure><img src="../.gitbook/assets/accessories.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+\- 0° Mount Holder x1\
+\- 8° Mount Holder x1\
+\- 8° Angle Wedge x1\
+\- Comma Mount Adapter x1\
+\- Cover B x1\
+
+
+5. **VHB Tape pack X2:**
 
 <div align="left"><figure><img src="../.gitbook/assets/VHB 1.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
 
-3. Adhesion Promoter pack:\
-   \- Adhesion Promoter Wipe x2 (Enhance adhesion for non-glass surfaces, adhesion for dummy mount)\
-   \- PE gloves x2
+\- Cut to size 3M VHB Tape x4 (Stick the Windshield Side Mount to Car Windshield)\
+\- Wet & Dry wipes x4 (Clean the windshield before apply)\
+\- IPA wipe x4 (Clean the windshield before apply)\
+\- Static film x4 (Stick to the windshield before sticking the VHB tape for easy removal in the future ONLY stick to glass (no tint on the windshield). If the temperature in your area is above 40C (or 104F), static film is not recommended)
+
+
+
+6. **Adhesion Promoter pack:**
 
 <div align="left"><figure><img src="../.gitbook/assets/Adhesion Promoter 1.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
 
-4. Threadlocker x1\
-   (Prevents loosening of set screw in Device Side Mount)
+\- Adhesion Promoter Wipe x4 (Enhance adhesion for non-glass surfaces, adhesion for dummy mount)\
+\- PE gloves x2
 
-<div align="left"><figure><img src="../.gitbook/assets/Threadlocker 2.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
 
-5. Allen Key x1 (Adjust set screw)
 
-<div align="left"><figure><img src="../.gitbook/assets/L形内六角扳手1.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
+7. **Set Screw Kit**\
+   (**Do not over-tighten it**, as the screw is small and is only intended to prevent movement)
 
-&#x20;**What is included in the Installation kit (for Magmount Premium pre-orders ONLY):**
+\- Allen Key x1\
+\- Set Screw x2
 
-<div align="left"><figure><img src="../.gitbook/assets/1-1.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/set screw kit.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-1\.     1.5m Tape Measure x2
+8. **Replacement Kit**
 
-2\.     2m Tape Measure x2
+<div align="left"><figure><img src="../.gitbook/assets/replacement kit.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-3\.     Bubble Level x1
-
-4\.     Magnetic angle gauge x1
-
-5\.     Cable organizers
+\- Phillips Screwdriver x1\
+\- Phillips Screw x2\
+\- Device Mount Replacement Bracket Part x1
 
 ***
 
@@ -222,21 +266,6 @@ Magmount set B is only included in the premium package
    \- Static film x2 (Stick to the windshield before sticking the VHB tape for easy removal in the future ONLY stick to glass (no tint on the windshield). If the temperature in your area is above 40C (or 104F), static film is not recommended)
 
 <div align="left"><figure><img src="../.gitbook/assets/VHB 1.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
-
-#### **What is included in the Device Magmount:**
-
-<div align="left"><figure><img src="../.gitbook/assets/Device Magmount pack1-1.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
-
-1. Magmount Set Pack:\
-   \- Device Side Mount x1
-
-<div align="left"><figure><img src="../.gitbook/assets/Device Magmount 2.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
-
-2. Type C pack:\
-   \- 13cm Right Angle Head Type-C to Right Angle Head Type-C Cable\
-   (Connect the comma device and the Device Side Mount)
-
-<div align="left"><figure><img src="../.gitbook/assets/Device Magmount 2.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
 
 #### **What is included in the Dummy Windshield Mount:**
 
