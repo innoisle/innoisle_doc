@@ -68,6 +68,7 @@ The Suction Rack is a versatile mounting solution designed for Comma 3 and Comma
 
 ### **Recommended Use Cases**
 
+* **Windshield with tint:** Sticking VHB on tint might ruin your tint. With the suction rack, you can remove your setup with ease.
 * **Rental or Shared Vehicles:** Avoid leaving any residue on windshields when moving your comma device between cars.
 * **Frequent Travellers:** Reusable and easy to pack for use in multiple vehicles.
 * **Non-Permanent Installs:** For users who prefer not to apply permanent adhesives like VHB tape.

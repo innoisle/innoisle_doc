@@ -20,7 +20,7 @@ OBD Power is the original Comma power.
 
 It provides 12V power to your Comma device via the OBD port. \
 12V from the OBD port usually stays alive after the car is off, which means your Comma device will stay on.\
-It also connects 1 CAN bus from your comma device to the OBD port.
+It also connects CAN bus 3 from your comma device to the OBD port.
 
 It is compatible with Pedal, with the RJ45 port
 
