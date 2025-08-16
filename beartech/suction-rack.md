@@ -23,10 +23,14 @@ Suction Rack: [https://shop.retropilot.org/product/beartech-suction-rack/](https
 
 ## Update:
 
-1/4 screw thick comma mount (the adapter that allows sliding your Comma directly onto the suction rack) for Suction Rack and Device Stand is **now available**. \
+**1/4 screw thick comma mount adapter** (the adapter that allows sliding your Comma directly onto the suction rack) for Suction Rack and Device Stand is **now available**. \
 It would allow using a suction rack without using a slidemount or magmount.\
-If you need that, please specify it in your order. \
+If you need that, please specify it in your suction rack order. \
 It will only be send out **upon request**. Thank you.
+
+<div><figure><img src="../.gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1 (3).jpg" alt=""><figcaption></figcaption></figure></div>
+
+<div align="center"><figure><img src="../.gitbook/assets/3 (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Product Description
 
