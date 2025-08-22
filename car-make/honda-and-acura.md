@@ -9,7 +9,7 @@ description: What do you need for Honda vehicles
 ### Honda:&#x20;
 
 * Honda CRV 2015-2016
-* Honda Ridgeline 2017-2024
+* Honda Ridgeline 2017-2025
 * Honda Pilot 2016-2022
 * Honda Odyssey 2018-2020
 * Honda Passport 2019-2023
