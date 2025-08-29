@@ -48,7 +48,7 @@ description: What do you need for GM vehicles
 * Chevy High Country
 * Chevy Silverado
 * GMC Sierra
-* Chevy Suburban & Tahoe (pre-2022)
+* Chevy Suburban
 * Chevy Equinox
 * Chevy Malibu without ACC
 * Cadillac XT5 2018, 2021
