@@ -80,6 +80,12 @@ Otherwise, the mounting bracket could break (as shown in the picture)
 
 ## Installation Steps
 
+#### Before installing the magmount, please find the description for each component in your package here:
+
+{% content-ref url="magmount.md" %}
+[magmount.md](magmount.md)
+{% endcontent-ref %}
+
 #### Prepare your magmount:
 
 1. Warning: Apply the VHB tape to the magmount, angle wedges or comma mount adapter first before you stick it on the windshield. And apply the VHB in warm temp.\

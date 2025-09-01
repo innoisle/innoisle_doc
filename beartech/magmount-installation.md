@@ -24,6 +24,12 @@ Only tighten the set screw if the mount is loose on your comma device. By design
 
 ## Installation Steps
 
+### Before installing the magmount, please find the description for each component in your package here:
+
+{% content-ref url="magmount.md" %}
+[magmount.md](magmount.md)
+{% endcontent-ref %}
+
 ### (Optional) Prepare your magmount: (ONLY if you redo the VHB)
 
 1. Now, all magmount and angle wedge already come with **pre-applied VHB**. \
