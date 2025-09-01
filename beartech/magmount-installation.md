@@ -81,8 +81,14 @@ Only tighten the set screw if the mount is loose on your comma device. By design
 
 <div align="left"><figure><img src="../.gitbook/assets/IMG_7164.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-13. Take the Device Side Mount and slide it onto the Comma Device
-14. Use the 13cm Type C cable to connect the Device Side Mount to the Comma Device
+13. Take the Device Side Mount and slide it onto the Comma Device\
+    \*\*There is a galvanized steel plate added to reduce the magnetic field. It might cause scratches on your Comma device. \
+    If you **do not encounter a "Fan malfunction" issue** while using the magmount, the galvanized steel plate is **not a mandatory part**; you can remove the galvanized steel plate before installing the Device Side Mount (warning: the plate could be very sharp on the edges)\
+    The steel plate on the device mount shown in the picture below is the galvanized steel plate. It is stuck on the magmount by magnets and can be removed easily.
+
+<div align="left"><figure><img src="../.gitbook/assets/device 1.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+13. Use the 13cm Type C cable to connect the Device Side Mount to the Comma Device
 
 <div><figure><img src="../.gitbook/assets/IMG_2281.JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/IMG_2283.JPG" alt=""><figcaption></figcaption></figure></div>
 

@@ -35,7 +35,7 @@ After 11 months of feedback and **hundreds of hours of 65–85 °C soak + heat-c
 
 * **Sticks better:** Thicker 3M VHB for curved windshields + **pre-applied VHB** on the windshield mount side. **Adhesion promoter kit** included. Included **Magmount holder** acts like last line of defense, hold your Magmount in place.
 * **No more glue failures:** Device mount is now **mechanically fastened** with **6 heat-set inserts + screws** near the bracket for even load. Survived \~**1 week at 85 °C** in chamber tests.
-* **New C3X Fan friendly:** Added a **galvanized steel shield** between magnet and device to cut magnetic field \~**80%**—addresses the C3X slow-fan concern.
+* **New C3X Fan friendly:** Added a **galvanized steel shield** between magnet and device to cut magnetic field \~**80%**—addresses the C3X slow-fan concern. _**(Optional to use, if you do not want it, you can remove it)**_
 * **Stronger hold:** Larger magnet = about **+50%** total magnetic strength.
 * **Tough cabling:** Upgraded to a **braided cable** for better wear resistance.
 * **Simpler buying:** One kit, **all accessories included** (no more tier confusion).

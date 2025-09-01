@@ -83,8 +83,14 @@ Otherwise, the mounting bracket could break (as shown in the picture)
 
 <div align="left"><figure><img src="../.gitbook/assets/IMG_7164.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-13. Take the Device Side Mount and slide it onto the Comma Device
-14. Use the 13cm Type C cable to connect the Device Side Mount to the Comma Device
+13. Take the Device Side Mount and slide it onto the Comma Device\
+    \*\*Depending on the version you received, there might be a galvanized steel plate added to reduce the magnetic field. It might cause scratches on your Comma device. \
+    If you **do not encounter a "Fan malfunction" issue** while using the slidemount, the galvanized steel plate is **not a mandatory part**; you can remove the galvanized steel plate before installing the Device Side Mount (warning: the plate could be very sharp on the edges)\
+    The steel plate on the device mount is the galvanized steel plate. It is stuck on the slidemount by magnets and can be removed easily.
+
+
+
+13. Use the 13cm Type C cable to connect the Device Side Mount to the Comma Device
 
 <div><figure><img src="../.gitbook/assets/back (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/front (1).jpg" alt=""><figcaption></figcaption></figure></div>
 
