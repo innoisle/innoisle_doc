@@ -42,7 +42,9 @@ If you use SASCM, you will need the ASCM Harness Plus.
 * Cadillac XT6
 * Chevy Malibu XL
 
+### ASCM Connection diagram with SASCM:
 
+<figure><img src="../.gitbook/assets/ASCM SASCM connection diagram final.png" alt=""><figcaption></figcaption></figure>
 
 **Where to find your SASCM connection point: It is the same connection port as ASCM.**
 

@@ -46,9 +46,11 @@ This harness is 2x9 pin and works with 2x9 pin harness box
 
 **Please make sure your vehicle has ASCM harness connection point to proceed**
 
+### ASCM Connection diagram with SASCM:
 
+<figure><img src="../.gitbook/assets/ASCM SASCM connection diagram final.png" alt=""><figcaption></figcaption></figure>
 
-**Where to find your ASCM connection point:**
+### **Where to find your ASCM connection point:**
 
 An ASCM is a module mounted in the left rear inner quarter and it would need to be bypassed.
 
