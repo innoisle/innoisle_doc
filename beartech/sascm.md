@@ -42,7 +42,7 @@ If you use SASCM, you will need the ASCM Harness Plus.
 * Cadillac XT6
 * Chevy Malibu XL
 
-### ASCM Connection diagram with SASCM:
+### SASCM Connection diagram with ASCM harness plus:
 
 <figure><img src="../.gitbook/assets/ASCM SASCM connection diagram final.png" alt=""><figcaption></figcaption></figure>
 
