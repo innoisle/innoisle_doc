@@ -78,7 +78,13 @@ Otherwise, the mounting bracket could break (as shown in the picture)
 8. **(Important)** The ideal application temperature for VHB is above 70°F or 21°C. The minimum application temperature is 50°F and 10°C. If the temperature is lower than the minimum required, you can try to heat up the application area before and after attaching the magmount. Use common sense when heating the application area and avoid overheating or leaving it unattended. The VHB also need the above minimum required temperature for curing. Please leave it at least 24 hours or 1.5x the curing time recommended by 3M. Below is a snippet of recommended bond time from the 3M datasheet.\
    ![](../.gitbook/assets/image.png)
 9. **(Important)** Please **leave enough room to slide the mount in and out**. Please **leave minimum 3.5cm (1.4 inch)**&#x20;
-10. Attach the Windshield Side Mount to the Static film if you applied it in step 5, or attach it to the windshield if the static film isn't applied. Try not to leave bubbles in VHB. Install it at a warm temperature and push firmly for optimal contact. During the time when VHB is curing, push firmly every hour to achieve optimal adhesion.&#x20;
+10. If you are using an angle wedge, please **DO NOT DOUBLE LAYER the VHB** between the angle wedge and windshield mount. Double-layering might cause the mount to be unstable.\
+    If there is VHB on both side of the angle wedge, peel one side off. And use adhesion promoter when attaching the windshield mount to the angle wedge.\
+    So the setup should be: **VHB - Angle Wedge - VHB (Only one layer of VHB) - Windshield Mount**
+11. If you decide to use the Comma Mount adapter, instead of redoing the VHB for winshield mount, please **DO NOT DOUBLE LAYER the VHB** between the comma mount adapter and windshield mount\
+    If there is VHB on the Comma Mount Adapter, peel it off. And use adhesion promoter when attaching the windshield mount to the comma mount adapter.\
+    The setup should be: **Comma Mount Adapter - VHB (Only one layer of VHB)- Windshield Mount**
+12. Attach the Windshield Side Mount to the Static film if you applied it in step 5, or attach it to the windshield if the static film isn't applied. Try not to leave bubbles in VHB. Install it at a warm temperature and push firmly for optimal contact. During the time when VHB is curing, push firmly every hour to achieve optimal adhesion.&#x20;
 
 <figure><img src="../.gitbook/assets/IMG_7119-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
