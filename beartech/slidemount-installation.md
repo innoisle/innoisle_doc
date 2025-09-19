@@ -44,6 +44,10 @@ Otherwise, the mounting bracket could break (as shown in the picture)
 [slidemount.md](slidemount.md)
 {% endcontent-ref %}
 
+### Short video with a brief installation guide
+
+{% embed url="https://youtu.be/PDyHmZFPh18" %}
+
 ### (Optional) Prepare your magmount: (ONLY if you redo the VHB)
 
 1. All slidemount and angle wedge already come with **pre-applied VHB**. \

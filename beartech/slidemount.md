@@ -68,6 +68,10 @@ Slidemount set and accessories: [https://shop.retropilot.org/product/beartech-sl
 [magmount-installation-1.md](magmount-installation-1.md)
 {% endcontent-ref %}
 
+**Quick description and installation video**
+
+{% embed url="https://youtu.be/PDyHmZFPh18" %}
+
 ***
 
 ## **What is included:**
