@@ -136,7 +136,27 @@ Only tighten the set screw if the mount is loose on your comma device. By design
 4. Stick the Dummy Side Mount on the surface with the pre-applied VHB.
 5. Now you can use the Dummy Mount to securely store your Comma Device when it’s not in use!
 
+***
 
+## Why & When to use the cover (and Cover B) for magmount?
+
+**Windshield Mount Cover** (Between your windshield mount and device mount)
+
+This cover is designed for the windshield mount. We recommend putting it on **every time** you remove the mount to:
+
+* **Prevent condensation**, especially in cold climates (like here in Canada!), where temperature differences can cause moisture buildup.
+* **Avoid short circuits**, especially if the windshield is cleaned with a damp cloth or during interior detailing. If you don’t want to use it every time, at least cover it when doing a car wash or deep clean.
+
+**Cover B** (Included in the Accessory Pack)
+
+Cover B is a flexible cover that can be used on **either the windshield mount or the device mount**.
+
+* If you lose the original windshield cover, Cover B can be used as a backup.
+* For the **device mount**, we strongly recommend using Cover B when not in use, since the exposed **pogo pins** (electrical contacts) can:
+  * Lead to accidental **shorting**
+  * Cause **physical damage** during transport or if it bumps against other surfaces
+
+If you're using a dummy mount or storing it in the carry case, Cover B isn’t necessary. Otherwise, it's a good habit to cover it up when not connected to the device.
 
 ***
 
