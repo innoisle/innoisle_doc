@@ -135,6 +135,12 @@ The mounting bracket could break (as shown in the picture)
 
 ***
 
+## Replacement part installation guide
+
+If you have a broken bracket, please follow this guide to install the replacement bracket.
+
+{% embed url="https://youtu.be/va-WeQkMxbw" %}
+
 ## Warnings and Cautions
 
 1. Magnets:
