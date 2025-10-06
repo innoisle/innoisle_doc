@@ -19,7 +19,8 @@ description: What do you need for GM vehicles
 * Chevy Bolt EV without ACC after 2022
 * Chevy Bolt EUV with and without ACC (before 2022)
 * Chevy Bolt EUV without ACC after 2022
-* Chevy Volt without ACC&#x20;
+* Chevy Volt without ACC, with LKAS\
+  (For Volt without ACC, without LKAS, you will need to flash your car and use comma's OBD harness)
 
 ### How to identify which version of harness box is needed:
 
