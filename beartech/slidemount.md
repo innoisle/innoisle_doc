@@ -40,7 +40,7 @@ Link to RetroPilot Store:
 
 Slidemount set and accessories: [https://shop.retropilot.org/product/beartech-slidemount/](https://shop.retropilot.org/?post_type=product\&p=14650\&preview=true) ‎
 
-#### Vehicles that require Angle Wedge:
+#### Vehicles that require Angle Wedge **(only based on limited user feedback)** **If you are using an angle wedge for the original comma mount setup, then you will also need one for your slidemount:**
 
 * Toyota Highlander (8 degree)
 * Honda Pilot (8 degree)

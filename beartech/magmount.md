@@ -138,7 +138,7 @@ You still get everything you need from Essential if you just need a quick-mount.
 14. -20°C/-4°F Freezer test passed (incoming Canadian winter test).
 15. 12V 3Amp high power temperature test passed.
 
-#### Vehicles that require Angle Wedge:
+#### Vehicles that require Angle Wedge **(only based on limited user feedback)** **If you are using an angle wedge for the original comma mount setup, then you will also need one for your magmount:**
 
 * Toyota Highlander (8 degree)
 * Honda Pilot (8 degree)
