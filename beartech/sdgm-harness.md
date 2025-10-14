@@ -27,7 +27,7 @@ Link to RetroPilot Store: [https://shop.retropilot.org/product/sdgm-harness-set/
 
 This harness is 2x9 pin and works with 2x9 pin harness box
 
-<div><figure><img src="../.gitbook/assets/13e9dabb-1389-423b-aa6b-e754ef6a0c47.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/28be1acc-8300-499e-9234-2eda1729b623.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/7d9bd26d-0c69-4ffa-bee0-07a9c4ff3994.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/SDGM A-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/SDGM B -1.jpg" alt=""><figcaption></figcaption></figure></div>
 
 There are **2 types of SDGM Harness**, SDGM A and SDGM B. Please make sure you choose the correct one for your vehicle.
 
