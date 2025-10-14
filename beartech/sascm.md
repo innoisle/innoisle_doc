@@ -29,7 +29,7 @@ It will intercept your ASCM module, allowing Openpilot to send a longitudinal co
 
 If you use SASCM, you will need the ASCM Harness Plus.
 
-<div align="left"><figure><img src="../.gitbook/assets/3b81d2ce-7a21-4c97-b6a0-83e1b1cf91bf.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/sascm-1.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **Supported vehicles:**
 
