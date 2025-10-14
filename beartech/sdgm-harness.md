@@ -33,7 +33,7 @@ There are **2 types of SDGM Harness**, SDGM A and SDGM B. Please make sure you c
 
 **Supported vehicles:**
 
-**(If your car make is listed, but the year is different. SDGM might work if you have ACC or lane keep.)**
+**(If your car make is listed, but the year is different. SDGM might work if you have LKAS.)**
 
 **SDGM A:**
 
