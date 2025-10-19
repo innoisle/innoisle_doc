@@ -25,6 +25,14 @@ Link to RetroPilot Store:
 
 [https://shop.retropilot.org/product/beartech-magmount](https://shop.retropilot.org/product/beartech-magmount)
 
+### 🚨Update:
+
+**\*\*Currently Out Of Stock\*\***\
+We are currently developing our new V3 Magmount.\
+It will be CNC aluminum. \
+It will be compatible with the previous Magmount, and discounts will be available for previous buyers.\
+We aim to get ready before Christmas!
+
 ### 🚨 Update for V2 Magmount Se&#x74;**:**&#x20;
 
 **Magmount V2** is **now available!** — heat-tested, screw-fastened, fan-safe, stronger hold (plus a travel rack option)
