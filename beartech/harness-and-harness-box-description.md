@@ -33,6 +33,12 @@ For MobileEye Q3 Harness Set: [https://shop.retropilot.org/product/ford-mobileey
 
 ***
 
+### Update:
+
+We now have both 2x9 pin and 2x 13 pin GM Harness & Harness Box available.
+
+Please DM us if you need a specific version.
+
 ## Product Description
 
 Both MobileEye Q3 and GM Harness are 2x13 pin harness. If you purchase a set, it will also come with a 2x13 pin harness box.
