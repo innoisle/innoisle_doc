@@ -72,7 +72,7 @@ Please find more detailed information: [ASCM](../beartech/ascm-harness-plus.md)&
 
 #### GM:&#x20;
 
-* Chevy Volt (2018-2019)  （with Adaptive Cruise Control）- _pedal optional for start from stop_
+* Chevy Volt (2017-2018)  （with Adaptive Cruise Control）- _pedal optional for start from stop_
 * Acadia Denali （2018）
 * Chevy Malibu (Before 2018)
 * Regal TourX&#x20;
@@ -106,7 +106,7 @@ Please find more detailed information: [SDGM Harness](../beartech/sdgm-harness.m
 
 * Buick Enclave (2019)
 * Buick Baby Enclave (CN)
-* Chevy Volt (2019)
+* Chevy Volt (2019) (with LKAS)
 * Cadillac XT4 (2023)
 * Chevy Traverse  (2022, 2023)
 * Chevy Malibu XL 2019
