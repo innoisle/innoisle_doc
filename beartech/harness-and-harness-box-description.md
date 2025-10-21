@@ -35,9 +35,11 @@ For MobileEye Q3 Harness Set: [https://shop.retropilot.org/product/ford-mobileey
 
 ### Update:
 
-We now have both 2x9 pin and 2x 13 pin GM Harness & Harness Box available.
+We now have both 2x9 pin and 2x13 pin GM Harness & Harness Box available.\
+Please DM us if you do not know which one to choose.
 
-Please DM us if you need a specific version.
+2x13 pin harness and box are compatible with most of Comma's old version (before June 2024) and Clone devices\
+2x9 pin harness and box are compatible with Comma's new version (after 2025)
 
 ## Product Description
 
