@@ -23,9 +23,13 @@ icon: screwdriver-wrench
 
 <figure><img src="../.gitbook/assets/企业微信截图_17486580636245.png" alt="" width="375"><figcaption></figcaption></figure>
 
+If the small set screw is not enough (especially if you are using a clone device), please add the larger set screw included (¼ screw). (Please also tighten it **just enough**.)
+
 **\*\*Example of an over-tightened set screw:**\
-The set screw in the picture below is over-tightened way too much. \
+The set screw in the pictures below are over-tightened way too much. \
 Otherwise, the mounting bracket could break (as shown in the picture)
+
+<figure><img src="../.gitbook/assets/企业微信截图_17611769094716.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/企业微信截图_17537360466275.png" alt=""><figcaption></figcaption></figure>
 
