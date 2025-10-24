@@ -31,6 +31,7 @@
 * [Honda & Acura](car-make/honda-and-acura.md)
 * [Toyota & Lexus](car-make/toyota-and-lexus.md)
 * [GM Vehicles](car-make/gm-vehicles.md)
+* [GM Vehicles-china version](car-make/gm-vehicles-china-version.md)
 * [Ford Vehicles](car-make/ford-vehicles.md)
 * [VW Vehicles](car-make/vw-vehicles.md)
 * [Tesla Pre-AP](car-make/tesla-pre-ap.md)
