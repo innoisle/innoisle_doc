@@ -53,6 +53,9 @@ There are **2 types of SDGM Harness**, SDGM A and SDGM B. Please make sure you c
 
 **Please make sure your vehicle has a SDGM harness connection point to proceed**
 
+If you are using SDGM & SASCM, please use Kaofui fork to enjoy the best compatibility:\
+[https://smiskol.com/fork/firestar5683/Kaofui/Kaofui](https://smiskol.com/fork/firestar5683/Kaofui/Kaofui)
+
 
 
 **Where to find your SDGM connection point:**

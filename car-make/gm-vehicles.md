@@ -90,6 +90,9 @@ For steering control
 (Usually behind OBD port, if not, please check the back of your trunk)\
 Please find more detailed information: [SDGM Harness](../beartech/sdgm-harness.md)
 
+If you are using SDGM & SASCM, please use Kaofui fork to enjoy the best compatibility:\
+[https://smiskol.com/fork/firestar5683/Kaofui/Kaofui](https://smiskol.com/fork/firestar5683/Kaofui/Kaofui)
+
 #### What is needed:
 
 1. [SDGM Harness](../beartech/sdgm-harness.md)
@@ -126,6 +129,9 @@ If you use SASCM, you will need the ASCM Harness Plus.
 
 **Please make sure your vehicle has SASCM connection point to proceed**\
 Please find more detailed information: [SASCM](../beartech/sascm.md)
+
+If you are using SDGM & SASCM, please use Kaofui fork to enjoy the best compatibility:\
+[https://smiskol.com/fork/firestar5683/Kaofui/Kaofui](https://smiskol.com/fork/firestar5683/Kaofui/Kaofui)
 
 #### What is needed:
 

@@ -27,6 +27,9 @@ SASCM: [https://shop.retropilot.org/product/sascm/](https://shop.retropilot.org/
 
 It will intercept your ASCM module, allowing Openpilot to send a longitudinal control message to your vehicle while blocking the ASCM message.
 
+If you are using SDGM & SASCM, please use Kaofui fork to enjoy the best compatibility:\
+[https://smiskol.com/fork/firestar5683/Kaofui/Kaofui](https://smiskol.com/fork/firestar5683/Kaofui/Kaofui)
+
 If you use SASCM, you will need the ASCM Harness Plus.
 
 <div align="left"><figure><img src="../.gitbook/assets/sascm-1.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
