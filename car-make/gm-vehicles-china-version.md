@@ -151,6 +151,7 @@ If you are using SDGM & SASCM, please use Kaofui fork to enjoy the best compatib
 * Cadillac XT6  (china some years not all years)
 * Chevy Malibu XL
 * Buick Envision (昂科威）2018 （with OP and ACC）
+* Buick 威朗 2017
 
 
 
