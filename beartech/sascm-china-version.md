@@ -6,23 +6,15 @@ icon: reel
 
 # SASCM-china version
 
-## Where to buy
+## Not supported
 
-Link to my Store:&#x20;
+(Global B platform)
 
-SASCM: [https://shop.tlbb.ca/products/sascm-for-gm-vehicles](https://shop.tlbb.ca/products/sascm-for-gm-vehicles)
-
-Link to my Etsy Store:
-
-SASCM Harness Set: [https://www.etsy.com/ca/listing/1840924033/sascm-for-gm-vehicles](https://www.etsy.com/ca/listing/1840924033/sascm-for-gm-vehicles)
-
-Link to RetroPilot Store:
-
-SASCM: [https://shop.retropilot.org/product/sascm/](https://shop.retropilot.org/product/sascm/)
+Cadillac CT5 all years (2020年才上市，全都不行）
 
 ***
 
-## Product Description
+## Supported Vehicle
 
 **只要有acc就能装sascm**
 
@@ -38,7 +30,8 @@ SASCM: [https://shop.retropilot.org/product/sascm/](https://shop.retropilot.org/
 * Cadillac XT5
 * Cadillac XT6
 * Chevy Malibu XL
-* 只要有acc就能装sascm
+*
+* 中国specific 车
 * Buick Envision (昂科威）2018 （with OP and ACC） - SDGM&#x20;
 * Buick 威朗 2017（with OP and ACC）- SDGM
 
