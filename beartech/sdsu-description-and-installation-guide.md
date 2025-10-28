@@ -87,3 +87,28 @@ Pedal HAS TO connect to harness box (therefore the harness box must have an rj45
 ## **Warning:**
 
 SDSU only adds longitudinal control to your existing openpilot setup. The Wiring is as-is. The listing will not guarantee that it will work for your car. Please confirm that the wiring fits your car before purchase. This product is only rated for off-road use. Any accident or damage caused by this product is at the buyer's own risk.
+
+***
+
+## DSU location References&#x20;
+
+You can find some references for DSU locations:
+
+#### Lexus IS&#x20;
+
+<figure><img src="../.gitbook/assets/lEXUS IS DSU location.png" alt=""><figcaption></figcaption></figure>
+
+#### Lexus IS 200T
+
+<figure><img src="../.gitbook/assets/lexus IS 200t dsu LOCATION.png" alt=""><figcaption></figcaption></figure>
+
+[www.youtube.com/watch?v=zqeD0U1LLp4](https://www.youtube.com/watch?v=zqeD0U1LLp4)
+
+### Toyota Avalon
+
+<figure><img src="../.gitbook/assets/toyota avalon dsu location.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/toyota avalon ecu location.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
