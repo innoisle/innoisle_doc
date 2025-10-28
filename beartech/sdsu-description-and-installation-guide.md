@@ -62,6 +62,7 @@ For comparison about which branch to use:
 * Lexus CT Hybrid 2017-2018
 * Lexus NX (and Hybird) 2018-2019
 * Lexus RX (and Hybird) 2016-2019
+* Lexus IS (200T) 2017-2019 - might work but not validated
 
 
 
