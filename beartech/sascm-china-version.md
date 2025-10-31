@@ -33,7 +33,7 @@ Cadillac CT5 all years (2020年才上市，全都不行）
 *
 * 中国specific 车
 * Buick Envision (昂科威）2018 （with OP and ACC） - SDGM&#x20;
-* Buick 威朗 2017（with OP and ACC）- SDGM
+* Buick Verano 威朗 2017（with OP and ACC）- SDGM - 不一定可以红绿灯
 
 ###
 
