@@ -18,6 +18,8 @@ Cadillac CT5 all years (2020年才上市，全都不行）
 
 **只要有acc就能装sascm**
 
+如果自带的定速巡航能跟车跟到停，且能跟车起步就可以支持红灯启停
+
 **Supported vehicles:**
 
 * Chevy Volt (2016-2018)  （with Adaptive Cruise Control）
