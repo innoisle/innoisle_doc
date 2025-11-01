@@ -31,7 +31,7 @@ Link to RetroPilot Store:
 We are currently developing our new V3 Magmount.\
 It will be CNC aluminum. \
 It will be compatible with the previous Magmount, and discounts will be available for previous buyers.\
-We aim to get ready before Christmas!
+Due to manufacturing difficulty, we will need to postpone the publication of magmount to February 2026.&#x20;
 
 ### 🚨 Update for V2 Magmount Se&#x74;**:**&#x20;
 
