@@ -15,7 +15,7 @@ icon: screwdriver-wrench
 **\*Over-tightening the set screw could break your slidemount**
 
 **Set screw is required for Slidemount**: \
-\- Lose the protruded set screw (if any) so it won't block you from installing the slidemount\
+\- **Lose the protruded set screw** **before installation** so it won't block you from installing the slidemount\
 \- After attaching the mount to device, tighten the pre-install set screws at the left and right side of the Slidemount.\
 \- Tighten it **just enough** that you can't move the Slidemount. \
 \- **Do not over-tighten it**, as the screw is small and is only intended to prevent movement. \
@@ -109,6 +109,7 @@ Otherwise, the mounting bracket could break (as shown in the picture)
 <div><figure><img src="../.gitbook/assets/back (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/front (1).jpg" alt=""><figcaption></figcaption></figure></div>
 
 15. Set screw instruction (**Set screw is required for Slidemount**): \
+    \- Lose the pre-installed set screws (they are randomly screwed in upon installation)\
     \- Tighten the pre-install set screws at the left and right side of the Slidemount.\
     \- Tighten it **just enough** that you can't move the Slidemount.\
     \- **Do not over-tighten it**, as the screw is small and is only intended to prevent movement.
