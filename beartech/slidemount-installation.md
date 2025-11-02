@@ -104,11 +104,11 @@ Otherwise, the mounting bracket could break (as shown in the picture)
 
 
 
-13. Use the 13cm Type C cable to connect the Device Side Mount to the Comma Device
+14. Use the 13cm Type C cable to connect the Device Side Mount to the Comma Device
 
 <div><figure><img src="../.gitbook/assets/back (2).jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/front (1).jpg" alt=""><figcaption></figcaption></figure></div>
 
-15. For Slidemount set screw instruction (**Set screw is required for Slidemount**): \
+15. Set screw instruction (**Set screw is required for Slidemount**): \
     \- Tighten the pre-install set screws at the left and right side of the Slidemount.\
     \- Tighten it **just enough** that you can't move the Slidemount.\
     \- **Do not over-tighten it**, as the screw is small and is only intended to prevent movement.
@@ -119,7 +119,16 @@ Otherwise, the mounting bracket could break (as shown in the picture)
 The set screw in the picture below is over-tightened way too much. \
 The mounting bracket could break (as shown in the picture)
 
-<div align="left"><figure><img src="../.gitbook/assets/企业微信截图_17537360466275.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/企业微信截图_17537360466275.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/企业微信截图_17611769094716.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+If you find the device mount **still sliding off your device**, then you can add the ¼ set screw (the larger set screw in the package)\
+The installation process is the same as the magmount: (picture shows how to install it on a magmount)
+
+<div align="left"><figure><img src="../.gitbook/assets/IMG_2282.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
+
+Please tighten it **just enough** that there is a gap between the mount and the device. Make sure this line is **straight, not curved** when you tighten the set screw.
+
+<figure><img src="../.gitbook/assets/Set screw.png" alt=""><figcaption></figcaption></figure>
 
 16. Carefully attach the Device Side Mount to the Windshield Side Mount. **Be cautious,** as the magnet is very strong and can pinch your fingers.
 17. &#x20;Use the bubble level **(Optional)** to ensure the Comma Device is level
