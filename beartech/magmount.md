@@ -28,10 +28,11 @@ Link to RetroPilot Store:
 ### 🚨Update:
 
 **\*\*Currently Out Of Stock\*\***\
-We are currently developing our new V3 Magmount.\
-It will be CNC aluminum. \
-It will be compatible with the previous Magmount, and discounts will be available for previous buyers.\
-Due to manufacturing difficulty, we will need to postpone the publication of magmount to February 2026.&#x20;
+With the news of Comma 4, we haven't decided how to proceed with the CNC aluminum version magmount. It could be just a very limited quantity legacy version for the pioneer buyers.
+
+We will start designing Magmount V4 after we order and receive the new comma device.\
+Since it is a new design, there is no ETA at the moment.\
+
 
 ### 🚨 Update for V2 Magmount Se&#x74;**:**&#x20;
 
