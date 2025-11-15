@@ -26,6 +26,13 @@ For installation, you will need to leave **3.5cm (1.4 inch) horizontal space cle
 
 
 
+## _**Notice**_
+
+**We have started designing the C4 slidemount. ETA end of Nov. 2025**\
+**The new slidemount will slide sideways, with CNC aluminum brackets.**
+
+<div align="left"><figure><img src="../.gitbook/assets/e45afd1bd56020285f5d2c0814708729.jpg" alt="" width="327"><figcaption></figcaption></figure></div>
+
 ## Where to buy:
 
 Link to my Store:
