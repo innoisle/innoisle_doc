@@ -77,8 +77,8 @@ Please find more detailed information: [ASCM](../beartech/ascm-harness-plus.md)&
 * Chevy Malibu (Before 2018)
 * Regal TourX&#x20;
 * Cadillac ELR (2014) - _Possibly work_
-* Cadillac Escalade (2017-2020)  （with Adaptive Cruise Control） - _Possibly work_
-* Cadillac Escalade ESV (2019-2020)  （with Adaptive Cruise Control） - _Possibly work_
+* Cadillac Escalade (2017-2020)  （with Adaptive Cruise Control）&#x20;
+* Cadillac Escalade ESV (2019-2020)  （with Adaptive Cruise Control）
 
 ***
 

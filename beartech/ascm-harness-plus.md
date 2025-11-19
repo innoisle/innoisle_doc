@@ -39,8 +39,8 @@ This harness is 2x9 pin and works with 2x9 pin harness box
 * Chevy Malibu (Before 2018)
 * Regal TourX&#x20;
 * Cadillac ELR (2014) - _Possibly work_
-* Cadillac Escalade (2017-2020)  （with Adaptive Cruise Control） - _Possibly work_
-* Cadillac Escalade ESV (2019-2020)  （with Adaptive Cruise Control） - _Possibly work_
+* Cadillac Escalade (2017-2020)  （with Adaptive Cruise Control）
+* Cadillac Escalade ESV (2019-2020)  （with Adaptive Cruise Control）
 
 <div><figure><img src="../.gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure></div>
 
