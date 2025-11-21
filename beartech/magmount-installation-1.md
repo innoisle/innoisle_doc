@@ -8,8 +8,7 @@ icon: screwdriver-wrench
 \*Disclaimer: This is a guide only.
 
 **This installation guide applies to both magmount and slidemount.** \
-**The difference will be indicated in the guide.** \
-
+**The difference will be indicated in the guide.** <br>
 
 ## Updates:
 

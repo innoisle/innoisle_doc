@@ -7,8 +7,7 @@ icon: screwdriver-wrench
 
 \*Disclaimer: This is a guide only.
 
-**This installation guide applies to the magmount purchased after July 2025.**\
-
+**This installation guide applies to the magmount purchased after July 2025.**<br>
 
 ## **Set Screw Warning:**
 
@@ -44,8 +43,8 @@ Otherwise, the mounting bracket could break (as shown in the picture)
 
 ### Before installing the slidemount, please find the description for each component in your package here:
 
-{% content-ref url="slidemount.md" %}
-[slidemount.md](slidemount.md)
+{% content-ref url="slidemount-1.md" %}
+[slidemount-1.md](slidemount-1.md)
 {% endcontent-ref %}
 
 ### Short video with a brief installation guide

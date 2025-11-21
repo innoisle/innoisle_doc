@@ -3,75 +3,87 @@ description: 'Join our discord at: https://discord.innoisle.com/'
 icon: magnet
 ---
 
-# Side Slidemount C4 Description
+# Slidemount Description
 
 ## Description:
 
-An updated Side Slidemount for the newly released C4!
+We’ve heard your requests, and we're excited to introduce the **Beartech Slidemount**!&#x20;
 
-<div><figure><img src="../.gitbook/assets/Side slidemount-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Device side-1.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/front.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/back (1).jpg" alt=""><figcaption></figcaption></figure></div>
+
+**Why Did We Create the Slidemount?**
+
+The **Beartech Slidemount** was designed in response to community feedback:
+
+1. Users wanted a **quick-mount solution** that offers physical contact, as some felt uncomfortable using the **Magmount**.
+2. **Current Slidemount solutions** require a lot of space to install and remove, so we designed ours to require only **half the space** for a more compact and efficient experience.
+
+**Warning: Slidemount does not support 3rd party comma devices, we don't guarantee compatibility of Slidemount on any device other than comma C3X, C3 and C2. Thank you for understanding.**
+
+**Slidemount use two set screws to secure the device mount to your device. Which will create a small dent or scratches. You can check Magmount which does not require set screws.**
+
+For installation, you will need to leave **3.5cm (1.4 inch) horizontal space clearance** for sliding.
 
 
 
 ## _**Notice**_
 
-**The new slidemount will slide sideways, with CNC aluminum brackets.**\
-**Please sign up for notification!** \
-[https://shop.beartech.ca/products/beartech-side-slidemount-c4](https://shop.beartech.ca/products/beartech-side-slidemount-c4?variant=52038271303861)\
-**The pre-ordered slidemount will come with premium short cable!**
+**We have started designing the C4 slidemount. ETA end of Nov. 2025**\
+**The new slidemount will slide sideways, with CNC aluminum brackets.**
 
-
-
-## **Product Highlights**
-
-1. CNC aluminum C4 holding bracket (at the center)
-2. All screwed-in design with no epoxy or any adhesive on the structural parts.
-3. 2X the VHB tape area, pair with reduced-weight C4, means not waiting for VHB to cure.
-4. Curved mounting surface on the windshield side to better fit any windshield.
-5. Right-angle USB-C cable.
-6. Together with the Side Slide mechanism for maximum top space saving.&#x20;
-
-**And features that users liked from the last Slidemount for C3X:**
-
-1. 2 Tier sliding for short movement.
-2. Magnet guiding and holding for easy one-hand operation.
-3. Blade-style pin for robust connection.
-
-
+<div align="left"><figure><img src="../.gitbook/assets/e45afd1bd56020285f5d2c0814708729.jpg" alt="" width="327"><figcaption></figcaption></figure></div>
 
 ## Where to buy:
 
 Link to my Store:
 
-Side Slidemount Set: [https://shop.beartech.ca/products/beartech-side-slidemount-c4](https://shop.beartech.ca/products/beartech-side-slidemount-c4?variant=52038271303861)
+Slidemount set and single windshield mount: [https://shop.tlbb.ca/products/beartech-slidemount](https://shop.tlbb.ca/products/beartech-slidemount)
 
 Link to my Etsy Store:
 
-Side Slidemount set:&#x20;
+Slidemount set and accessories: [https://www.etsy.com/ca/listing/4314140929/beartech-slidemount-openpilot-slide](https://www.etsy.com/ca/listing/4314140929/beartech-slidemount-openpilot-slide)
 
 Link to RetroPilot Store:
 
-Side Slidemount Set:
+Slidemount set and accessories: [https://shop.retropilot.org/product/beartech-slidemount/](https://shop.retropilot.org/?post_type=product\&p=14650\&preview=true) ‎
 
+#### Vehicles that require Angle Wedge **(only based on limited user feedback)** **If you are using an angle wedge for the original comma mount setup, then you will also need one for your slidemount:**
 
+* Toyota Highlander (8 degree)
+* Honda Pilot (8 degree)
+* Ford F150 (8 degree)
+* Ford Maverick (8 degree)
+* Rivian Truck & SUV  (8 degree)
+* Ram 1500  (8 degree)
+* And any windshield that makes your comma device tilt more than 5 degree
+
+<div align="left"><figure><img src="../.gitbook/assets/2b0ccda2eeba6c9ef96674a01c19fd6.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 
 
 ## Installation Guide:
 
-**Installation guide**
+**New Installation guide** for Slidemount purchased **after July 2025**
 
 {% content-ref url="slidemount-installation.md" %}
 [slidemount-installation.md](slidemount-installation.md)
 {% endcontent-ref %}
 
+**Old Installation guide** fo Magmount purchased **before August 2025**
+
+{% content-ref url="magmount-installation-1.md" %}
+[magmount-installation-1.md](magmount-installation-1.md)
+{% endcontent-ref %}
+
 **Quick description and installation video**
+
+{% embed url="https://youtu.be/PDyHmZFPh18" %}
 
 ***
 
 ## **What is included:**
 
-**What is included in the Side Slidemount Set:**
+**What is included in the Slidemount Set:**
 
 <div><figure><img src="../.gitbook/assets/slidemount set1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/slidemount set2.jpg" alt=""><figcaption></figcaption></figure></div>
 
@@ -79,6 +91,8 @@ Side Slidemount Set:
 1\. Slidemount Set Pack:\
 \- Device Side Mount x1\
 \- Windshield Side Mount x1\
+\- Device Mount Cover x1\
+(Protect blade contact after the device is pulled off)\
 2\. Type C pack\
 \- 13cm Right Angle Head Type-C to Right Angle Head Type-C Cable\
 (Connect the comma device and the Device Side Mount)\
@@ -112,6 +126,8 @@ Set Scre x2
 
 1\. Windshield Slidemount Pack:\
 \- Windshield Side Mount x1\
+\- Device Mount Cover x1\
+(Protect blade contact after the device is pulled off)\
 2\. Type C pack\
 \- 45cm Right Angle Head Type-C to Stright Type-C Cable\
 (Connect harness box and the Windshield Side Mount)\
@@ -135,11 +151,31 @@ If your local weather exceeds 40C (or 104F), static film is not recommended.\
 
 ## Add-ons
 
-We are still working on the add-ons for C4, including but not limited to Suction rack, OP device stand, carry case, and CPL filter, etc
+The **Slidemount** will not include a dummy mount like the **Magmount** to keep the product simple and concise, as many users didn’t understand its purpose.&#x20;
 
+If you still wish to protect your Comma device, we have our **storage case**.&#x20;
 
+{% content-ref url="carry-case-for-c3-c3x.md" %}
+[carry-case-for-c3-c3x.md](carry-case-for-c3-c3x.md)
+{% endcontent-ref %}
 
+Additionally, accessories and add-ons such as the **Angle Wedge**, **Comma Mount Adapter**, **OP Device Stand,** and **Suction Rack** are shared between the **Magmount** and **Slidemount**.
 
+You can find them at:
+
+OP Device Stand: [https://shop.tlbb.ca/products/op-device-stand](https://shop.tlbb.ca/products/op-device-stand)
+
+Suction Rack: [https://shop.beartech.ca/products/suction-rack](https://shop.beartech.ca/products/suction-rack)
+
+Slidemount and accessories (angle wedge, Comma Mount Adapter): [https://shop.tlbb.ca/products/beartech-slidemount](https://shop.tlbb.ca/products/beartech-slidemount)
+
+***
+
+## Videos
+
+{% embed url="https://www.youtube.com/shorts/pY-kq5TgB6Y" %}
+
+{% embed url="https://www.youtube.com/shorts/LTKeOpZvHFU" %}
 
 ***
 

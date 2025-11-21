@@ -46,8 +46,7 @@ b. Devices using USB-A connector:\
 4\. Plugin the DFU key with the right connector type into the device you want to flash the firmware.\
 5\. Push the button near your device. While you are doing that, switch the power lever to your device side.\
 6\. Hold the button for 5 sec and release the button.\
-7\. Using lsusb command, you can see your device showed up as dfu device.\
-
+7\. Using lsusb command, you can see your device showed up as dfu device.<br>
 
 ***
 

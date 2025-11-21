@@ -178,8 +178,7 @@ And that's not the only hurdle I encountered. The size listed has always been in
 The case isn't the only problem. It took more time to check the design of the foam inside so it would fit both the C3 and C3X, as well as several different mounts on the market. I'm aiming for the best compatibility.\
 The last change was the thumb cut-off. It always felt weird to take the device out by grabbing it from the back. With the thumb cut off, I can reach in and take it out with one hand and mount it to the windshield with a mag mount. It turns out that hole also made it compatible with another community-made C3X that has a USB-C port on the side—what a coincidence.\
 After 5 months and no less than 10 iterations of the case selection and foam design, I present to you the carrying case solution that's not just functional but also stylish (IMO).\
-The limited bonus item is an idea from a friend who mentioned that if someone wants to protect their device with a case, they probably want a screen protector. Thus, I sourced it and included it as a bonus. I hope my friend is right and that people who purchased it like it. It is an ultra-clear screen protector. If you are looking for a matted one, you can find them here: https://shop.tlbb.ca/products/c3-c3x-screen-protector\
-
+The limited bonus item is an idea from a friend who mentioned that if someone wants to protect their device with a case, they probably want a screen protector. Thus, I sourced it and included it as a bonus. I hope my friend is right and that people who purchased it like it. It is an ultra-clear screen protector. If you are looking for a matted one, you can find them here: https://shop.tlbb.ca/products/c3-c3x-screen-protector<br>
 
 ### Behind the Case: What We Tried Before
 

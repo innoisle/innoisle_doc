@@ -99,8 +99,8 @@ If you intend to use the suction rack for additional vehicle/ travel, you can ge
 For slidemount, you will need to leave 3.5cm (1.4 inch) horizontal space clearance for sliding.\
 Detailed description of slidemount:
 
-{% content-ref url="slidemount.md" %}
-[slidemount.md](slidemount.md)
+{% content-ref url="slidemount-1.md" %}
+[slidemount-1.md](slidemount-1.md)
 {% endcontent-ref %}
 
 3. 1/4 screw thick comma mount

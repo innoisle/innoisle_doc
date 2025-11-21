@@ -7,8 +7,7 @@ icon: screwdriver-wrench
 
 \*Disclaimer: This is a guide only.
 
-**This installation guide applies to the magmount purchased after Aug 2025.**\
-
+**This installation guide applies to the magmount purchased after Aug 2025.**<br>
 
 ## **Set Screw Warning:**
 

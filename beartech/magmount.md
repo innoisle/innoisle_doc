@@ -31,8 +31,7 @@ Link to RetroPilot Store:
 With the news of Comma 4, we haven't decided how to proceed with the CNC aluminum version magmount. It could be just a very limited quantity legacy version for the pioneer buyers.
 
 We will start designing Magmount V4 after we order and receive the new comma device.\
-Since it is a new design, there is no ETA at the moment.\
-
+Since it is a new design, there is no ETA at the moment.<br>
 
 ### 🚨 Update for V2 Magmount Se&#x74;**:**&#x20;
 
@@ -222,8 +221,7 @@ Magmount and accessories (angle wedge, Comma Mount Adapter): [ttps://shop.tlbb.c
 \- 8° Mount Holder x1\
 \- 8° Angle Wedge x1\
 \- Comma Mount Adapter x1\
-\- Cover B x1\
-
+\- Cover B x1<br>
 
 5. **VHB Tape pack X2:**
 
