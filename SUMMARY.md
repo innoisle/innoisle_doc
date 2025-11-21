@@ -4,11 +4,11 @@
 
 ## BearTech
 
-* [Side Slidemount C4 Description](beartech/slidemount.md)
-* [Magmount Description](beartech/magmount.md)
+* [Side Slidemount C4 Description](beartech/slidemount-c4.md)
+* [Magmount Description](beartech/magmount-c3.md)
 * [Magmount Installation Guide - After 2025Aug1st](beartech/magmount-installation.md)
 * [Magmount & Slidemount Installation Guide - before 2025Aug1st](beartech/magmount-installation-1.md)
-* [Slidemount Description](beartech/slidemount-1.md)
+* [Slidemount Description](beartech/slidemount-c3.md)
 * [Slidemount Installation Guide - After 2025Aug1st](beartech/slidemount-installation.md)
 * [SDSU Description and Installation Guide](beartech/sdsu-description-and-installation-guide.md)
 * [Harness and Harness Box Description](beartech/harness-and-harness-box-description.md)

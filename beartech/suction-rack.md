@@ -88,8 +88,8 @@ If you already have a magmount set, you can remove the windshield mount from you
 If you intend to use the suction rack for additional vehicle/ travel, you can get the Suction Rack + Magmount Windshield Mount option to use the rack on rental vehicles\
 Detailed description of magmount:
 
-{% content-ref url="magmount.md" %}
-[magmount.md](magmount.md)
+{% content-ref url="magmount-c3.md" %}
+[magmount-c3.md](magmount-c3.md)
 {% endcontent-ref %}
 
 2. Slidemount
@@ -99,8 +99,8 @@ If you intend to use the suction rack for additional vehicle/ travel, you can ge
 For slidemount, you will need to leave 3.5cm (1.4 inch) horizontal space clearance for sliding.\
 Detailed description of slidemount:
 
-{% content-ref url="slidemount-1.md" %}
-[slidemount-1.md](slidemount-1.md)
+{% content-ref url="slidemount-c3.md" %}
+[slidemount-c3.md](slidemount-c3.md)
 {% endcontent-ref %}
 
 3. 1/4 screw thick comma mount

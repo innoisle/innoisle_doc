@@ -81,8 +81,8 @@ Otherwise, the mounting bracket could break (as shown in the picture)
 
 #### Before installing the magmount, please find the description for each component in your package here:
 
-{% content-ref url="magmount.md" %}
-[magmount.md](magmount.md)
+{% content-ref url="magmount-c3.md" %}
+[magmount-c3.md](magmount-c3.md)
 {% endcontent-ref %}
 
 #### Prepare your magmount:

@@ -25,8 +25,8 @@ Only tighten the set screw if the mount is loose on your comma device. By design
 
 ### Before installing the magmount, please find the description for each component in your package here:
 
-{% content-ref url="magmount.md" %}
-[magmount.md](magmount.md)
+{% content-ref url="magmount-c3.md" %}
+[magmount-c3.md](magmount-c3.md)
 {% endcontent-ref %}
 
 ### (Optional) Prepare your magmount: (ONLY if you redo the VHB)

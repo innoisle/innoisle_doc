@@ -43,8 +43,8 @@ Otherwise, the mounting bracket could break (as shown in the picture)
 
 ### Before installing the slidemount, please find the description for each component in your package here:
 
-{% content-ref url="slidemount-1.md" %}
-[slidemount-1.md](slidemount-1.md)
+{% content-ref url="slidemount-c3.md" %}
+[slidemount-c3.md](slidemount-c3.md)
 {% endcontent-ref %}
 
 ### Short video with a brief installation guide
