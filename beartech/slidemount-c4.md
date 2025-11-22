@@ -17,8 +17,7 @@ An updated Side Slidemount for the newly released C4!
 
 **The new slidemount will slide sideways, with CNC aluminum brackets.**\
 **Please sign up for notification!** \
-[https://shop.beartech.ca/products/beartech-side-slidemount-c4](https://shop.beartech.ca/products/beartech-side-slidemount-c4?variant=52038271303861)\
-**The pre-ordered slidemount will come with premium short cable!**
+[https://shop.beartech.ca/products/beartech-side-slidemount-c4](https://shop.beartech.ca/products/beartech-side-slidemount-c4?variant=52038271303861)
 
 
 
