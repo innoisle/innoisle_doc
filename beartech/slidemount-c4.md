@@ -36,9 +36,11 @@ An updated Side Slidemount for the newly released C4!
 2. Magnet guiding and holding for easy one-hand operation.
 3. Blade-style pin for robust connection.
 
-<div><figure><img src="../.gitbook/assets/Device side-1.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/4 (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/tgt 1.png" alt=""><figcaption></figcaption></figure>
 
-<div><figure><img src="../.gitbook/assets/6 (1).jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/7.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/left placement.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/right placement.png" alt=""><figcaption></figcaption></figure>
 
 ## Where to buy:
 
