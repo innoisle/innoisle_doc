@@ -35,17 +35,24 @@ For MobileEye Q3 Harness Set: [https://shop.retropilot.org/product/ford-mobileey
 
 ### Update:
 
-We now have both 2x9 pin and 2x13 pin GM Harness & Harness Box available.\
-Please DM us if you do not know which one to choose.
+The 13-pin GM harness and box have been discontinued to align with Comma’s latest hardware support. We are now exclusively providing the 9-pin version.
+
+_Note: Legacy 13-pin specs and images will remain on our Docs page for those maintaining EON/C2 builds._
+
+## Product Description
+
+**GM Harness is 2x9 pin harness. If you purchase a set, it will also come with a 2x9 pin harness box.**
+
+<div align="left"><figure><img src="../.gitbook/assets/gm harness -1.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+
+
+### **Older generation information**
 
 2x13 pin harness and box are compatible with most of Comma's old version (before June 2024) and Clone devices\
 2x9 pin harness and box are compatible with Comma's new version (after 2025)
 
-## Product Description
-
-Both MobileEye Q3 and GM Harness are 2x13 pin harness. If you purchase a set, it will also come with a 2x13 pin harness box.
-
-Harness box has 2 versions.&#x20;
+Information about the 13 pin harness box is still kept here as a reference.
 
 1. Harness box v1 2x13 pin. This is the harness box Comma originally carries, and it works with all of the previous 2x13 pin harness.&#x20;
 
