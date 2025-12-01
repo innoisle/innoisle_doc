@@ -35,9 +35,18 @@ Cadillac CT5 all years (2020年才上市，全都不行）
 * Cadillac XT6
 * Chevy Malibu XL
 *
-* 中国specific 车
+
+**中国specific 车**
+
+Note：
+
+国内的车，可能是SDGM也可能是ASCM，所以要问具体是什么线\
+如果现在是用的SDGM线束就不用重新买线束了, 如果现在用的是ASCM线束就需要换我们的ASCM plus线束因为原来的线束少一条网关连接和一对接头, 这个ASCM plus把少的连接加上了.\
+SDGM线束一般安装在驾驶位OBD接口的后面, 知道主动安全模块在哪的话就知道现在用的是什么线束了.
+
 * Buick Envision (昂科威）2018 （with OP and ACC） - SDGM&#x20;
 * Buick Verano 威朗 2017（with OP and ACC）- SDGM - 不一定可以红绿灯
+* Buick Enclave (昂科旗）2019-2022 - SDGM
 
 ###
 
