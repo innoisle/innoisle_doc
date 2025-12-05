@@ -38,6 +38,9 @@ Cadillac CT5 all years (2020年才上市，全都不行）
 
 **中国specific 车**
 
+firestar.link/kaofui\
+这个是基于frogpilot的衍生fork，专门为sdgm和sascm做支持和优化过的。
+
 Note：
 
 国内的车，可能是SDGM也可能是ASCM，所以要问具体是什么线\
