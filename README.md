@@ -53,7 +53,7 @@ Youtube link for installation: [https://www.youtube.com/@Beartechworkshop](https
 
 We 3D print most of our products at this stage. We have validated great materials and 3D printing machines. We will share our filaments and other related items here.
 
-We are currently using Bamboo Lab X1C, ELEGOO Neptune 2, ELEGOO Mars 2, QIDI Plus
+We are currently using Bamboo Lab X1C P1S P2S
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>ASA Carbon Fiber filament</td><td>The most resistant material we find so far</td><td><a href="materials/3d-printing-filaments.md">3d-printing-filaments.md</a></td><td><a href=".gitbook/assets/asa cf.jpg">asa cf.jpg</a></td></tr><tr><td>Bambu Hotend Cleaning Solution</td><td>Coming Soon</td><td><a href="materials/bambu-hotend-cleaning-solution.md">bambu-hotend-cleaning-solution.md</a></td><td><a href=".gitbook/assets/bamboo lab.png">bamboo lab.png</a></td></tr></tbody></table>
 
