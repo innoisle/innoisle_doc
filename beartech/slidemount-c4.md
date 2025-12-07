@@ -11,13 +11,90 @@ An updated Side Slidemount for the newly released C4!
 
 <div><figure><img src="../.gitbook/assets/Side slidemount-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Device side-1.jpg" alt=""><figcaption></figcaption></figure></div>
 
+#### Check out Erich's review on actual Comma 4!
+
+{% embed url="https://youtu.be/_5GPw4rPtOU" %}
 
 
-## _**Notice**_
+
+## _**Notice -**_**&#x20;Pre-order now available!**
 
 **The new slidemount will slide sideways, with CNC aluminum brackets.**\
-**Please sign up for notification!** \
 [https://shop.beartech.ca/products/beartech-side-slidemount-c4](https://shop.beartech.ca/products/beartech-side-slidemount-c4?variant=52038271303861)
+
+#### C4 Side Slidemount - Pre-Order
+
+🚀 Pre-Orders Are Live! We expect to start shipping around **Christmas time**. Most orders should arrive in **early 2026**.
+
+Pricing Note: All base prices are in CAD ($54 CAD base). The USD prices listed below are estimates and may fluctuate slightly based on the daily exchange rate.
+
+#### 🔥 Pre-Order Combo Deals
+
+_Limited time offers. These discounts are only available during the pre-order period._
+
+*   1\. **The Ultimate Set (C4 Mount + Suction Rack + CPL Filter + IR Filter)**
+
+    * Regular Price: $140 USD
+    * Pre-Order Price: $84 USD
+
+    2\. **C4 Mount + Suction Rack**
+
+    * Regular Price: $93 USD
+    * Pre-Order Price: $67 USD
+
+    3\. **C4 Mount + CPL Filter + IR Filter**
+
+    * Regular Price: $97 USD
+    * Pre-Order Price: $69 USD
+
+    4\. **C4 Mount + CPL Filter**
+
+    * Regular Price: $82 USD
+    * Pre-Order Price: $62 USD
+
+    5\. **C4 Mount + IR Filter**
+
+    * Regular Price: $64 USD
+    * Pre-Order Price: $49 USD
+
+#### 💡 What are these add-ons? (Quick Guide)
+
+**Suction Rack**: A non-permanent mounting solution perfect for tinted windshield, rental cars or travel. It allows you to mount your device without using sticky tape on the windshield. It is specially redesigned for C4. It will be compatible with C4 Slidemount
+
+{% content-ref url="suction-rack.md" %}
+[suction-rack.md](suction-rack.md)
+{% endcontent-ref %}
+
+**CPL Filter (Circular Polarizer)**: Sunglasses for your Comma cameras. These filters reduce windshield glare and dashboard reflections, helping the OpenPilot model see the road more clearly in bright sunlight. _(Note: Not recommended if you have ceramic windshield tint)._\
+&#xNAN;_&#x68;ttps://docs.innoisle.com/beartech/cpl-filter_
+
+{% content-ref url="cpl-filter.md" %}
+[cpl-filter.md](cpl-filter.md)
+{% endcontent-ref %}
+
+**IR (Infrared) Filter**: A small filter that covers your car's rearview mirror sensor. It prevents the Comma device's night-vision light from confusing your auto-dimming mirror, ensuring your mirror still dims correctly at night.\
+https://docs.innoisle.com/beartech/ir-infrared-filter
+
+{% content-ref url="ir-infrared-filter.md" %}
+[ir-infrared-filter.md](ir-infrared-filter.md)
+{% endcontent-ref %}
+
+#### 🛠️ For Previous C3 Slidemount Owners (Limited Qty)
+
+_Please read carefully before choosing these options._
+
+Addon A: C3 Slidemount Convert Kit ($19 USD)
+
+* What it does: Converts your old C3 Slidemount into a C4 Slidemount.
+* Important: This is a permanent DIY modification. You will need to dismantle your old mount. Once converted, it will no longer work with your C3 device.
+* Who is this for? Only choose this if you are fully switching to C4 and will never need to mount your C3/C3X again.
+
+Addon B: C3 Device-Side Mount (Compatible with C4 Base) ($19 USD)
+
+* What it does: Allows you to mount a C3/C3X onto the new C4 Slidemount device side.
+* Requirement: You must also purchase a C4 Slidemount (or the Transfer Kit above) to use this.
+* Who is this for? Choose this if you want to use both a C3 and a C4 on the same vehicle.
+* _Includes: 1x Device-side mount for C3 (fits C4 rail)._
 
 
 
