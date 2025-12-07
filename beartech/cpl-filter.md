@@ -23,9 +23,11 @@ CPL Filter: [https://shop.retropilot.org/product/cpl-filter/](https://shop.retro
 
 ## Product Description
 
-### **CPL Filter Set for Comma 3 / Comma 3X**
+### **CPL Filter Set for Comma Devices**
 
 **Reduce Glare. Improve Vision. Enhance Model Performance.**
+
+**Suitable for C3, C3X, and C4**
 
 <div><figure><img src="../.gitbook/assets/pointing the filter.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/upright-1.JPG" alt=""><figcaption></figcaption></figure></div>
 
