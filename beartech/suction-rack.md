@@ -7,6 +7,8 @@ icon: globe-stand
 
 ## Where to buy
 
+**C3 & C3X version Suction Rack**
+
 Link to my Store:&#x20;
 
 Suction Rack: [https://shop.beartech.ca/products/suction-rack](https://shop.beartech.ca/products/suction-rack)
@@ -21,6 +23,14 @@ Suction Rack: [https://shop.retropilot.org/product/beartech-suction-rack/](https
 
 ***
 
+**C4 version Suction Rack**
+
+**Currently only available through pre-order with slidemount**
+
+[**https://shop.beartech.ca/products/beartech-side-slidemount-c4**](https://shop.beartech.ca/products/beartech-side-slidemount-c4?utm_source=copyToPasteBoard\&utm_medium=product-links\&utm_content=web)
+
+***
+
 ## Update:
 
 **1/4 screw thick comma mount adapter** (the adapter that allows sliding your Comma directly onto the suction rack) for Suction Rack and Device Stand is **now available**. \
@@ -32,11 +42,15 @@ It will only be send out **upon request**. Thank you.
 
 <div align="center"><figure><img src="../.gitbook/assets/3 (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-## Product Description
+***
+
+## Product Description For C3 & C3X Suction Rack
 
 **Suction Rack**
 
 **What you will receive:**
+
+**16 angle insert is no longer provided. 0 and 8 degrees is sufficient for all vehicles.**
 
 <figure><img src="../.gitbook/assets/parts.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -50,7 +64,7 @@ The Suction Rack is a versatile mounting solution designed for Comma 3 and Comma
 
 ### **Key Features:**
 
-* **Angle Adjustability (0°, 8°, 16°):**\
+* **Angle Adjustability (0°, 8°):**\
   The Suction Rack includes three interchangeable angle inserts, allowing users to adapt to different windshield slopes. Whether your vehicle has a nearly vertical windshield or a steep rake, you can achieve the optimal viewing angle for your comma device.
 * **Dual Suction Options:**\
   To provide flexibility for different use cases, the rack includes two types of suction cups:
@@ -65,7 +79,7 @@ The Suction Rack is a versatile mounting solution designed for Comma 3 and Comma
 ### **What is Included:**
 
 * 1× Suction Rack Base with Integrated Bubble Level
-* 3× Angle Inserts (0°, 8°, 16°)
+* 3× Angle Inserts (0°, 8°)
 * 1× Pair of Sticky Suction Cups
 * 1× Pair of Standard Suction Cups
 * 2× Decorative Star End Caps
@@ -84,7 +98,7 @@ The Suction Rack is a versatile mounting solution designed for Comma 3 and Comma
 
 1. Magmount
 
-If you already have a magmount set, you can remove the windshield mount from your windshield and install on the suction rack. \
+If you already have a magmount set, you can remove the windshield mount from your windshield and install it on the suction rack. \
 If you intend to use the suction rack for additional vehicle/ travel, you can get the Suction Rack + Magmount Windshield Mount option to use the rack on rental vehicles\
 Detailed description of magmount:
 
@@ -136,7 +150,7 @@ We offer several combinations of the suction rack and mounting kits to suit diff
 
 There are many possible combinations depending on your routine. Some users prefer having multiple mounts at home and in the car; others prioritize flexibility for frequent travel. If you’re unsure, start with one rack + mount set, then expand as your needs grow.
 
-##
+***
 
 ## Installation Guide
 
