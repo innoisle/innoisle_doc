@@ -5,6 +5,7 @@
 ## BearTech
 
 * [Side Slidemount C4 Description](beartech/slidemount-c4.md)
+* [Copy of Side Slidemount C4 Description](beartech/slidemount-c4-1.md)
 * [Magmount Description](beartech/magmount-c3.md)
 * [Magmount Installation Guide - After 2025Aug1st](beartech/magmount-installation.md)
 * [Magmount & Slidemount Installation Guide - before 2025Aug1st](beartech/magmount-installation-1.md)

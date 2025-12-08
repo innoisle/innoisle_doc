@@ -1,9 +1,10 @@
 ---
 description: 'Join our discord at: https://discord.innoisle.com/'
+hidden: true
 icon: magnet
 ---
 
-# Side Slidemount C4 Description
+# Copy of Side Slidemount C4 Description
 
 ## Description:
 
@@ -83,11 +84,18 @@ https://docs.innoisle.com/beartech/ir-infrared-filter
 
 _**Please read carefully before choosing these options.**_
 
-**Addon: C3 Slidemount Convert Kit** ($19 USD)
+**Addon A: C3 Slidemount Convert Kit** ($19 USD)
 
 * What it does: Converts your old C3 Slidemount into a C4 Slidemount.
 * Important: This is a permanent DIY modification. You will need to dismantle your old mount. Once converted, it will no longer work with your C3 device.
 * Who is this for? Only choose this if you are fully switching to C4 and will never need to mount your C3/C3X again.
+
+**Addon B: C3 Device-Side Mount (Compatible with C4 Base)** ($19 USD)
+
+* What it does: Allows you to mount a C3/C3X onto the new C4 Slidemount device side.
+* Requirement: You must also purchase a C4 Slidemount (or the Transfer Kit above) to use this.
+* Who is this for? Choose this if you want to use both a C3 and a C4 on the same vehicle.
+* _Includes: 1x Device-side mount for C3 (fits C4 rail)._
 
 
 
