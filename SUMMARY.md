@@ -5,12 +5,12 @@
 ## BearTech
 
 * [Side Slidemount C4 Description](beartech/slidemount-c4.md)
-* [Copy of Side Slidemount C4 Description](beartech/slidemount-c4-1.md)
-* [Magmount Description](beartech/magmount-c3.md)
+* [Side Slidemount (C4) Installation Guide](beartech/slidemount-c4-installation.md)
+* [Magmount (For C3 & C3X) Description](beartech/magmount-c3.md)
 * [Magmount Installation Guide - After 2025Aug1st](beartech/magmount-installation.md)
 * [Magmount & Slidemount Installation Guide - before 2025Aug1st](beartech/magmount-installation-1.md)
-* [Slidemount Description](beartech/slidemount-c3.md)
-* [Slidemount Installation Guide - After 2025Aug1st](beartech/slidemount-installation.md)
+* [Slidemount  (For C3 & C3X) Description](beartech/slidemount-c3.md)
+* [Slidemount (C3X) Installation Guide - After 2025Aug1st](beartech/slidemount-installation.md)
 * [SDSU Description and Installation Guide](beartech/sdsu-description-and-installation-guide.md)
 * [Harness and Harness Box Description](beartech/harness-and-harness-box-description.md)
 * [Comma Pedal Description and Installation Guide](beartech/comma-pedal-description-and-installation-guide.md)
