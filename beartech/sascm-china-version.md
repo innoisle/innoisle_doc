@@ -45,11 +45,12 @@ Note：
 
 国内的车，可能是SDGM也可能是ASCM，所以要问具体是什么线\
 如果现在是用的SDGM线束就不用重新买线束了, 如果现在用的是ASCM线束就需要换我们的ASCM plus线束因为原来的线束少一条网关连接和一对接头, 这个ASCM plus把少的连接加上了.\
-SDGM线束一般安装在驾驶位OBD接口的后面, 知道主动安全模块在哪的话就知道现在用的是什么线束了.
+SDGM线束一般安装在驾驶位OBD接口的后面, 知道主动安全模块（ascm module）在哪的话就知道现在用的是什么线束了.
 
 * Buick Envision (昂科威）2018 （with OP and ACC） - SDGM&#x20;
 * Buick Verano 威朗 2017（with OP and ACC）(与欧洲opal同款，北美没有类似车型）- SDGM - 不一定可以红绿灯-有可能不支持，在等确认
 * Buick Enclave (昂科旗）2019-2022 - SDGM
+* 别克君越 2020 有主动安全模块 - 在等确认
 
 ###
 
