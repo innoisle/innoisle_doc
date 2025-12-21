@@ -11,6 +11,8 @@ An updated Side Slidemount for the newly released C4!
 
 <div><figure><img src="../.gitbook/assets/Side slidemount-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Device side-1.jpg" alt=""><figcaption></figcaption></figure></div>
 
+<div><figure><img src="../.gitbook/assets/mount-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mount-2.jpg" alt=""><figcaption></figcaption></figure></div>
+
 #### Check out Erich's review on actual Comma 4!
 
 {% embed url="https://youtu.be/_5GPw4rPtOU" %}
@@ -141,11 +143,9 @@ Side Slidemount Set:
 
 **Installation guide**
 
-{% content-ref url="slidemount-installation.md" %}
-[slidemount-installation.md](slidemount-installation.md)
+{% content-ref url="slidemount-c4-installation.md" %}
+[slidemount-c4-installation.md](slidemount-c4-installation.md)
 {% endcontent-ref %}
-
-**Quick description and installation video**
 
 ***
 
@@ -153,9 +153,9 @@ Side Slidemount Set:
 
 **What is included in the Side Slidemount Set:**
 
-<div><figure><img src="../.gitbook/assets/slidemount set1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/slidemount set2.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/set-2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/set-1.jpg" alt=""><figcaption></figcaption></figure></div>
 
-**Slidemount Set:**\
+**Side Slidemount Set:**\
 1\. Slidemount Set Pack:\
 \- Device Side Mount x1\
 \- Windshield Side Mount x1\
@@ -165,30 +165,30 @@ Side Slidemount Set:
 \- 45cm Right Angle Head Type-C to Stright Type-C Cable\
 (Connect harness box and the Windshield Side Mount)\
 3\. VHB Tape pack\
-\- Cut to size 3M VHB Tape x2\
+\- Cut to size 3M VHB Tape x1\
 (Stick the Windshield Side Mount to Car Windshield)\
-\- Wet & Dry wipes x2\
+\- Wet & Dry wipes x1\
 (Clean the windshield before apply)\
-\- IPA wipe x2\
+\- IPA wipe x1\
 (Clean the windshield before apply)\
-\- Static film x2\
+\- Static film x1\
 (Stick to the windshield before sticking the VHB tape for easy removal in the future\
 ONLY stick to glass (no tint on the windshield)\
 If your local weather exceeds 40C (or 104F), static film is not recommended.\
 4\. Adhesion Promoter pack\
 \- Adhesion Promoter Wipe x2\
 (Enhance adhesion for non-glass surfaces, adhesion for dummy mount)\
-\- PE gloves x2\
-4\. Tightening Kit x1\
+\- PE gloves x1\
+5\. Tightening Kit x1\
 (Adjust set screw)\
-Allen Key x1\
-Set Scre x2
+\- Allen Key x1\
+\- Set Scre x5
 
 
 
-**What is included in Windshield Slidemount:**
+**What is included in Side Slidemount Windshield Only:**
 
-<div><figure><img src="../.gitbook/assets/windshield2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/windshield1.jpg" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/c4 - windshield only -1.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 1\. Windshield Slidemount Pack:\
 \- Windshield Side Mount x1\
@@ -196,6 +196,31 @@ Set Scre x2
 \- 45cm Right Angle Head Type-C to Stright Type-C Cable\
 (Connect harness box and the Windshield Side Mount)\
 3\. VHB Tape pack\
+\- Cut to size 3M VHB Tape x1\
+(Stick the Windshield Side Mount to Car Windshield)\
+\- Wet & Dry wipes x1\
+(Clean the windshield before apply)\
+\- IPA wipe x1\
+(Clean the windshield before apply)\
+\- Static film x1\
+(Stick to the windshield before sticking the VHB tape for easy removal in the future\
+ONLY stick to glass (no tint on the windshield)\
+If your local weather exceeds 40C (or 104F), static film is not recommended.\
+4\. Adhesion Promoter pack\
+\- Adhesion Promoter Wipe x2\
+(Enhance adhesion for non-glass surfaces, adhesion for dummy mount)\
+\- PE gloves x1
+
+
+
+**What is included in Side Slidemount Convert Kit:**
+
+<div align="left"><figure><img src="../.gitbook/assets/convert kit -1.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+1\. Slidemount Pack (no PCB version):\
+\- Device Side Mount (no PCB) x1 \
+\- Windshield Side Mount (no PCB)  x1\
+2\. VHB Tape pack X2\
 \- Cut to size 3M VHB Tape x2\
 (Stick the Windshield Side Mount to Car Windshield)\
 \- Wet & Dry wipes x2\
@@ -206,12 +231,32 @@ Set Scre x2
 (Stick to the windshield before sticking the VHB tape for easy removal in the future\
 ONLY stick to glass (no tint on the windshield)\
 If your local weather exceeds 40C (or 104F), static film is not recommended.\
-4\. Adhesion Promoter pack\
-\- Adhesion Promoter Wipe x2\
+4\. Adhesion Promoter pack X2\
+\- Adhesion Promoter Wipe x4\
 (Enhance adhesion for non-glass surfaces, adhesion for dummy mount)\
-\- PE gloves x2
+\- PE gloves x2\
+5\. Tightening Kit x1\
+(Adjust set screw)\
+\- Allen Key x1\
+\- Set Scre x5\
+6\. Installation Tool x1\
+\- Mini Phillips Screwdriver x1
 
 
+
+**What is included in the C3 Device-Side Mount for Slidemount C4(Compatible with C4 Base)** **:**
+
+<div align="left"><figure><img src="../.gitbook/assets/C3 device-1.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+1\. Device Side Mount:\
+\- Device Side Mount (with C3 compatible brackets) x1 \
+2\. Type C pack\
+\- 13cm Right Angle Head Type-C to Right Angle Head Type-C Cable\
+(Connect the comma device and the Device Side Mount)\
+3\. Tightening Kit x1\
+(Adjust set screw)\
+\- Allen Key x1\
+\- Set Scre x2
 
 ## Add-ons
 
