@@ -33,14 +33,39 @@ Suction Rack: [https://shop.retropilot.org/product/beartech-suction-rack/](https
 
 ## Update:
 
-**1/4 screw thick comma mount adapter** (the adapter that allows sliding your Comma directly onto the suction rack) for Suction Rack and Device Stand is **now available**. \
-It would allow using a suction rack without using a slidemount or magmount.\
-If you need that, please specify it in your suction rack order. \
-It will only be send out **upon request**. Thank you.
+***
 
-<div><figure><img src="../.gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1 (3).jpg" alt=""><figcaption></figcaption></figure></div>
+## Product Description For C4 Suction Rack
 
-<div align="center"><figure><img src="../.gitbook/assets/3 (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+**Suction Rack For C4**
+
+<div align="left"><figure><img src="../.gitbook/assets/IMG_2398.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
+
+**What it looks like after installation**&#x20;
+
+<div><figure><img src="../.gitbook/assets/0-4.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/0-2.jpg" alt=""><figcaption></figcaption></figure></div>
+
+**What is included for Suction Rack For C4:**
+
+
+
+**What is included for Suction Rack C3 & C4 Compatible Version:**
+
+
+
+## Suction Rack C4 Video Installation Guide
+
+
+
+
+
+
+
+
+
+
+
+
 
 ***
 
@@ -52,15 +77,26 @@ It will only be send out **upon request**. Thank you.
 
 **16 angle insert is no longer provided. 0 and 8 degrees is sufficient for all vehicles.**
 
-<figure><img src="../.gitbook/assets/parts.jpg" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/parts.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **What it looks like after installation**&#x20;
 
 <div><figure><img src="../.gitbook/assets/0-4.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/0-2.jpg" alt=""><figcaption></figcaption></figure></div>
 
-<div><figure><img src="../.gitbook/assets/0-1.JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/8-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/16-1.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/0-1.JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/8-1.jpg" alt=""><figcaption></figcaption></figure></div>
 
 The Suction Rack is a versatile mounting solution designed for Comma 3 and Comma 3X users who prefer a **non-permanent, reusable installation method**. Responding to high demand from the community, this rack allows you to securely mount your device without the need for VHB tape on your windshield. It’s ideal for drivers who frequently move their device between vehicles or use rental cars.
+
+If you do not want to use slidemount or magmount with suction rack, we also have **1/4 screw thick comma mount adapter** that can be requested with purchase.
+
+**1/4 screw thick comma mount adapter** (the adapter that allows sliding your Comma directly onto the suction rack) for Suction Rack and Device Stand is **now available**. \
+It would allow using a suction rack without using a slidemount or magmount.\
+If you need that, please specify it in your suction rack order. \
+It will only be send out **upon request**. Thank you.
+
+<div><figure><img src="../.gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1 (3).jpg" alt=""><figcaption></figcaption></figure></div>
+
+<div align="center"><figure><img src="../.gitbook/assets/3 (1).jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### **Key Features:**
 
@@ -152,7 +188,7 @@ There are many possible combinations depending on your routine. Some users prefe
 
 ***
 
-## Installation Guide
+### Suction Rack C3 Installation Guide
 
 <figure><img src="../.gitbook/assets/installation rack v1.png" alt=""><figcaption></figcaption></figure>
 
