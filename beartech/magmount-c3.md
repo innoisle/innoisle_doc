@@ -3,7 +3,7 @@ description: 'Join our discord at: https://discord.innoisle.com/'
 icon: magnet
 ---
 
-# Magmount Description
+# Magmount (For C3 & C3X) Description
 
 ## Description:
 
@@ -322,7 +322,7 @@ Magmount and accessories (angle wedge, Comma Mount Adapter): [ttps://shop.tlbb.c
    \- IPA wipe x2 (Clean the windshield before apply)\
    \- Static film x2 (Stick to the windshield before sticking the VHB tape for easy removal in the future ONLY stick to glass (no tint on the windshield). If the temperature in your area is above 40C (or 104F), static film is not recommended)
 
-<div align="left"><figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **What is included in the Comma Mount Adapter:**
 
@@ -340,7 +340,7 @@ Magmount and accessories (angle wedge, Comma Mount Adapter): [ttps://shop.tlbb.c
    \- IPA wipe x2 (Clean the windshield before apply)\
    \- Static film x2 (Stick to the windshield before sticking the VHB tape for easy removal in the future ONLY stick to glass (no tint on the windshield). If the temperature in your area is above 40C (or 104F), static film is not recommended)
 
-<div align="left"><figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 #### **What is included in the Magmount Cover B**
 

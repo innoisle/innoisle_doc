@@ -50,7 +50,7 @@ This is an example of installiong 2 set screws for the C3 Device-Side Mount (Com
 2. Warning: Apply the VHB tape to the slidemount, first before you stick it on the windshield. And apply the VHB in warm temp.\
    If you are reapplying the VHB tape, Clean the surface with isopropyl alcohol and ensure that no residue remains.
 3. **(Important)** The ideal application temperature for VHB is above 70°F or 21°C. The minimum application temperature is 50°F and 10°C. If the temperature is lower than the minimum required, you can try to heat up the application area before and after attaching the magmount. Use common sense when heating the application area and avoid overheating or leaving it unattended. The VHB also need the above minimum required temperature for curing. Please leave it at least 24 hours or 1.5x the curing time recommended by 3M. Below is a snippet of recommended bond time from the 3M datasheet.
-4. ![](../.gitbook/assets/image.png)
+4. ![](<../.gitbook/assets/image (1).png>)
 5. Take the Windshield Side Mount.
 6. Wipe the back of the Windshield Side Mount with the IPA wipe.
 7. Apply **adhesion promoter to every surface (except on glass)**  that the VHB is going to stick to and let it dry. (If you have windshield tint, please try it on a small area first, some tint does not do well with the adhesion promoter)

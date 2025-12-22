@@ -52,9 +52,17 @@ SDGM线束一般安装在驾驶位OBD接口的后面, 知道主动安全模块�
 * Buick Enclave (昂科旗）2019-2022 - SDGM
 * 别克君越 2020 有主动安全模块 - 在等确认
 
-###
+#### 回复：
 
+先问
 
+有没有装openpilot\
+有没有ascm模块（主动安全模块）\
+现在是怎么连接的什么配置
+
+功能：
+
+ascm或SDGM（根据车型分）是lkas （车道居中），sascm是acc （纵向控制）
 
 ## Installation Guide
 

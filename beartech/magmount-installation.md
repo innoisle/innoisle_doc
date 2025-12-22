@@ -37,7 +37,7 @@ Only tighten the set screw if the mount is loose on your comma device. By design
 2. Warning: Apply the VHB tape to the magmount, angle wedges or comma mount adapter first before you stick it on the windshield. And apply the VHB in warm temp.\
    If you are reapplying the VHB tape, Clean the surface with isopropyl alcohol and ensure that no residue remains.
 3. **(Important)** The ideal application temperature for VHB is above 70°F or 21°C. The minimum application temperature is 50°F and 10°C. If the temperature is lower than the minimum required, you can try to heat up the application area before and after attaching the magmount. Use common sense when heating the application area and avoid overheating or leaving it unattended. The VHB also need the above minimum required temperature for curing. Please leave it at least 24 hours or 1.5x the curing time recommended by 3M. Below is a snippet of recommended bond time from the 3M datasheet.
-4. ![](../.gitbook/assets/image.png)
+4. ![](<../.gitbook/assets/image (1).png>)
 5. Take the Windshield Side Mount and the Windshield Side Mount cover **(DO NOT open it up yet)**.
 6. Wipe the back of the Windshield Side Mount with the IPA wipe.
 7. **Apply adhesion promoter to every surface (except on glass)** that the VHB is going to stick to and let it dry. (If you have windshield tint, please try it on a small area first, some tint does not do well with the adhesion promoter)
@@ -59,7 +59,7 @@ Only tighten the set screw if the mount is loose on your comma device. By design
 6. Take the Windshield Side Mount and the Windshield Side Mount cover **(DO NOT open it up yet)**.
 7. See [#optional-prepare-your-magmount-only-if-you-redo-the-vhb](magmount-installation.md#optional-prepare-your-magmount-only-if-you-redo-the-vhb "mention")  applying VHB on Magmount. Remember to **clamp your mount** **and VHB** after you apply the VHB on the Magmount.
 8. **(Important)** The ideal application temperature for VHB is above 70°F or 21°C. The minimum application temperature is 50°F and 10°C. If the temperature is lower than the minimum required, you can try to heat up the application area before and after attaching the magmount. Use common sense when heating the application area and avoid overheating or leaving it unattended. The VHB also need the above minimum required temperature for curing. Please leave it at least 24 hours or 1.5x the curing time recommended by 3M. Below is a snippet of recommended bond time from the 3M datasheet.\
-   ![](../.gitbook/assets/image.png)
+   ![](<../.gitbook/assets/image (1).png>)
 9. If you are using an angle wedge, please **DO NOT DOUBLE LAYER the VHB** between the angle wedge and windshield mount. Double-layering might cause the mount to be unstable.\
    If there is VHB on both side of the angle wedge, peel one side off. And use adhesion promoter when attaching the windshield mount to the angle wedge.\
    So the setup should be: **VHB - Angle Wedge - VHB (Only one layer of VHB) - Windshield Mount**
