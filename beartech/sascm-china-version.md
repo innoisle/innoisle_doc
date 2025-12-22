@@ -12,6 +12,8 @@ icon: reel
 
 Cadillac CT5 all years (2020年才上市，全都不行）
 
+Cadillac CT6 2017 使用GM Harness，不能用pedal也不能用sascm，不支持ACC
+
 ***
 
 ## Supported Vehicle
