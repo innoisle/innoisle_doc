@@ -69,7 +69,7 @@ This is an example of installiong 2 set screws for the C3 Device-Side Mount (Com
 
 ### Slidemount C4 Device Slidemount with C3 bracket Installation Guide
 
-
+{% embed url="https://www.youtube.com/watch?v=Jl0PoZfI510" %}
 
 ***
 
