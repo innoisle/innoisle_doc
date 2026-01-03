@@ -31,41 +31,27 @@ Suction Rack: [https://shop.retropilot.org/product/beartech-suction-rack/](https
 
 ***
 
-## Update:
-
-***
-
 ## Product Description For C4 Suction Rack
-
-**Suction Rack For C4**
-
-<div align="left"><figure><img src="../.gitbook/assets/IMG_2398.JPG" alt="" width="375"><figcaption></figcaption></figure></div>
 
 **What it looks like after installation**&#x20;
 
-<div><figure><img src="../.gitbook/assets/0-4.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/0-2.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/surction rack C4 with slidemount -3.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/surction rack C4 with slidemount -1.jpg" alt=""><figcaption></figcaption></figure></div>
 
 **What is included for Suction Rack For C4:**
 
-
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **What is included for Suction Rack C3 & C4 Compatible Version:**
 
-
+<figure><img src="../.gitbook/assets/suction rack c3 c4.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Suction Rack C4 Video Installation Guide
 
+Part I - What is included\
+Part II - Installation Guide for C4\
+Part III - Installation Guide for C3
 
-
-
-
-
-
-
-
-
-
-
+{% embed url="https://youtu.be/viJFsPxpJ-c" %}
 
 ***
 
