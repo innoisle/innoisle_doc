@@ -51,7 +51,7 @@ SDGM线束一般安装在驾驶位OBD接口的后面, 知道主动安全模块�
 
 * Buick Envision (昂科威）2018 （with OP and ACC） - SDGM&#x20;
 * Buick Verano 威朗 2017（with OP and ACC）(与欧洲opal同款，北美没有类似车型）- SDGM - 不一定可以红绿灯-有可能不支持，在等确认-不愿意试了已退。也许是不支持的
-* Buick Enclave (昂科旗）2019-2022 - SDGM - 已确定能用，可以用dragonpilot和frogpilot， dragonpilot 版本-0.10.2/dp3/827f237/jan05
+* Buick Enclave (昂科旗）2019-2022 - SDGM C- 已确定能用，可以用dragonpilot和frogpilot， dragonpilot 版本-0.10.2/dp3/827f237/jan05
 * 别克君越 2020 有主动安全模块 - 在等确认
 
 #### 回复：
