@@ -49,12 +49,13 @@ For comparison about which branch to use:
 * Toyota Avalon Hybrid 2019-2021
 * Toyota Corolla 2017-2019
 * Toyota Highlander (and Hybird) 2017-2019
-* Toyota Prius 2016-2020
-* Toyota Prius Prime 2017-2020
+* Toyota Prius 2016-2020  (Pedal Optional: Pedal only helps in lowering the power draw in a standstill on Prius)
+* Toyota Prius Prime 2017-2020  (Pedal Optional: Pedal only helps in lowering the power draw in a standstill on Prius)
 * Toyota Prius V 2017
 * Toyota Rav4 (and Hybird) 2016-2018
 * Toyota Sienna 2018-2020
 * 2019 Toyota Kluger (Highlander name in Australia)
+* Toyota CHR Thailand version 2019 (with standard DSU)
 
 **Lexus:**
 
@@ -62,9 +63,21 @@ For comparison about which branch to use:
 * Lexus CT Hybrid 2017-2018
 * Lexus NX (and Hybird) 2018-2019
 * Lexus RX (and Hybird) 2016-2019
-* Lexus IS (200T) 2017-2019 - might work but not validated
+* Lexus IS (200T) 2017-2019 - does not work, but can work with DIY modification
+
+For Lexus vehicles, **add a pedal** if you encounter either of the occasions:&#x20;
+
+* 0-25mph acceleration still requires you to step on your gas pedal
+* The sng hack in the fork you use does not work for 0-25mph
 
 
+
+**Vehicles require CANfilter (NOT SDSU)**
+
+Toyota:\
+\- Toyota Camry\
+\- Toyota CHR\
+\- Toyota Rav4 2024
 
 ## Installation Guide
 

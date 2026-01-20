@@ -36,19 +36,27 @@ You will use openpilot longitudinal control instead of Toyota TSS-P ACC
 * Toyota Avalon 2016-2021
 * Toyota Avalon Hybrid 2019-2021
 * Toyota Corolla 2017-2019
-* Toyota Rav4 2016-2018
-* Toyota Prius 2016-2020 (Pedal Optional: Pedal only helps in lowering the power draw in a standstill on Prius)
-* Toyota Prius Prime 2017-2020 (Pedal Optional: Pedal only helps in lowering the power draw in a standstill on Prius)
+* Toyota Highlander (and Hybird) 2017-2019
+* Toyota Prius 2016-2020  (Pedal Optional: Pedal only helps in lowering the power draw in a standstill on Prius)
+* Toyota Prius Prime 2017-2020  (Pedal Optional: Pedal only helps in lowering the power draw in a standstill on Prius)
+* Toyota Prius V 2017
+* Toyota Rav4 (and Hybird) 2016-2018
+* Toyota Sienna 2018-2020
+* 2019 Toyota Kluger (Highlander name in Australia)
+* Toyota CHR Thailand version 2019 (with standard DSU)
+
+
 
 #### **Lexus:**
 
-* Lexus ES350 (and hybird)  2017-2018
-* Lexus CT Hybird 2017-2018 (pedal optional)
-* Lexus NX  (and hybird) 2018-2019 (pedal optional)
-* Lexus RX  (and hybird) 2016-2019 (pedal optional)
+* Lexus ES (and Hybird) 2017-2018
+* Lexus CT Hybrid 2017-2018
+* Lexus NX (and Hybird) 2018-2019
+* Lexus RX (and Hybird) 2016-2019
+* Lexus IS (200T) 2017-2019 - does not work, but can work with DIY modification
 * For Lexus vehicles, **add a pedal** if you encounter either of the occasions:&#x20;
-  * 0-25mph acceleration still requires you to step on your gas pedal
-  * The sng hack in the fork you use does not work for 0-25mph
+* 0-25mph acceleration still requires you to step on your gas pedal
+* The sng hack in the fork you use does not work for 0-25mph
 
 ***
 
