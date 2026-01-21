@@ -36,7 +36,11 @@ Only tighten the set screw if the mount is loose on your comma device. By design
    Please make sure you **apply the adhesion promoter** before applying the VHB.&#x20;
 2. Warning: Apply the VHB tape to the magmount, angle wedges or comma mount adapter first before you stick it on the windshield. And apply the VHB in warm temp.\
    If you are reapplying the VHB tape, Clean the surface with isopropyl alcohol and ensure that no residue remains.
-3. **(Important)** The ideal application temperature for VHB is above 70°F or 21°C. The minimum application temperature is 50°F and 10°C. If the temperature is lower than the minimum required, you can try to heat up the application area before and after attaching the magmount. Use common sense when heating the application area and avoid overheating or leaving it unattended. The VHB also need the above minimum required temperature for curing. Please leave it at least 24 hours or 1.5x the curing time recommended by 3M. Below is a snippet of recommended bond time from the 3M datasheet.
+3.  **(Important)**  The ideal application temperature for VHB tape is above 70°F (21°C), with a minimum requirement of 50°F (10°C).
+
+    If the temperature is below this minimum, please gently warm the application surface before and after attaching the MagMount. Exercise caution when heating the area to avoid overheating or damaging the surface.
+
+    Please note that VHB tape requires these temperatures to cure properly. Allow the adhesive to cure for at least 24 hours (or 1.5 times the standard curing time recommended by 3M). Refer to the 3M datasheet snippet below for recommended bond times.
 4. ![](<../.gitbook/assets/image (1).png>)
 5. Take the Windshield Side Mount and the Windshield Side Mount cover **(DO NOT open it up yet)**.
 6. Wipe the back of the Windshield Side Mount with the IPA wipe.
