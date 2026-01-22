@@ -37,17 +37,18 @@ There are **2 types of SDGM Harness**, SDGM A and SDGM B. Please make sure you c
 
 **SDGM A:**
 
-* Buick Enclave (2019)
+* Buick Enclave (2019-2024)
 * Buick Baby Enclave (CN)
-* Chevy Volt (2019)
-* Cadillac XT4 (2023)
+* Chevy Volt (2019) (with LKAS)
+* Cadillac XT4 (2021-2023)
+* Cadillac XT5 (2019-2024) (with ACC)
 * Chevy Traverse  (2022, 2023)
 * Chevy Malibu XL 2019
 
 **SDGM B:**
 
-* Cadillac XT6
-* Chevy Blazer 2022, 2024, 2025
+* Cadillac XT6 (before and including 2025)
+* Chevy Blazer 2022, 2025
 
 
 

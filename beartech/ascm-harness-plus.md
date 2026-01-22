@@ -27,6 +27,8 @@ ASCM Harness Set: [https://shop.retropilot.org/product/ascm-harness/](https://sh
 
 ## Product Description
 
+Usually, vehicles before 2019 will use ASCM harness.
+
 ASCM Harness Plus is for steering control \
 The "Plus" means it is ready to use with SASCM Module for Openpilot Longitudinal control.&#x20;
 

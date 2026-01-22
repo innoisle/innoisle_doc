@@ -52,7 +52,7 @@ description: What do you need for GM vehicles
 * Chevy Suburban
 * Chevy Equinox
 * Chevy Malibu without ACC
-* Cadillac XT5 2018, 2021
+* Cadillac XT5 2018-2024 (without ACC)
 * &#x20;(some other Cadillac models may apply too)
 
 ***
@@ -107,16 +107,17 @@ If you are using SDGM & SASCM, please use Kaofui fork to enjoy the best compatib
 
 **SDGM A:**
 
-* Buick Enclave (2019)
+* Buick Enclave (2019-2024)
 * Buick Baby Enclave (CN)
 * Chevy Volt (2019) (with LKAS)
-* Cadillac XT4 (2023)
+* Cadillac XT4 (2021-2023)
+* Cadillac XT5 (2019-2024) (with ACC)
 * Chevy Traverse  (2022, 2023)
 * Chevy Malibu XL 2019
 
 **SDGM B:**
 
-* Cadillac XT6
+* Cadillac XT6 (before and including 2025)
 * Chevy Blazer 2022, 2025
 
 ***
@@ -142,12 +143,12 @@ If you are using SDGM & SASCM, please use Kaofui fork to enjoy the best compatib
 * Chevy Volt (2016-2017)  （with Adaptive Cruise Control）
 * Chevy Volt (2018-2019) （with Adaptive Cruise Control）- _pedal optional for start from stop_
 * Acadia Denali （2018）
-* Buick Enclave
-* Cadillac XT4
+* Buick Enclave (2019-2024)
+* Cadillac XT4 (2021-2023)
 * Chevy Traverse  (2022-2023)
 * Buick Baby Enclave&#x20;
-* Cadillac XT5
-* Cadillac XT6&#x20;
+* Cadillac XT5 2019-2024 (with ACC)
+* Cadillac XT6 (before and including 2025)
 * Chevy Malibu XL
 
 
