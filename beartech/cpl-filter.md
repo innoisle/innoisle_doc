@@ -64,7 +64,7 @@ Results: As seen in the comparison photos, the Beartech CPL Filter eliminates th
 
 **Before applying CPL Filter:**
 
-<figure><img src="../.gitbook/assets/before.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/before (1).png" alt=""><figcaption></figcaption></figure>
 
 **After applying CPL Filter:**
 
