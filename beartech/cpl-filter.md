@@ -52,6 +52,26 @@ Upgrade your Comma 3 or Comma 3X with this custom CPL (Circular Polarizing Lens)
 
 ***
 
+#### Reducing Dashboard Glare Example&#x20;
+
+Why you need a CPL Filter: Sunlight reflecting off your dashboard can create a "ghost image" on your windshield, which can confuse vision-based systems and degrade video quality.
+
+**The Test:**\
+\- The Flower: Represents a vehicle or object on the road.\
+\- The Books: Represent the dashboard reflecting in the glass.
+
+Results: As seen in the comparison photos, the Beartech CPL Filter eliminates the distracting reflection of the dashboard (the books) while keeping the road ahead (the flower) perfectly clear. This ensures your Openpilot hardware has the cleanest possible "eye" on the road, especially in high-glare conditions like mid-day sun or driving toward the sunset.
+
+**Before applying CPL Filter:**
+
+<figure><img src="../.gitbook/assets/before.png" alt=""><figcaption></figcaption></figure>
+
+**After applying CPL Filter:**
+
+<figure><img src="../.gitbook/assets/after.png" alt=""><figcaption></figcaption></figure>
+
+***
+
 #### **Why CPL Filters Matter for Comma Devices:**
 
 CPL (Circular Polarizing Lens) filters work by **blocking polarized light**—the kind often caused by reflections on glass surfaces like your windshield. These reflections can confuse vision-based systems like OpenPilot, especially when they obscure key features like lane lines or nearby vehicles.
