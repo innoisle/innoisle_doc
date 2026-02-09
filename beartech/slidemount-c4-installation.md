@@ -65,6 +65,14 @@ This is an example of installiong 2 set screws for the C3 Device-Side Mount (Com
 
 ### Slidemount C4 Installation Guide
 
+We have released an updated **non-magnetic version of the SlideMount**. The installation process remains identical to the previous magnetic version; the only difference is the new "**Press to Unlock**" mechanism.
+
+#### New Mechanism Demo:
+
+{% embed url="https://youtube.com/shorts/LMLotMRdmhY" %}
+
+#### Full Installation Guide:
+
 {% embed url="https://www.youtube.com/watch?v=XY8hQ3MCp3k" %}
 
 ### Slidemount C4 Convert Kit Installation Guide
