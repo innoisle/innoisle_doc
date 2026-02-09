@@ -51,6 +51,7 @@ description: What do you need for GM vehicles
 * Chevy High Country
 * Chevy Silverado
 * GMC Sierra with ACC, 2020, 2021
+* GMC Yukon Denali (Before 2020) with LKAS & with or without ACC
 * Chevy Suburban
 * Chevy Equinox
 * Chevy Malibu without ACC
@@ -75,7 +76,7 @@ Please find more detailed information: [ASCM](../beartech/ascm-harness-plus.md)&
 #### GM:&#x20;
 
 * Chevy Volt (2017-2018)  （with Adaptive Cruise Control）- _pedal optional for start from stop_
-* Acadia Denali （2018）
+* GMC Acadia Denali （2018）
 * Chevy Malibu (Before 2018)
 * Regal TourX&#x20;
 * Cadillac ELR (2014) - _Possibly work_
@@ -144,7 +145,7 @@ If you are using SDGM & SASCM, please use Kaofui fork to enjoy the best compatib
 
 * Chevy Volt (2016-2017)  （with Adaptive Cruise Control）
 * Chevy Volt (2018-2019) （with Adaptive Cruise Control）- _pedal optional for start from stop_
-* Acadia Denali （2018）
+* GMC Acadia Denali （2018）
 * Buick Enclave (2019-2024)
 * Cadillac XT4 (2021-2023)
 * Chevy Traverse  (2022-2023)
