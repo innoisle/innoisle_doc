@@ -7,7 +7,15 @@ icon: magnet
 
 ## Description:
 
-An updated Side Slidemount for the newly released C4!
+New demo video for the no magnet version slidemount for C4:
+
+{% embed url="https://youtube.com/shorts/LMLotMRdmhY" %}
+
+**The product picture will come soon.**
+
+
+
+The Magnetic version of slidemount for C4
 
 <div><figure><img src="../.gitbook/assets/Side slidemount-1.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Device side-1.jpg" alt=""><figcaption></figcaption></figure></div>
 
