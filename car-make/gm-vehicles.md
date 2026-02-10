@@ -145,14 +145,19 @@ If you are using SDGM & SASCM, please use Kaofui fork to enjoy the best compatib
 
 * Chevy Volt (2016-2017)  （with Adaptive Cruise Control）
 * Chevy Volt (2018-2019) （with Adaptive Cruise Control）- _pedal optional for start from stop_
+* Chevy Traverse  (2022-2023)
+* Chevy Malibu (Before 2018)
+* Chevy Malibu XL (Before 2018)
 * GMC Acadia Denali （2018）
 * Buick Enclave (2019-2024)
-* Cadillac XT4 (2021-2023)
-* Chevy Traverse  (2022-2023)
 * Buick Baby Enclave&#x20;
+* Buick Regal TourX&#x20;
+* Cadillac XT4 (2021-2023)
 * Cadillac XT5 2019-2024 (with ACC)
 * Cadillac XT6 (before and including 2025)
-* Chevy Malibu XL
+* Cadillac ELR (2014) - _Possibly work_
+* Cadillac Escalade (2017-2020)  （with Adaptive Cruise Control）&#x20;
+* Cadillac Escalade ESV (2019-2020)  （with Adaptive Cruise Control）
 
 
 
