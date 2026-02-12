@@ -27,7 +27,7 @@ Comma released a new update for their official branch 0.9.7. SDSU will no longer
 
 You will use openpilot longitudinal control instead of Toyota TSS-P ACC
 
-Your vehicle needs to have ACC (so that you will have the DSU port that connects SDSU)
+Your vehicle needs to have **basic LKAS and ACC** (so that you will have the **DSU port** that connects SDSU)
 
 [SDSU](../beartech/sdsu-description-and-installation-guide.md) helps openpilot to gain longitudinal control. This will allow your openpilot the ability to accelerate from 20mph and slow down to 0mph. **SDSU will enable experimental mode.**
 
