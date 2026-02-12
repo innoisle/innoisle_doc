@@ -63,7 +63,10 @@ For comparison about which branch to use:
 * Lexus CT Hybrid 2017-2018
 * Lexus NX (and Hybird) 2018-2019
 * Lexus RX (and Hybird) 2016-2019
-* Lexus IS (200T) 2017-2019 - does not work, but can work with DIY modification
+* Lexus IS (200T) 2017-2020&#x20;
+* Lexus RC 2018-2021 not verified, but should work
+* Lexus GS 2016-2020 not verified, but should work
+*
 
 For Lexus vehicles, **add a pedal** if you encounter either of the occasions:&#x20;
 
